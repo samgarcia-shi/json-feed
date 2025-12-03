@@ -1,7 +1,120 @@
 {
     "@odata.context": "https://relcomms-prod-dagnegedescbeefs.b02.azurefd.net/api/v2/$metadata#Azure",
-    "@odata.count": 558,
+    "@odata.count": 562,
     "value": [
+        {
+            "id": "501668",
+            "productCategories": [
+                "AI \u002B machine learning",
+                "Internet of Things"
+            ],
+            "tags": [
+                "Retirements",
+                "Features"
+            ],
+            "products": [
+                "Azure Machine Learning"
+            ],
+            "generalAvailabilityDate": null,
+            "previewAvailabilityDate": null,
+            "privatePreviewAvailabilityDate": null,
+            "title": "Retirement: Remove dependency on these Azure ML SDKs before June 30, 2026",
+            "description": "\u003Cdiv style=\u0022\u0022\u003E\u003Cdiv style=\u0022margin: 0px; user-select: text; clear: both; cursor: text;\u0022\u003E\u003Cp style=\u0022margin: 0px 0px 10.6667px; user-select: text; overflow-wrap: break-word; font-kerning: none;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; line-height: 20.85px;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; line-height: normal; font-weight: 400;\u0022\u003EOn June 30, 2026,\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u202F\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EAzureML\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;SDK V1 will reach\u202F\u003C/span\u003E\u003C/span\u003E\u003Ca style=\u0022margin: 0px; user-select: text;\u0022 rel=\u0022noreferrer noopener\u0022 href=\u0022https://learn.microsoft.com/en-us/azure/machine-learning/introduction?view=azureml-api-1\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022none\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Hyperlink\u0022\u003Eend of life\u003C/span\u003E\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E. The following SDKs which work in tandem with the \u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EAzureML\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;SDK V1 will also be retired.\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u202F\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E\u003Cul style=\u0022\u0022\u003E\u003Cli style=\u0022user-select: text; clear: both; cursor: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-aria-level=\u00221\u0022 data-aria-posinset=\u00221\u0022 data-list-defn-props=\u0022{\u0026quot;335552541\u0026quot;:1,\u0026quot;335559685\u0026quot;:1080,\u0026quot;335559991\u0026quot;:360,\u0026quot;469769226\u0026quot;:\u0026quot;Symbol\u0026quot;,\u0026quot;469769242\u0026quot;:[8226],\u0026quot;469777803\u0026quot;:\u0026quot;left\u0026quot;,\u0026quot;469777804\u0026quot;:\u0026quot;\uF0B7\u0026quot;,\u0026quot;469777815\u0026quot;:\u0026quot;hybridMultilevel\u0026quot;}\u0022 data-listid=\u00227\u0022 data-font=\u0022Symbol\u0022 data-leveltext=\u0022\uF0B7\u0022\u003E\u003Cp style=\u0022margin: 0px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Eazureml\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E-train-core\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u202F\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/li\u003E\u003Cli style=\u0022user-select: text; clear: both; cursor: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-aria-level=\u00221\u0022 data-aria-posinset=\u00222\u0022 data-list-defn-props=\u0022{\u0026quot;335552541\u0026quot;:1,\u0026quot;335559685\u0026quot;:1080,\u0026quot;335559991\u0026quot;:360,\u0026quot;469769226\u0026quot;:\u0026quot;Symbol\u0026quot;,\u0026quot;469769242\u0026quot;:[8226],\u0026quot;469777803\u0026quot;:\u0026quot;left\u0026quot;,\u0026quot;469777804\u0026quot;:\u0026quot;\uF0B7\u0026quot;,\u0026quot;469777815\u0026quot;:\u0026quot;hybridMultilevel\u0026quot;}\u0022 data-listid=\u00227\u0022 data-font=\u0022Symbol\u0022 data-leveltext=\u0022\uF0B7\u0022\u003E\u003Cp style=\u0022margin: 0px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Eazureml\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E-pipeline\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u202F\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/li\u003E\u003Cli style=\u0022user-select: text; clear: both; cursor: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-aria-level=\u00221\u0022 data-aria-posinset=\u00223\u0022 data-list-defn-props=\u0022{\u0026quot;335552541\u0026quot;:1,\u0026quot;335559685\u0026quot;:1080,\u0026quot;335559991\u0026quot;:360,\u0026quot;469769226\u0026quot;:\u0026quot;Symbol\u0026quot;,\u0026quot;469769242\u0026quot;:[8226],\u0026quot;469777803\u0026quot;:\u0026quot;left\u0026quot;,\u0026quot;469777804\u0026quot;:\u0026quot;\uF0B7\u0026quot;,\u0026quot;469777815\u0026quot;:\u0026quot;hybridMultilevel\u0026quot;}\u0022 data-listid=\u00227\u0022 data-font=\u0022Symbol\u0022 data-leveltext=\u0022\uF0B7\u0022\u003E\u003Cp style=\u0022margin: 0px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Eazureml\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E-pipeline-core\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u202F\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/li\u003E\u003Cli style=\u0022user-select: text; clear: both; cursor: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-aria-level=\u00221\u0022 data-aria-posinset=\u00224\u0022 data-list-defn-props=\u0022{\u0026quot;335552541\u0026quot;:1,\u0026quot;335559685\u0026quot;:1080,\u0026quot;335559991\u0026quot;:360,\u0026quot;469769226\u0026quot;:\u0026quot;Symbol\u0026quot;,\u0026quot;469769242\u0026quot;:[8226],\u0026quot;469777803\u0026quot;:\u0026quot;left\u0026quot;,\u0026quot;469777804\u0026quot;:\u0026quot;\uF0B7\u0026quot;,\u0026quot;469777815\u0026quot;:\u0026quot;hybridMultilevel\u0026quot;}\u0022 data-listid=\u00227\u0022 data-font=\u0022Symbol\u0022 data-leveltext=\u0022\uF0B7\u0022\u003E\u003Cp style=\u0022margin: 0px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Eazureml\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E-pipeline-internal\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u202F\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/li\u003E\u003Cli style=\u0022user-select: text; clear: both; cursor: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-aria-level=\u00221\u0022 data-aria-posinset=\u00225\u0022 data-list-defn-props=\u0022{\u0026quot;335552541\u0026quot;:1,\u0026quot;335559685\u0026quot;:1080,\u0026quot;335559991\u0026quot;:360,\u0026quot;469769226\u0026quot;:\u0026quot;Symbol\u0026quot;,\u0026quot;469769242\u0026quot;:[8226],\u0026quot;469777803\u0026quot;:\u0026quot;left\u0026quot;,\u0026quot;469777804\u0026quot;:\u0026quot;\uF0B7\u0026quot;,\u0026quot;469777815\u0026quot;:\u0026quot;hybridMultilevel\u0026quot;}\u0022 data-listid=\u00227\u0022 data-font=\u0022Symbol\u0022 data-leveltext=\u0022\uF0B7\u0022\u003E\u003Cp style=\u0022margin: 0px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Eazureml\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E-pipeline-steps\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u202F\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cdiv style=\u0022margin: 0px; user-select: text; clear: both; cursor: text;\u0022\u003E\u003Cp style=\u0022margin: 0px 0px 10.6667px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EAfter \u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EJune 30, 2026\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E, you can continue to use these SDKs, however they will not be supported and may stop working without notice.\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u202F\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E\u003Cdiv style=\u0022margin: 0px; user-select: text; clear: both; cursor: text;\u0022\u003E\u003Cp style=\u0022margin: 0px 0px 10.6667px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt;\u0022\u003E\u003Cb\u003ERecommended action\u003C/b\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u202F\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E\u003Cdiv style=\u0022margin: 0px; user-select: text; clear: both; cursor: text;\u0022\u003E\u003Cp style=\u0022margin: 0px 0px 10.6667px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003ETo ensure that you are using a supported SDK for your workloads, it is recommended to migrate to \u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EAzureML\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;SDK V1 \u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Ebefore 30 Jun 2026.\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u202F\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E\u003Cdiv style=\u0022margin: 0px; user-select: text; clear: both; cursor: text;\u0022\u003E\u003Cp style=\u0022margin: 0px 0px 10.6667px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003ED\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Eetailed guidance is documented \u003C/span\u003E\u003C/span\u003E\u003Ca style=\u0022margin: 0px; user-select: text;\u0022 rel=\u0022noreferrer noopener\u0022 href=\u0022https://learn.microsoft.com/en-us/azure/machine-learning/how-to-migrate-from-v1?view=azureml-api-2\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022none\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Hyperlink\u0022\u003Ehere\u003C/span\u003E\u003C/span\u003E\u003C/a\u003E\u003Cfont face=\u0022Arial\u0022\u003E\u003Cspan style=\u0022font-size: 13.3333px;\u0022\u003E.\u003C/span\u003E\u003C/font\u003E\u003C/p\u003E\u003C/div\u003E\u003Cdiv style=\u0022margin: 0px; user-select: text; clear: both; cursor: text;\u0022\u003E\u003Cp style=\u0022margin: 0px 0px 10.6667px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cb\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt;\u0022\u003EHelp and support\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt;\u0022\u003E\u202F\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt;\u0022 data-ccp-props=\u0022{}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/b\u003E\u003C/p\u003E\u003C/div\u003E\u003Cdiv style=\u0022margin: 0px; user-select: text; clear: both; cursor: text;\u0022\u003E\u003Cp style=\u0022margin: 0px 0px 10.6667px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EIf you have questions, get answers from community experts in\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u202F\u003C/span\u003E\u003C/span\u003E\u003Ca style=\u0022margin: 0px; user-select: text;\u0022 rel=\u0022noreferrer noopener\u0022 href=\u0022https://learn.microsoft.com/answers/tags/94/azure-virtual-machines\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022none\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Hyperlink\u0022\u003EMicrosoft Q\u0026amp;A\u003C/span\u003E\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E. If you have a support plan and you need technical help, create a\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u202F\u003C/span\u003E\u003C/span\u003E\u003Ca style=\u0022margin: 0px; user-select: text;\u0022 rel=\u0022noreferrer noopener\u0022 href=\u0022https://learn.microsoft.com/azure/azure-portal/supportability/how-to-create-azure-support-request\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022none\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Hyperlink\u0022\u003Esupport case\u003C/span\u003E\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E.\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u202F\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E\u003Cdiv style=\u0022margin: 0px; user-select: text; clear: both; cursor: text;\u0022\u003E\u003Cp style=\u0022margin: 0px 0px 10.6667px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003ELinks provided \u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Eherein\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;may take you to a third-party website and are provided for convenience only. Third-party websites are subject to the third-party\u0027s terms and privacy statements.\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u202F\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E\u003Cdiv style=\u0022margin: 0px; user-select: text; clear: both; cursor: text;\u0022\u003E\u003Cp style=\u0022margin: 0px 0px 10.6667px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003ELearn more about service retirements that may \u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Eimpact\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;your resources in the\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u202F\u003C/span\u003E\u003C/span\u003E\u003Ca style=\u0022margin: 0px; user-select: text;\u0022 rel=\u0022noreferrer noopener\u0022 href=\u0022https://aka.ms/ServicesRetirementWorkbook\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022none\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Hyperlink\u0022\u003EAzure Retirement Workbook\u003C/span\u003E\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E. Please note that retirements may not be visible in the workbook for up to two weeks after being announced.\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E\u003Cbr\u003E\u003C/div\u003E",
+            "status": null,
+            "created": "2025-12-03T21:00:12.7981410Z",
+            "modified": "2025-12-03T21:00:12.7981410Z",
+            "locale": null,
+            "availabilities": [
+                {
+                    "ring": "Retirement",
+                    "year": 2026,
+                    "month": "June"
+                }
+            ]
+        },
+        {
+            "id": "501658",
+            "productCategories": [
+                "AI \u002B machine learning",
+                "Internet of Things"
+            ],
+            "tags": [
+                "Retirements"
+            ],
+            "products": [
+                "Azure Machine Learning"
+            ],
+            "generalAvailabilityDate": null,
+            "previewAvailabilityDate": null,
+            "privatePreviewAvailabilityDate": null,
+            "title": "Retirement: Migrate to dedicated VM for your compute clusters",
+            "description": "\u003Cdiv style=\u0022\u0022\u003E\u003Cdiv style=\u0022margin: 0px; user-select: text; clear: both; cursor: text;\u0022\u003E\u003Cp style=\u0022margin: 0px 0px 10.6667px; user-select: text; overflow-wrap: break-word; font-kerning: none;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; line-height: 20.85px;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; line-height: normal; font-weight: 400;\u0022\u003EOn \u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; line-height: normal; font-weight: 400;\u0022\u003ESeptember 30, \u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E2025\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E, \u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003ELow-Priority VM will reach\u202F\u003C/span\u003E\u003C/span\u003E\u003Ca style=\u0022margin: 0px; user-select: text;\u0022 rel=\u0022noreferrer noopener\u0022 href=\u0022https://azure.microsoft.com/en-us/updates?id=azure-batch-low-priority-vms-will-be-retired-on-30-september-2025\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022none\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Hyperlink\u0022\u003Eend of life\u003C/span\u003E\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E. However, \u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Eyou\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;will continue to be supported on Azure Machine Learning \u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Eun\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Etil\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E March 31, 2026\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E.\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u202F\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E\u003Cdiv style=\u0022margin: 0px; user-select: text; clear: both; cursor: text;\u0022\u003E\u003Cp style=\u0022margin: 0px 0px 10.6667px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003ETo ensure that your clusters are not automatically scaled down it is recommended to migrate to dedicated VMs before that date.\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u202F\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E\u003Cdiv style=\u0022margin: 0px; user-select: text; clear: both; cursor: text;\u0022\u003E\u003Cp style=\u0022margin: 0px 0px 10.6667px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EAfter March 31, 2026, \u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Eyou\u0027ll\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;not be able to use your clusters with low-priority VM.\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u202F\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E\u003Cdiv style=\u0022margin: 0px; user-select: text; clear: both; cursor: text;\u0022\u003E\u003Cp style=\u0022margin: 0px 0px 10.6667px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin:0px;user-select:text\u0022\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin: 0px 0px 10.6667px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cb\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt;\u0022\u003ERequired action\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt;\u0022\u003E\u202F\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt;\u0022 data-ccp-props=\u0022{}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/b\u003E\u003C/p\u003E\u003C/div\u003E\u003Cdiv style=\u0022margin: 0px; user-select: text; clear: both; cursor: text;\u0022\u003E\u003Cp style=\u0022margin: 0px 0px 10.6667px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003ETo ensure \u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Eyou\u0027re\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;using a supported cluster, you can recreate your low-priority VM clusters with dedicated VM\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u202F\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Ebefore March 31, 2026.\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u202F\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E\u003Cdiv style=\u0022margin: 0px; user-select: text; clear: both; cursor: text;\u0022\u003E\u003Cp style=\u0022margin: 0px 0px 10.6667px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EDetailed guidance is documented \u003C/span\u003E\u003C/span\u003E\u003Ca style=\u0022margin: 0px; user-select: text;\u0022 rel=\u0022noreferrer noopener\u0022 href=\u0022https://learn.microsoft.com/en-us/azure/machine-learning/how-to-create-attach-compute-cluster?view=azureml-api-2\u0026amp;tabs=azure-studio#create\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022none\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Hyperlink\u0022\u003Ehere\u003C/span\u003E\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; box-shadow: rgb(66, 66, 66) -1px 0px 0px 0px !important; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E\u003Cdiv style=\u0022margin: 0px; user-select: text; clear: both; cursor: text;\u0022\u003E\u003Cp style=\u0022margin: 0px 0px 10.6667px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cb\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt;\u0022\u003EHelp and support\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt;\u0022\u003E\u202F\u003C/span\u003E\u003C/span\u003E\u003C/b\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E\u003Cdiv style=\u0022margin: 0px; user-select: text; clear: both; cursor: text;\u0022\u003E\u003Cp style=\u0022margin: 0px 0px 10.6667px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EIf you have questions, get answers from community experts in\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u202F\u003C/span\u003E\u003C/span\u003E\u003Ca style=\u0022margin: 0px; user-select: text;\u0022 rel=\u0022noreferrer noopener\u0022 href=\u0022https://learn.microsoft.com/answers/tags/94/azure-virtual-machines\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022none\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Hyperlink\u0022\u003EMicrosoft Q\u0026amp;A\u003C/span\u003E\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E. If you have a support plan and you need technical help, create a\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u202F\u003C/span\u003E\u003C/span\u003E\u003Ca style=\u0022margin: 0px; user-select: text;\u0022 rel=\u0022noreferrer noopener\u0022 href=\u0022https://learn.microsoft.com/azure/azure-portal/supportability/how-to-create-azure-support-request\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022none\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Hyperlink\u0022\u003Esupport case\u003C/span\u003E\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E.\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u202F\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E\u003Cdiv style=\u0022margin: 0px; user-select: text; clear: both; cursor: text;\u0022\u003E\u003Cp style=\u0022margin: 0px 0px 10.6667px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003ELinks provided \u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Eherein\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;may take you to a third-party website and are provided for convenience only. Third-party websites are subject to the third-party\u0027s terms and privacy statements.\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u202F\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E\u003Cdiv style=\u0022margin: 0px; user-select: text; clear: both; cursor: text;\u0022\u003E\u003Cp style=\u0022margin: 0px 0px 10.6667px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003ELearn more about service retirements that may \u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Eimpact\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;your resources in the\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u202F\u003C/span\u003E\u003C/span\u003E\u003Ca style=\u0022margin: 0px; user-select: text;\u0022 rel=\u0022noreferrer noopener\u0022 href=\u0022https://aka.ms/ServicesRetirementWorkbook\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022none\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Hyperlink\u0022\u003EAzure Retirement Workbook\u003C/span\u003E\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-IN\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E. Please note that retirements may not be visible in the workbook for up to two weeks after being announced.\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u202F\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E\u003Cbr\u003E\u003C/div\u003E",
+            "status": null,
+            "created": "2025-11-21T18:45:18.2393356Z",
+            "modified": "2025-11-21T18:45:18.2393356Z",
+            "locale": null,
+            "availabilities": [
+                {
+                    "ring": "Retirement",
+                    "year": 2026,
+                    "month": "March"
+                }
+            ]
+        },
+        {
+            "id": "509686",
+            "productCategories": [
+                "Compute",
+                "Mobile",
+                "Web"
+            ],
+            "tags": [
+                "Retirements"
+            ],
+            "products": [
+                "App Service"
+            ],
+            "generalAvailabilityDate": null,
+            "previewAvailabilityDate": null,
+            "privatePreviewAvailabilityDate": null,
+            "title": "Retirement: Support for Python 3.10 ends on October 1st, 2026",
+            "description": "\u003Cdiv style=\u0022\u0022\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; color: rgb(0, 0, 0);\u0022\u003EOn \u003C/span\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; color: rgb(0, 0, 0);\u0022\u003EOctober 1, 2026\u003C/span\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; color: rgb(0, 0, 0);\u0022\u003E\u0026nbsp;extended\nsupport for Python 3.10\u003C/span\u003E\u003Cspan style=\u0022color: rgb(0, 0, 0);\u0022\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; color: rgb(0, 0, 0);\u0022\u003Ewill end.\u003C/span\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; color: rgb(0, 0, 0);\u0022\u003E Your\napps that are hosted on App Service will continue to run, but security updates will\nno longer be available, and we\u2019ll no longer provide customer service for \u003C/span\u003E\u003Cspan style=\u0022color: rgb(0, 0, 0);\u0022\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt;\u0022\u003EPython 3.10\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; color: rgb(0, 0, 0);\u0022\u003E. Learn more about \u003C/span\u003E\u003Ca href=\u0022https://learn.microsoft.com/azure/app-service/language-support-policy\u0022\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt;\u0022\u003EApp Service language support\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; color: rgb(0, 0, 0);\u0022\u003E.\u003C/span\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; color: rgb(0, 0, 0);\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/div\u003E\u003Cdiv style=\u0022\u0022\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; color: rgb(0, 0, 0);\u0022\u003E\u003Cbr\u003E\u003C/span\u003E\u003C/div\u003E\u003Cp style=\u0022margin: 0in 0in 8pt;\u0022\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt;\u0022\u003E\u003Cb\u003ERequired\naction\u0026nbsp;\u003C/b\u003E\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin: 0in 0in 8pt;\u0022\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003ETo avoid\npotential security vulnerabilities and minimize risk for your App Service apps,\u0026nbsp;\u003C/span\u003E\u003Ca href=\u0022https://aka.ms/pythonsupport\u0022\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Efollow the steps to upgrade your app\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E \u003C/span\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Eto \u003C/span\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EPython 3.11\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Ebefore \u003C/span\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EOctober 1, 2026\u003C/span\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E.\u003C/span\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u0026nbsp;\u003C/span\u003E\u003C/p\u003E",
+            "status": null,
+            "created": "2025-11-14T21:15:14.5052991Z",
+            "modified": "2025-11-14T21:15:14.5052991Z",
+            "locale": null,
+            "availabilities": [
+                {
+                    "ring": "Retirement",
+                    "year": 2026,
+                    "month": "October"
+                }
+            ]
+        },
+        {
+            "id": "499906",
+            "productCategories": [],
+            "tags": [
+                "Retirements"
+            ],
+            "products": [],
+            "generalAvailabilityDate": null,
+            "previewAvailabilityDate": null,
+            "privatePreviewAvailabilityDate": null,
+            "title": "Retirement: Windows Server 2022 on Azure Kubernetes Service enabled by Azure Arc",
+            "description": "\u003Cdiv style=\u0022font-family: Arial; font-size: 10pt;\u0022\u003EAnnouncing the\u0026nbsp; retirement of Windows Server 2022 on Azure Kubernetes Service enabled by Azure Arc in October 2026.\u0026nbsp;\u003Cbr\u003E\u003C/div\u003E",
+            "status": null,
+            "created": "2025-11-14T18:00:13.7355821Z",
+            "modified": "2025-11-14T18:00:13.7355821Z",
+            "locale": null,
+            "availabilities": [
+                {
+                    "ring": "Retirement",
+                    "year": 2024,
+                    "month": "January"
+                }
+            ]
+        },
         {
             "id": "502957",
             "productCategories": [
@@ -71,13 +184,13 @@
                 "Retirements"
             ],
             "products": [
-                "Azure AI Foundry"
+                "Microsoft Foundry"
             ],
             "generalAvailabilityDate": null,
             "previewAvailabilityDate": null,
             "privatePreviewAvailabilityDate": null,
             "title": "Retirement: Azure Computer Vision \u2013 Image Analysis will be retired on September 25, 2028 ",
-            "description": "\u003Cdiv style=\u0022\u0022\u003E\u003Cdiv style=\u0022margin: 0px; user-select: text; clear: both; cursor: text;\u0022\u003E\u003Cp style=\u0022margin: 16px 0px; user-select: text; overflow-wrap: break-word; font-kerning: none;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; line-height: 23.7417px;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; line-height: normal; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EMicrosoft is announcing the planned retirement of\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; line-height: normal; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; line-height: normal; font-weight: 400;\u0022\u003Ethe\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; line-height: normal; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; line-height: normal; font-weight: 400;\u0022\u003EAzure\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; line-height: normal; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; line-height: normal; font-weight: 400;\u0022\u003EComputer Vision \u2013 Image Analysis service\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; line-height: normal; font-weight: 400;\u0022\u003E.\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; line-height: normal; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; display: inline-block; width: 0px;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; display: inline-block; white-space: pre !important; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\t\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{\u0026quot;335559738\u0026quot;:240,\u0026quot;335559739\u0026quot;:240}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E\u003Cdiv style=\u0022margin: 0px; user-select: text;\u0022\u003E\u003Cdiv style=\u0022margin:0px;user-select:text;clear:both;cursor:text\u0022\u003E\u003Cp style=\u0022margin: 16px 0px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EMicrosoft will provide full support for all existing Azure\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EComputer Vision\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u2013 Image Analysis\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Ecustomers until 9\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E/25\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E/2028.\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EDuring this support window, customers are encouraged to begin planning and executing their transition to\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Eone of the following Azure products. Your product transition plan will depend on the specific use cases for Image Analysis.\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{\u0026quot;335559738\u0026quot;:240,\u0026quot;335559739\u0026quot;:240}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E\u003Cul\u003E\u003Cli style=\u0022user-select: text; clear: both; cursor: text;\u0022 data-aria-level=\u00221\u0022 data-aria-posinset=\u00221\u0022 data-list-defn-props=\u0022{\u0026quot;335552541\u0026quot;:1,\u0026quot;335559685\u0026quot;:790,\u0026quot;335559991\u0026quot;:360,\u0026quot;469769226\u0026quot;:\u0026quot;Symbol\u0026quot;,\u0026quot;469769242\u0026quot;:[8226],\u0026quot;469777803\u0026quot;:\u0026quot;left\u0026quot;,\u0026quot;469777804\u0026quot;:\u0026quot;\uF0B7\u0026quot;,\u0026quot;469777815\u0026quot;:\u0026quot;hybridMultilevel\u0026quot;}\u0022 data-listid=\u00222\u0022 data-font=\u0022Symbol\u0022 data-leveltext=\u0022\uF0B7\u0022\u003E\u003Cp style=\u0022margin: 0px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EFor OCR and Read capabilities, utilize\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/span\u003E\u003Ca style=\u0022margin: 0px; user-select: text;\u0022 rel=\u0022noreferrer noopener\u0022 href=\u0022https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/read?view=doc-intel-4.0.0\u0026amp;tabs=sample-code\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022none\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Hyperlink\u0022\u003EDocument Intelligence\u003C/span\u003E\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{\u0026quot;335559738\u0026quot;:240,\u0026quot;335559739\u0026quot;:240}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/li\u003E\u003Cli style=\u0022user-select: text; clear: both; cursor: text;\u0022 data-aria-level=\u00221\u0022 data-aria-posinset=\u00222\u0022 data-list-defn-props=\u0022{\u0026quot;335552541\u0026quot;:1,\u0026quot;335559685\u0026quot;:790,\u0026quot;335559991\u0026quot;:360,\u0026quot;469769226\u0026quot;:\u0026quot;Symbol\u0026quot;,\u0026quot;469769242\u0026quot;:[8226],\u0026quot;469777803\u0026quot;:\u0026quot;left\u0026quot;,\u0026quot;469777804\u0026quot;:\u0026quot;\uF0B7\u0026quot;,\u0026quot;469777815\u0026quot;:\u0026quot;hybridMultilevel\u0026quot;}\u0022 data-listid=\u00222\u0022 data-font=\u0022Symbol\u0022 data-leveltext=\u0022\uF0B7\u0022\u003E\u003Cp style=\u0022margin: 0px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EFor Face scenarios, use the\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/span\u003E\u003Ca style=\u0022margin: 0px; user-select: text;\u0022 rel=\u0022noreferrer noopener\u0022 href=\u0022https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/overview-identity\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022none\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Hyperlink\u0022\u003EFace API\u003C/span\u003E\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{\u0026quot;335559738\u0026quot;:240,\u0026quot;335559739\u0026quot;:240}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/li\u003E\u003Cli style=\u0022user-select: text; clear: both; cursor: text;\u0022 data-aria-level=\u00221\u0022 data-aria-posinset=\u00223\u0022 data-list-defn-props=\u0022{\u0026quot;335552541\u0026quot;:1,\u0026quot;335559685\u0026quot;:790,\u0026quot;335559991\u0026quot;:360,\u0026quot;469769226\u0026quot;:\u0026quot;Symbol\u0026quot;,\u0026quot;469769242\u0026quot;:[8226],\u0026quot;469777803\u0026quot;:\u0026quot;left\u0026quot;,\u0026quot;469777804\u0026quot;:\u0026quot;\uF0B7\u0026quot;,\u0026quot;469777815\u0026quot;:\u0026quot;hybridMultilevel\u0026quot;}\u0022 data-listid=\u00222\u0022 data-font=\u0022Symbol\u0022 data-leveltext=\u0022\uF0B7\u0022\u003E\u003Cp style=\u0022margin: 0px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EFor other Computer Vision scenarios,\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Eutilize\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Ethe\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/span\u003E\u003Ca style=\u0022margin: 0px; user-select: text;\u0022 rel=\u0022noreferrer noopener\u0022 href=\u0022https://ai.azure.com/catalog/models\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022none\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Hyperlink\u0022\u003EGPT model series found in the Azure AI Foundry\u003C/span\u003E\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{\u0026quot;335559738\u0026quot;:240,\u0026quot;335559739\u0026quot;:240}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/li\u003E\u003Cli style=\u0022user-select: text; clear: both; cursor: text;\u0022 data-aria-level=\u00221\u0022 data-aria-posinset=\u00224\u0022 data-list-defn-props=\u0022{\u0026quot;335552541\u0026quot;:1,\u0026quot;335559685\u0026quot;:790,\u0026quot;335559991\u0026quot;:360,\u0026quot;469769226\u0026quot;:\u0026quot;Symbol\u0026quot;,\u0026quot;469769242\u0026quot;:[8226],\u0026quot;469777803\u0026quot;:\u0026quot;left\u0026quot;,\u0026quot;469777804\u0026quot;:\u0026quot;\uF0B7\u0026quot;,\u0026quot;469777815\u0026quot;:\u0026quot;hybridMultilevel\u0026quot;}\u0022 data-listid=\u00222\u0022 data-font=\u0022Symbol\u0022 data-leveltext=\u0022\uF0B7\u0022\u003E\u003Cp style=\u0022margin: 0px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EAzure AI is offering a new product currently in preview,\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/span\u003E\u003Ca style=\u0022margin: 0px; user-select: text;\u0022 rel=\u0022noreferrer noopener\u0022 href=\u0022https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/overview\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022none\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Hyperlink\u0022\u003EAzure AI Content Understanding\u003C/span\u003E\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E, that\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Eis powered by LLMs\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Eand\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Ealso\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Esupports many\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Eimage\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Eanalysis use cases\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{\u0026quot;335559738\u0026quot;:240,\u0026quot;335559739\u0026quot;:240}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/li\u003E\u003Cli style=\u0022user-select: text; clear: both; cursor: text;\u0022 data-aria-level=\u00221\u0022 data-aria-posinset=\u00225\u0022 data-list-defn-props=\u0022{\u0026quot;335552541\u0026quot;:1,\u0026quot;335559685\u0026quot;:790,\u0026quot;335559991\u0026quot;:360,\u0026quot;469769226\u0026quot;:\u0026quot;Symbol\u0026quot;,\u0026quot;469769242\u0026quot;:[8226],\u0026quot;469777803\u0026quot;:\u0026quot;left\u0026quot;,\u0026quot;469777804\u0026quot;:\u0026quot;\uF0B7\u0026quot;,\u0026quot;469777815\u0026quot;:\u0026quot;hybridMultilevel\u0026quot;}\u0022 data-listid=\u00222\u0022 data-font=\u0022Symbol\u0022 data-leveltext=\u0022\uF0B7\u0022\u003E\u003Cp style=\u0022margin: 0px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003ESee the\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/span\u003E\u003Ca style=\u0022margin: 0px; user-select: text;\u0022 rel=\u0022noreferrer noopener\u0022 href=\u0022https://aka.ms/computer-vision-migration\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022none\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Hyperlink\u0022\u003EAzure Computer Vision\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Hyperlink\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Hyperlink\u0022\u003E\u2013 Image Analysis\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Hyperlink\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Hyperlink\u0022\u003Edocumentation\u003C/span\u003E\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Efor more information on your specific use case\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{\u0026quot;335559738\u0026quot;:240,\u0026quot;335559739\u0026quot;:240}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cbr\u003E\u003C/div\u003E",
+            "description": "\u003Cdiv style=\u0022\u0022\u003E\u003Cdiv style=\u0022margin: 0px; user-select: text; clear: both; cursor: text;\u0022\u003E\u003Cp style=\u0022margin: 16px 0px; user-select: text; overflow-wrap: break-word; font-kerning: none;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; line-height: 23.7417px;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; line-height: normal; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EMicrosoft is announcing the planned retirement of\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; line-height: normal; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; line-height: normal; font-weight: 400;\u0022\u003Ethe\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; line-height: normal; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; line-height: normal; font-weight: 400;\u0022\u003EAzure\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; line-height: normal; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; line-height: normal; font-weight: 400;\u0022\u003EComputer Vision \u2013 Image Analysis service\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; line-height: normal; font-weight: 400;\u0022\u003E.\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; line-height: normal; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; display: inline-block; width: 0px;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; display: inline-block; white-space: pre !important; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\t\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{\u0026quot;335559738\u0026quot;:240,\u0026quot;335559739\u0026quot;:240}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E\u003Cdiv style=\u0022margin: 0px; user-select: text;\u0022\u003E\u003Cdiv style=\u0022margin:0px;user-select:text;clear:both;cursor:text\u0022\u003E\u003Cp style=\u0022margin: 16px 0px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EMicrosoft will provide full support for all existing Azure\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EComputer Vision\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u2013 Image Analysis\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Ecustomers until 9\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E/25\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E/2028.\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EDuring this support window, customers are encouraged to begin planning and executing their transition to\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Eone of the following Azure products. Your product transition plan will depend on the specific use cases for Image Analysis.\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{\u0026quot;335559738\u0026quot;:240,\u0026quot;335559739\u0026quot;:240}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E\u003Cul\u003E\u003Cli style=\u0022user-select: text; clear: both; cursor: text;\u0022 data-aria-level=\u00221\u0022 data-aria-posinset=\u00221\u0022 data-list-defn-props=\u0022{\u0026quot;335552541\u0026quot;:1,\u0026quot;335559685\u0026quot;:790,\u0026quot;335559991\u0026quot;:360,\u0026quot;469769226\u0026quot;:\u0026quot;Symbol\u0026quot;,\u0026quot;469769242\u0026quot;:[8226],\u0026quot;469777803\u0026quot;:\u0026quot;left\u0026quot;,\u0026quot;469777804\u0026quot;:\u0026quot;\uF0B7\u0026quot;,\u0026quot;469777815\u0026quot;:\u0026quot;hybridMultilevel\u0026quot;}\u0022 data-listid=\u00222\u0022 data-font=\u0022Symbol\u0022 data-leveltext=\u0022\uF0B7\u0022\u003E\u003Cp style=\u0022margin: 0px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EFor OCR and Read capabilities, utilize\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/span\u003E\u003Ca style=\u0022margin: 0px; user-select: text;\u0022 rel=\u0022noreferrer noopener\u0022 href=\u0022https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/read?view=doc-intel-4.0.0\u0026amp;tabs=sample-code\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022none\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Hyperlink\u0022\u003EDocument Intelligence\u003C/span\u003E\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{\u0026quot;335559738\u0026quot;:240,\u0026quot;335559739\u0026quot;:240}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/li\u003E\u003Cli style=\u0022user-select: text; clear: both; cursor: text;\u0022 data-aria-level=\u00221\u0022 data-aria-posinset=\u00222\u0022 data-list-defn-props=\u0022{\u0026quot;335552541\u0026quot;:1,\u0026quot;335559685\u0026quot;:790,\u0026quot;335559991\u0026quot;:360,\u0026quot;469769226\u0026quot;:\u0026quot;Symbol\u0026quot;,\u0026quot;469769242\u0026quot;:[8226],\u0026quot;469777803\u0026quot;:\u0026quot;left\u0026quot;,\u0026quot;469777804\u0026quot;:\u0026quot;\uF0B7\u0026quot;,\u0026quot;469777815\u0026quot;:\u0026quot;hybridMultilevel\u0026quot;}\u0022 data-listid=\u00222\u0022 data-font=\u0022Symbol\u0022 data-leveltext=\u0022\uF0B7\u0022\u003E\u003Cp style=\u0022margin: 0px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EFor Face scenarios, use the\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/span\u003E\u003Ca style=\u0022margin: 0px; user-select: text;\u0022 rel=\u0022noreferrer noopener\u0022 href=\u0022https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/overview-identity\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022none\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Hyperlink\u0022\u003EFace API\u003C/span\u003E\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{\u0026quot;335559738\u0026quot;:240,\u0026quot;335559739\u0026quot;:240}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/li\u003E\u003Cli style=\u0022user-select: text; clear: both; cursor: text;\u0022 data-aria-level=\u00221\u0022 data-aria-posinset=\u00223\u0022 data-list-defn-props=\u0022{\u0026quot;335552541\u0026quot;:1,\u0026quot;335559685\u0026quot;:790,\u0026quot;335559991\u0026quot;:360,\u0026quot;469769226\u0026quot;:\u0026quot;Symbol\u0026quot;,\u0026quot;469769242\u0026quot;:[8226],\u0026quot;469777803\u0026quot;:\u0026quot;left\u0026quot;,\u0026quot;469777804\u0026quot;:\u0026quot;\uF0B7\u0026quot;,\u0026quot;469777815\u0026quot;:\u0026quot;hybridMultilevel\u0026quot;}\u0022 data-listid=\u00222\u0022 data-font=\u0022Symbol\u0022 data-leveltext=\u0022\uF0B7\u0022\u003E\u003Cp style=\u0022margin: 0px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EFor other Computer Vision scenarios,\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Eutilize\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Ethe\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/span\u003E\u003Ca href=\u0022https://ai.azure.com/catalog/models\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022none\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Hyperlink\u0022\u003EGPT model series found in the M\u003C/span\u003E\u003C/span\u003Eicrosoft Foundry\u003C/a\u003E.\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{\u0026quot;335559738\u0026quot;:240,\u0026quot;335559739\u0026quot;:240}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/li\u003E\u003Cli style=\u0022user-select: text; clear: both; cursor: text;\u0022 data-aria-level=\u00221\u0022 data-aria-posinset=\u00224\u0022 data-list-defn-props=\u0022{\u0026quot;335552541\u0026quot;:1,\u0026quot;335559685\u0026quot;:790,\u0026quot;335559991\u0026quot;:360,\u0026quot;469769226\u0026quot;:\u0026quot;Symbol\u0026quot;,\u0026quot;469769242\u0026quot;:[8226],\u0026quot;469777803\u0026quot;:\u0026quot;left\u0026quot;,\u0026quot;469777804\u0026quot;:\u0026quot;\uF0B7\u0026quot;,\u0026quot;469777815\u0026quot;:\u0026quot;hybridMultilevel\u0026quot;}\u0022 data-listid=\u00222\u0022 data-font=\u0022Symbol\u0022 data-leveltext=\u0022\uF0B7\u0022\u003E\u003Cp style=\u0022margin: 0px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EAzure AI is offering a new product currently in preview,\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/span\u003E\u003Ca style=\u0022margin: 0px; user-select: text;\u0022 rel=\u0022noreferrer noopener\u0022 href=\u0022https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/overview\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022none\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Hyperlink\u0022\u003EAzure AI Content Understanding\u003C/span\u003E\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E, that\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Eis powered by LLMs\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Eand\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Ealso\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Esupports many\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Eimage\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Eanalysis use cases\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{\u0026quot;335559738\u0026quot;:240,\u0026quot;335559739\u0026quot;:240}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/li\u003E\u003Cli style=\u0022user-select: text; clear: both; cursor: text;\u0022 data-aria-level=\u00221\u0022 data-aria-posinset=\u00225\u0022 data-list-defn-props=\u0022{\u0026quot;335552541\u0026quot;:1,\u0026quot;335559685\u0026quot;:790,\u0026quot;335559991\u0026quot;:360,\u0026quot;469769226\u0026quot;:\u0026quot;Symbol\u0026quot;,\u0026quot;469769242\u0026quot;:[8226],\u0026quot;469777803\u0026quot;:\u0026quot;left\u0026quot;,\u0026quot;469777804\u0026quot;:\u0026quot;\uF0B7\u0026quot;,\u0026quot;469777815\u0026quot;:\u0026quot;hybridMultilevel\u0026quot;}\u0022 data-listid=\u00222\u0022 data-font=\u0022Symbol\u0022 data-leveltext=\u0022\uF0B7\u0022\u003E\u003Cp style=\u0022margin: 0px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003ESee the\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/span\u003E\u003Ca style=\u0022margin: 0px; user-select: text;\u0022 rel=\u0022noreferrer noopener\u0022 href=\u0022https://aka.ms/computer-vision-migration\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022none\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Hyperlink\u0022\u003EAzure Computer Vision\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Hyperlink\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Hyperlink\u0022\u003E\u2013 Image Analysis\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Hyperlink\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Hyperlink\u0022\u003Edocumentation\u003C/span\u003E\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Efor more information on your specific use case\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{\u0026quot;335559738\u0026quot;:240,\u0026quot;335559739\u0026quot;:240}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cbr\u003E\u003C/div\u003E",
             "status": null,
             "created": "2025-10-23T14:15:03.2344100Z",
             "modified": "2025-10-23T14:15:03.2344100Z",
@@ -554,1465 +667,179 @@
                     "month": "September"
                 }
             ]
-        }
-    ],
-    "facets": [
+        },
         {
-            "name": "ProductCategory",
-            "values": [
+            "id": "502602",
+            "productCategories": [
+                "Analytics"
+            ],
+            "tags": [
+                "Retirements"
+            ],
+            "products": [
+                "Microsoft Fabric"
+            ],
+            "generalAvailabilityDate": null,
+            "previewAvailabilityDate": null,
+            "privatePreviewAvailabilityDate": null,
+            "title": "Retirement: Spark Native Connector for Semantic Link ",
+            "description": "\u003Cdiv style=\u0022\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; line-height: 20px;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; line-height: normal; font-weight: 400;\u0022 data-ccp-parastyle=\u0022Normal (Web)\u0022\u003EStarting \u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Strong\u0022\u003EOctober\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Strong\u0022\u003E\u0026nbsp;1,\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Strong\u0022\u003E2025\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-parastyle=\u0022Normal (Web)\u0022\u003E, the Spark native connector will be officially retired. This decision is based on \u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-parastyle=\u0022Normal (Web)\u0022\u003Einternal analysis \u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-parastyle=\u0022Normal (Web)\u0022\u003Eindicating\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-parastyle=\u0022Normal (Web)\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-parastyle=\u0022Normal (Web)\u0022\u003Elow usage, high maintenance costs, and potential security vulnerabilities. \u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-parastyle=\u0022Normal (Web)\u0022\u003ETo ensure continued support and improved security, \u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-parastyle=\u0022Normal (Web)\u0022\u003Ew\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-parastyle=\u0022Normal (Web)\u0022\u003Ee recommend transitioning to the \u003C/span\u003E\u003C/span\u003E\u003Ca style=\u0022margin: 0px; user-select: text;\u0022 rel=\u0022noreferrer noopener\u0022 href=\u0022https://learn.microsoft.com/python/api/semantic-link/overview-semantic-link?view=semantic-link-python\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022none\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Hyperlink\u0022\u003ESemantic Python SDK\u003C/span\u003E\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-parastyle=\u0022Normal (Web)\u0022\u003E, which offers comparable functionality \u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-parastyle=\u0022Normal (Web)\u0022\u003Eand enhanced \u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-parastyle=\u0022Normal (Web)\u0022\u003Esupport.\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{\u0026quot;134233117\u0026quot;:true,\u0026quot;134233118\u0026quot;:true,\u0026quot;201341983\u0026quot;:0,\u0026quot;335559740\u0026quot;:240}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/div\u003E\u003Cdiv style=\u0022margin: 0px; user-select: text; clear: both; cursor: text;\u0022\u003E\u003Cp style=\u0022margin: auto 0px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-parastyle=\u0022Normal (Web)\u0022\u003EAf\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-parastyle=\u0022Normal (Web)\u0022\u003Eter \u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-parastyle=\u0022Normal (Web)\u0022\u003EOctober 1, 2025\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-parastyle=\u0022Normal (Web)\u0022\u003E, no major versions of the Spark native connector\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-parastyle=\u0022Normal (Web)\u0022\u003E\u0026nbsp;for Semantic Link\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-parastyle=\u0022Normal (Web)\u0022\u003E\u0026nbsp;will be released. Full retirement of the service is scheduled for \u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-parastyle=\u0022Normal (Web)\u0022\u003EOctober 1, 2028\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-parastyle=\u0022Normal (Web)\u0022\u003E. The connector is compatible with Spark runtime versions up to 3.5. Support will not be available for Spark runtime version 4.0 or later.\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{\u0026quot;134233117\u0026quot;:true,\u0026quot;134233118\u0026quot;:true,\u0026quot;201341983\u0026quot;:0,\u0026quot;335559740\u0026quot;:240}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E\u003Cdiv style=\u0022margin: 0px; user-select: text; clear: both; cursor: text;\u0022\u003E\u003Cp style=\u0022margin: auto 0px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cb\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt;\u0022 data-ccp-parastyle=\u0022Normal (Web)\u0022\u003ERecommended action\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt;\u0022 data-ccp-props=\u0022{\u0026quot;134233117\u0026quot;:true,\u0026quot;134233118\u0026quot;:true,\u0026quot;201341983\u0026quot;:0,\u0026quot;335559740\u0026quot;:240}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/b\u003E\u003C/p\u003E\u003C/div\u003E\u003Cul\u003E\u003Cli style=\u0022user-select: text; clear: both; cursor: text;\u0022 data-aria-level=\u00221\u0022 data-aria-posinset=\u00221\u0022 data-list-defn-props=\u0022{\u0026quot;335552541\u0026quot;:1,\u0026quot;335559685\u0026quot;:720,\u0026quot;335559991\u0026quot;:360,\u0026quot;469769226\u0026quot;:\u0026quot;Symbol\u0026quot;,\u0026quot;469769242\u0026quot;:[8226],\u0026quot;469777803\u0026quot;:\u0026quot;left\u0026quot;,\u0026quot;469777804\u0026quot;:\u0026quot;\uF0B7\u0026quot;,\u0026quot;469777815\u0026quot;:\u0026quot;hybridMultilevel\u0026quot;}\u0022 data-listid=\u00222\u0022 data-font=\u0022Symbol\u0022 data-leveltext=\u0022\uF0B7\u0022\u003E\u003Cp style=\u0022margin: 0px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022none\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-parastyle=\u0022Normal (Web)\u0022\u003EP\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-parastyle=\u0022Normal (Web)\u0022\u003Elan your migration to the \u003C/span\u003E\u003C/span\u003E\u003Ca style=\u0022margin: 0px; user-select: text;\u0022 rel=\u0022noreferrer noopener\u0022 href=\u0022https://learn.microsoft.com/python/api/semantic-link/overview-semantic-link?view=semantic-link-python\u0022\u003E\u003Cspan style=\u0022margin:0px;user-select:text\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022none\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-charstyle=\u0022Hyperlink\u0022\u003ESemantic Python SDK\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022none\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-parastyle=\u0022Normal (Web)\u0022\u003E.\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{\u0026quot;134233117\u0026quot;:true,\u0026quot;134233118\u0026quot;:true,\u0026quot;201341983\u0026quot;:0,\u0026quot;335559740\u0026quot;:240}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/li\u003E\u003Cli style=\u0022user-select: text; clear: both; cursor: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-aria-level=\u00221\u0022 data-aria-posinset=\u00222\u0022 data-list-defn-props=\u0022{\u0026quot;335552541\u0026quot;:1,\u0026quot;335559685\u0026quot;:720,\u0026quot;335559991\u0026quot;:360,\u0026quot;469769226\u0026quot;:\u0026quot;Symbol\u0026quot;,\u0026quot;469769242\u0026quot;:[8226],\u0026quot;469777803\u0026quot;:\u0026quot;left\u0026quot;,\u0026quot;469777804\u0026quot;:\u0026quot;\uF0B7\u0026quot;,\u0026quot;469777815\u0026quot;:\u0026quot;hybridMultilevel\u0026quot;}\u0022 data-listid=\u00222\u0022 data-font=\u0022Symbol\u0022 data-leveltext=\u0022\uF0B7\u0022\u003E\u003Cp style=\u0022margin: 0px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022none\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EReview your current usage of the Spark native connector across your Microsoft Fabric tenants.\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{\u0026quot;335557856\u0026quot;:16777215}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/li\u003E\u003Cli style=\u0022user-select: text; clear: both; cursor: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-aria-level=\u00221\u0022 data-aria-posinset=\u00223\u0022 data-list-defn-props=\u0022{\u0026quot;335552541\u0026quot;:1,\u0026quot;335559685\u0026quot;:720,\u0026quot;335559991\u0026quot;:360,\u0026quot;469769226\u0026quot;:\u0026quot;Symbol\u0026quot;,\u0026quot;469769242\u0026quot;:[8226],\u0026quot;469777803\u0026quot;:\u0026quot;left\u0026quot;,\u0026quot;469777804\u0026quot;:\u0026quot;\uF0B7\u0026quot;,\u0026quot;469777815\u0026quot;:\u0026quot;hybridMultilevel\u0026quot;}\u0022 data-listid=\u00222\u0022 data-font=\u0022Symbol\u0022 data-leveltext=\u0022\uF0B7\u0022\u003E\u003Cp style=\u0022margin: 0px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022none\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EContact\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;us with any questions or for migration \u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Eassistance\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E.\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{\u0026quot;335557856\u0026quot;:16777215}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cdiv style=\u0022margin: 0px; user-select: text; clear: both; cursor: text;\u0022\u003E\u003Cp style=\u0022margin: 0px; user-select: text; overflow-wrap: break-word;\u0022\u003E\u003Cb\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022none\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt;\u0022\u003EHelp and support\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt;\u0022 data-ccp-props=\u0022{\u0026quot;335557856\u0026quot;:16777215}\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/b\u003E\u003C/p\u003E\u003C/div\u003E\u003Cdiv style=\u0022margin: 0px; user-select: text; clear: both; cursor: text;\u0022\u003E\u003Cp style=\u0022margin: 0px; user-select: text; overflow-wrap: break-word; font-kerning: none;\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text;\u0022 lang=\u0022EN-US\u0022 data-contrast=\u0022auto\u0022\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EIf you have any concerns or require support, please contact us at synapseml\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Epm\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E@microsoft.com.\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin: 0px; user-select: text; line-height: normal; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022 data-ccp-props=\u0022{\u0026quot;335557856\u0026quot;:16777215}\u0022\u003E\u0026nbsp;\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E",
+            "status": null,
+            "created": "2025-09-30T13:45:49.1071221Z",
+            "modified": "2025-09-30T13:45:49.1071221Z",
+            "locale": null,
+            "availabilities": [
                 {
-                    "value": "AI \u002B machine learning",
-                    "count": 30,
-                    "subFacets": [
-                        {
-                            "name": "Product",
-                            "values": [
-                                {
-                                    "value": "Azure AI Custom Vision",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure AI Foundry",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure AI Language",
-                                    "count": 3
-                                },
-                                {
-                                    "value": "Azure AI Personalizer",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure AI Search",
-                                    "count": 2
-                                },
-                                {
-                                    "value": "Azure AI Services",
-                                    "count": 8
-                                },
-                                {
-                                    "value": "Azure AI Translator",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure AI Video Indexer",
-                                    "count": 2
-                                },
-                                {
-                                    "value": "Azure Databricks",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure Machine Learning",
-                                    "count": 7
-                                },
-                                {
-                                    "value": "Data Science Virtual Machines",
-                                    "count": 2
-                                },
-                                {
-                                    "value": "Language Understanding (LUIS)",
-                                    "count": 2
-                                },
-                                {
-                                    "value": "QnA Maker",
-                                    "count": 1
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "value": "Analytics",
-                    "count": 27,
-                    "subFacets": [
-                        {
-                            "name": "Product",
-                            "values": [
-                                {
-                                    "value": "Azure Analysis Services",
-                                    "count": 2
-                                },
-                                {
-                                    "value": "Azure Data Explorer",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure Data Factory",
-                                    "count": 3
-                                },
-                                {
-                                    "value": "Azure Data Lake Storage",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure Data Share",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure Databricks",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure HDInsight on Azure Kubernetes Service (AKS)",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure Stream Analytics",
-                                    "count": 3
-                                },
-                                {
-                                    "value": "Azure Synapse Analytics",
-                                    "count": 6
-                                },
-                                {
-                                    "value": "Event Hubs",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "HDInsight",
-                                    "count": 4
-                                },
-                                {
-                                    "value": "Microsoft Fabric",
-                                    "count": 4
-                                },
-                                {
-                                    "value": "Power BI Embedded",
-                                    "count": 2
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "value": "Compute",
-                    "count": 131,
-                    "subFacets": [
-                        {
-                            "name": "Product",
-                            "values": [
-                                {
-                                    "value": "App Service",
-                                    "count": 30
-                                },
-                                {
-                                    "value": "Azure CycleCloud",
-                                    "count": 4
-                                },
-                                {
-                                    "value": "Azure Dedicated Host",
-                                    "count": 2
-                                },
-                                {
-                                    "value": "Azure Functions",
-                                    "count": 18
-                                },
-                                {
-                                    "value": "Azure Kubernetes Service (AKS)",
-                                    "count": 22
-                                },
-                                {
-                                    "value": "Azure Service Fabric",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure Spring Apps",
-                                    "count": 2
-                                },
-                                {
-                                    "value": "Azure VMware Solution",
-                                    "count": 2
-                                },
-                                {
-                                    "value": "Batch",
-                                    "count": 18
-                                },
-                                {
-                                    "value": "Cloud Services",
-                                    "count": 8
-                                },
-                                {
-                                    "value": "SQL Server on Azure Virtual Machines",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Static Web Apps",
-                                    "count": 7
-                                },
-                                {
-                                    "value": "Virtual Machine Scale Sets",
-                                    "count": 2
-                                },
-                                {
-                                    "value": "Virtual Machines",
-                                    "count": 21
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "value": "Containers",
-                    "count": 49,
-                    "subFacets": [
-                        {
-                            "name": "Product",
-                            "values": [
-                                {
-                                    "value": "Azure Container Apps",
-                                    "count": 4
-                                },
-                                {
-                                    "value": "Azure Container Registry",
-                                    "count": 2
-                                },
-                                {
-                                    "value": "Azure Functions",
-                                    "count": 18
-                                },
-                                {
-                                    "value": "Azure Kubernetes Service (AKS)",
-                                    "count": 22
-                                },
-                                {
-                                    "value": "Azure Red Hat OpenShift",
-                                    "count": 2
-                                },
-                                {
-                                    "value": "Azure Service Fabric",
-                                    "count": 1
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "value": "Databases",
-                    "count": 36,
-                    "subFacets": [
-                        {
-                            "name": "Product",
-                            "values": [
-                                {
-                                    "value": "Azure Cache for Redis",
-                                    "count": 5
-                                },
-                                {
-                                    "value": "Azure confidential ledger",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure Cosmos DB",
-                                    "count": 8
-                                },
-                                {
-                                    "value": "Azure Data Factory",
-                                    "count": 3
-                                },
-                                {
-                                    "value": "Azure Database for MariaDB",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure Database for MySQL",
-                                    "count": 2
-                                },
-                                {
-                                    "value": "Azure Database for PostgreSQL",
-                                    "count": 7
-                                },
-                                {
-                                    "value": "Azure Database Migration Service",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure SQL",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure SQL Database",
-                                    "count": 8
-                                },
-                                {
-                                    "value": "Azure SQL Edge",
-                                    "count": 2
-                                },
-                                {
-                                    "value": "Azure SQL Managed Instance",
-                                    "count": 4
-                                },
-                                {
-                                    "value": "SQL Server on Azure Virtual Machines",
-                                    "count": 1
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "value": "Developer tools",
-                    "count": 11,
-                    "subFacets": [
-                        {
-                            "name": "Product",
-                            "values": [
-                                {
-                                    "value": "Azure DevOps",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure DevTest Labs",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure Load Testing",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Microsoft Playwright Testing",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "SDKs",
-                                    "count": 6
-                                },
-                                {
-                                    "value": "Visual Studio Code",
-                                    "count": 1
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "value": "DevOps",
-                    "count": 50,
-                    "subFacets": [
-                        {
-                            "name": "Product",
-                            "values": [
-                                {
-                                    "value": "Azure DevOps",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure DevTest Labs",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure Load Testing",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure Monitor",
-                                    "count": 45
-                                },
-                                {
-                                    "value": "DevOps tool integrations",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Microsoft Playwright Testing",
-                                    "count": 1
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "value": "Hybrid \u002B multicloud",
-                    "count": 30,
-                    "subFacets": [
-                        {
-                            "name": "Product",
-                            "values": [
-                                {
-                                    "value": "Azure Arc",
-                                    "count": 4
-                                },
-                                {
-                                    "value": "Azure Database for PostgreSQL",
-                                    "count": 7
-                                },
-                                {
-                                    "value": "Azure DevOps",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure ExpressRoute",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure IoT Edge",
-                                    "count": 3
-                                },
-                                {
-                                    "value": "Azure Modular Datacenter",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure SQL Database",
-                                    "count": 8
-                                },
-                                {
-                                    "value": "Azure SQL Edge",
-                                    "count": 2
-                                },
-                                {
-                                    "value": "Azure Stack Edge",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure Stack Hub",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Microsoft Defender for Cloud",
-                                    "count": 2
-                                },
-                                {
-                                    "value": "Microsoft Sentinel",
-                                    "count": 2
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "value": "Identity",
-                    "count": 9,
-                    "subFacets": [
-                        {
-                            "name": "Product",
-                            "values": [
-                                {
-                                    "value": "Azure Active Directory B2C",
-                                    "count": 2
-                                },
-                                {
-                                    "value": "Microsoft Entra Domain Services",
-                                    "count": 2
-                                },
-                                {
-                                    "value": "Microsoft Entra ID (formerly Azure AD)",
-                                    "count": 6
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "value": "Integration",
-                    "count": 18,
-                    "subFacets": [
-                        {
-                            "name": "Product",
-                            "values": [
-                                {
-                                    "value": "API Management",
-                                    "count": 7
-                                },
-                                {
-                                    "value": "Event Grid",
-                                    "count": 3
-                                },
-                                {
-                                    "value": "Logic Apps",
-                                    "count": 6
-                                },
-                                {
-                                    "value": "Service Bus",
-                                    "count": 3
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "value": "Internet of Things",
-                    "count": 77,
-                    "subFacets": [
-                        {
-                            "name": "Product",
-                            "values": [
-                                {
-                                    "value": "API Management",
-                                    "count": 7
-                                },
-                                {
-                                    "value": "Azure Cosmos DB",
-                                    "count": 8
-                                },
-                                {
-                                    "value": "Azure Digital Twins",
-                                    "count": 2
-                                },
-                                {
-                                    "value": "Azure Functions",
-                                    "count": 18
-                                },
-                                {
-                                    "value": "Azure IoT Central",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure IoT Edge",
-                                    "count": 3
-                                },
-                                {
-                                    "value": "Azure IoT Hub",
-                                    "count": 4
-                                },
-                                {
-                                    "value": "Azure Machine Learning",
-                                    "count": 7
-                                },
-                                {
-                                    "value": "Azure Maps",
-                                    "count": 12
-                                },
-                                {
-                                    "value": "Azure Sphere",
-                                    "count": 2
-                                },
-                                {
-                                    "value": "Azure SQL Edge",
-                                    "count": 2
-                                },
-                                {
-                                    "value": "Azure Stream Analytics",
-                                    "count": 3
-                                },
-                                {
-                                    "value": "Azure Time Series Insights",
-                                    "count": 2
-                                },
-                                {
-                                    "value": "Event Grid",
-                                    "count": 3
-                                },
-                                {
-                                    "value": "Logic Apps",
-                                    "count": 6
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "value": "Management and governance",
-                    "count": 70,
-                    "subFacets": [
-                        {
-                            "name": "Product",
-                            "values": [
-                                {
-                                    "value": "Automation",
-                                    "count": 7
-                                },
-                                {
-                                    "value": "Azure Advisor",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure Automanage",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure Backup",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure Migrate",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure mobile app",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure Monitor",
-                                    "count": 45
-                                },
-                                {
-                                    "value": "Azure Resource Manager",
-                                    "count": 4
-                                },
-                                {
-                                    "value": "Azure Resource Manager templates",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure Site Recovery",
-                                    "count": 4
-                                },
-                                {
-                                    "value": "Microsoft Cost Management",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Network Watcher",
-                                    "count": 3
-                                },
-                                {
-                                    "value": "Traffic Manager",
-                                    "count": 1
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "value": "Media",
-                    "count": 9,
-                    "subFacets": [
-                        {
-                            "name": "Product",
-                            "values": [
-                                {
-                                    "value": "Azure Media Player",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Content Delivery Network",
-                                    "count": 4
-                                },
-                                {
-                                    "value": "Media Services",
-                                    "count": 5
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "value": "Migration",
-                    "count": 7,
-                    "subFacets": [
-                        {
-                            "name": "Product",
-                            "values": [
-                                {
-                                    "value": "Azure Database Migration Service",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure Migrate",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure Site Recovery",
-                                    "count": 4
-                                },
-                                {
-                                    "value": "Microsoft Cost Management",
-                                    "count": 1
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "value": "Mixed reality",
-                    "count": 3,
-                    "subFacets": [
-                        {
-                            "name": "Product",
-                            "values": [
-                                {
-                                    "value": "Azure Digital Twins",
-                                    "count": 2
-                                },
-                                {
-                                    "value": "Remote Rendering",
-                                    "count": 1
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "value": "Mobile",
-                    "count": 62,
-                    "subFacets": [
-                        {
-                            "name": "Product",
-                            "values": [
-                                {
-                                    "value": "API Management",
-                                    "count": 7
-                                },
-                                {
-                                    "value": "App Center",
-                                    "count": 2
-                                },
-                                {
-                                    "value": "App Service",
-                                    "count": 30
-                                },
-                                {
-                                    "value": "Azure AI Search",
-                                    "count": 2
-                                },
-                                {
-                                    "value": "Azure AI Services",
-                                    "count": 8
-                                },
-                                {
-                                    "value": "Azure Communication Services",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure Maps",
-                                    "count": 12
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "value": "Networking",
-                    "count": 23,
-                    "subFacets": [
-                        {
-                            "name": "Product",
-                            "values": [
-                                {
-                                    "value": "Application Gateway",
-                                    "count": 4
-                                },
-                                {
-                                    "value": "Azure DNS",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure ExpressRoute",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure Front Door",
-                                    "count": 4
-                                },
-                                {
-                                    "value": "Content Delivery Network",
-                                    "count": 4
-                                },
-                                {
-                                    "value": "Load Balancer",
-                                    "count": 3
-                                },
-                                {
-                                    "value": "Network Watcher",
-                                    "count": 3
-                                },
-                                {
-                                    "value": "Traffic Manager",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "VPN Gateway",
-                                    "count": 4
-                                },
-                                {
-                                    "value": "Web Application Firewall",
-                                    "count": 1
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "value": "Security",
-                    "count": 21,
-                    "subFacets": [
-                        {
-                            "name": "Product",
-                            "values": [
-                                {
-                                    "value": "Application Gateway",
-                                    "count": 4
-                                },
-                                {
-                                    "value": "Azure confidential ledger",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure Dedicated HSM",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure Front Door",
-                                    "count": 4
-                                },
-                                {
-                                    "value": "Key Vault",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Microsoft Defender for Cloud",
-                                    "count": 2
-                                },
-                                {
-                                    "value": "Microsoft Entra Domain Services",
-                                    "count": 2
-                                },
-                                {
-                                    "value": "Microsoft Sentinel",
-                                    "count": 2
-                                },
-                                {
-                                    "value": "VPN Gateway",
-                                    "count": 4
-                                },
-                                {
-                                    "value": "Web Application Firewall",
-                                    "count": 1
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "value": "Storage",
-                    "count": 18,
-                    "subFacets": [
-                        {
-                            "name": "Product",
-                            "values": [
-                                {
-                                    "value": "Avere vFXT for Azure",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure Backup",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure Blob Storage",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure confidential ledger",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure Data Lake Storage",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure Data Share",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure Disk Storage",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure Files",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure HPC Cache",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Storage Accounts",
-                                    "count": 9
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "value": "Virtual desktop infrastructure",
-                    "count": 1,
-                    "subFacets": [
-                        {
-                            "name": "Product",
-                            "values": [
-                                {
-                                    "value": "Azure Lab Services",
-                                    "count": 1
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "value": "Web",
-                    "count": 60,
-                    "subFacets": [
-                        {
-                            "name": "Product",
-                            "values": [
-                                {
-                                    "value": "API Management",
-                                    "count": 7
-                                },
-                                {
-                                    "value": "App Service",
-                                    "count": 30
-                                },
-                                {
-                                    "value": "Azure AI Search",
-                                    "count": 2
-                                },
-                                {
-                                    "value": "Azure Communication Services",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Azure Maps",
-                                    "count": 12
-                                },
-                                {
-                                    "value": "Content Delivery Network",
-                                    "count": 4
-                                },
-                                {
-                                    "value": "Microsoft Playwright Testing",
-                                    "count": 1
-                                },
-                                {
-                                    "value": "Static Web Apps",
-                                    "count": 7
-                                }
-                            ]
-                        }
-                    ]
+                    "ring": "Retirement",
+                    "year": 2025,
+                    "month": "October"
                 }
             ]
         },
         {
-            "name": "Tags",
-            "values": [
+            "id": "503883",
+            "productCategories": [
+                "Compute"
+            ],
+            "tags": [
+                "Retirements"
+            ],
+            "products": [
+                "Azure VMware Solution"
+            ],
+            "generalAvailabilityDate": null,
+            "previewAvailabilityDate": null,
+            "privatePreviewAvailabilityDate": null,
+            "title": "Azure VMware Solution AV36 Node Retirement on June 30, 2028",
+            "description": "\u003Cdiv style=\u0022font-family: Arial; font-size: 10pt;\u0022\u003E\u003Cp style=\u0022margin: 0in 0in 8pt; font-size: 10pt; font-family: Arial;\u0022\u003E\u003Cspan style=\u0022font-size: 12pt;\u0022\u003EMicrosoft is announcing the retirement of the AV36 node type\non June 30, 2028. The terms of your current AV36 Reserved Instance (RI) are\nnot affected by this announcement.\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:12pt\u0022\u003EAt this time, we recommend that you review your current AV36\nRI expiration timeline and then work with your Microsoft Account Team on your\nnext steps. To help with your upcoming transition, we will offer an AV36 1-year\nRI (with VCF included) until October 15, 2025 and AV36 VCF BYOL 1-year RI until 30\nJune 30, 2026. Additionally, existing AV36 PayGo subscriptions will run through until September 30, 2027.\u0026nbsp;\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:12pt\u0022\u003E\u003Cb\u003EThe details above only impact AV36 nodes. \u003C/b\u003EAVS AV36P,\nAV48, AV52 and AV64 remain available with AVS VCF BYOL options. \u0026nbsp;\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:12pt\u0022\u003E\u003Cb\u003EKey dates for existing AV36 subscriptions with RIs:\u0026nbsp;\u003C/b\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:12pt;margin-bottom:0in\u0022\u003E\u003Cb\u003EOctober 15, 2025: \u003C/b\u003ELast day\nto buy a 1-year RI for AV36 (with VCF included)\u003Cb\u003E \u0026nbsp;\u003C/b\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:12pt;margin-bottom:0in\u0022\u003E\u003Cb\u003EJune 30, 2026: \u003C/b\u003ELast day to\nbuy a 1-year RI for AV36 VCF BYOL*\u003Cspan style=\u0022mso-spacerun:yes\u0022\u003E\u0026nbsp; \u003C/span\u003E\u0026nbsp;\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:12pt;margin-bottom:0in\u0022\u003E\u003Cb\u003EJune 30, 2028: \u003C/b\u003ERetirement of\nAV36 and AV36 VCF BYOL\u003Cspan style=\u0022mso-spacerun:yes\u0022\u003E\u0026nbsp; \u003C/span\u003E\u0026nbsp;\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:12pt;margin-bottom:0in\u0022\u003E*AV36 VCF BYOL requires a portable\nVCF subscription from Broadcom\u0026nbsp;\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:12pt;margin-bottom:0in\u0022\u003E\u0026nbsp;\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:12pt\u0022\u003E\u003Cb\u003EAV36 PayGo subscriptions:\u0026nbsp;\u003C/b\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:12pt\u0022\u003EPlease reach out to your Microsoft Account Team for details\nand key dates for AV36 PayGo subscriptions.\u0026nbsp;\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:12pt\u0022\u003E\u003Cb\u003ERequired action\u0026nbsp;\u003C/b\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:12pt\u0022\u003E\u003Cb\u003ETransition from your AV36 nodes to a new AVS node type\nbefore the end of your current AV36 RI term.\u003C/b\u003E Identify available AVS node\ntypes on the \u003Ca style=\u0022text-decoration: underline; color: rgb(70, 120, 134);\u0022 href=\u0022https://azure.microsoft.com/en-us/explore/global-infrastructure/products-by-region/table\u0022\u003EAzure\nProduct by Region page\u003C/a\u003E, and visit the \u003Ca style=\u0022text-decoration: underline; color: rgb(70, 120, 134);\u0022 href=\u0022https://learn.microsoft.com/en-us/azure/azure-vmware/architecture-migrate\u0022\u003EAVS\nDocumentation page\u003C/a\u003E to learn about HCX migrations.\u0026nbsp;\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:12pt\u0022\u003E\u003Cb\u003EHelp and support:\u0026nbsp;\u0026nbsp;\u003C/b\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:12pt\u0022\u003EIf you have questions, please reach out to your Microsoft\nAccount Team.\u0026nbsp;\u003C/p\u003E\u003Cspan style=\u0022font-size:12.0pt;font-family:\u0026quot;Aptos\u0026quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Aptos;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\u0022\u003E\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E",
+            "status": null,
+            "created": "2025-09-27T00:30:39.8577970Z",
+            "modified": "2025-09-27T00:30:39.8577970Z",
+            "locale": null,
+            "availabilities": [
                 {
-                    "value": "Compliance",
-                    "count": 14
-                },
-                {
-                    "value": "Features",
-                    "count": 56
-                },
-                {
-                    "value": "Management",
-                    "count": 12
-                },
-                {
-                    "value": "Microsoft Build",
-                    "count": 2
-                },
-                {
-                    "value": "Open Source",
-                    "count": 6
-                },
-                {
-                    "value": "Operating System",
-                    "count": 3
-                },
-                {
-                    "value": "Pricing \u0026 Offerings",
-                    "count": 7
-                },
-                {
-                    "value": "Regions \u0026 Datacenters",
-                    "count": 3
-                },
-                {
-                    "value": "Retirements",
-                    "count": 558
-                },
-                {
-                    "value": "SDK and Tools",
-                    "count": 24
-                },
-                {
-                    "value": "Security",
-                    "count": 12
-                },
-                {
-                    "value": "Services",
-                    "count": 40
+                    "ring": "Retirement",
+                    "year": 2028,
+                    "month": "June"
                 }
             ]
         },
         {
-            "name": "Product",
-            "values": [
-                {
-                    "value": "API Management",
-                    "count": 7
-                },
-                {
-                    "value": "App Center",
-                    "count": 2
-                },
-                {
-                    "value": "App Service",
-                    "count": 30
-                },
-                {
-                    "value": "Application Gateway",
-                    "count": 4
-                },
-                {
-                    "value": "Automation",
-                    "count": 7
-                },
-                {
-                    "value": "Avere vFXT for Azure",
-                    "count": 1
-                },
-                {
-                    "value": "Azure Active Directory B2C",
-                    "count": 2
-                },
-                {
-                    "value": "Azure Advisor",
-                    "count": 1
-                },
-                {
-                    "value": "Azure AI Custom Vision",
-                    "count": 1
-                },
-                {
-                    "value": "Azure AI Foundry",
-                    "count": 1
-                },
-                {
-                    "value": "Azure AI Language",
-                    "count": 3
-                },
-                {
-                    "value": "Azure AI Personalizer",
-                    "count": 1
-                },
-                {
-                    "value": "Azure AI Search",
-                    "count": 2
-                },
-                {
-                    "value": "Azure AI Services",
-                    "count": 8
-                },
-                {
-                    "value": "Azure AI Translator",
-                    "count": 1
-                },
-                {
-                    "value": "Azure AI Video Indexer",
-                    "count": 2
-                },
-                {
-                    "value": "Azure Analysis Services",
-                    "count": 2
-                },
-                {
-                    "value": "Azure Arc",
-                    "count": 4
-                },
-                {
-                    "value": "Azure Automanage",
-                    "count": 1
-                },
-                {
-                    "value": "Azure Backup",
-                    "count": 1
-                },
-                {
-                    "value": "Azure Blob Storage",
-                    "count": 1
-                },
-                {
-                    "value": "Azure Cache for Redis",
-                    "count": 5
-                },
-                {
-                    "value": "Azure Communication Services",
-                    "count": 1
-                },
-                {
-                    "value": "Azure confidential ledger",
-                    "count": 1
-                },
-                {
-                    "value": "Azure Container Apps",
-                    "count": 4
-                },
-                {
-                    "value": "Azure Container Registry",
-                    "count": 2
-                },
-                {
-                    "value": "Azure Cosmos DB",
-                    "count": 8
-                },
-                {
-                    "value": "Azure CycleCloud",
-                    "count": 4
-                },
-                {
-                    "value": "Azure Data Explorer",
-                    "count": 1
-                },
-                {
-                    "value": "Azure Data Factory",
-                    "count": 3
-                },
-                {
-                    "value": "Azure Data Lake Storage",
-                    "count": 1
-                },
-                {
-                    "value": "Azure Data Share",
-                    "count": 1
-                },
-                {
-                    "value": "Azure Database for MariaDB",
-                    "count": 1
-                },
-                {
-                    "value": "Azure Database for MySQL",
-                    "count": 2
-                },
-                {
-                    "value": "Azure Database for PostgreSQL",
-                    "count": 7
-                },
-                {
-                    "value": "Azure Database Migration Service",
-                    "count": 1
-                },
-                {
-                    "value": "Azure Databricks",
-                    "count": 1
-                },
-                {
-                    "value": "Azure Dedicated Host",
-                    "count": 2
-                },
-                {
-                    "value": "Azure Dedicated HSM",
-                    "count": 1
-                },
-                {
-                    "value": "Azure DevOps",
-                    "count": 1
-                },
-                {
-                    "value": "Azure DevTest Labs",
-                    "count": 1
-                },
-                {
-                    "value": "Azure Digital Twins",
-                    "count": 2
-                },
-                {
-                    "value": "Azure Disk Storage",
-                    "count": 1
-                },
-                {
-                    "value": "Azure DNS",
-                    "count": 1
-                },
-                {
-                    "value": "Azure ExpressRoute",
-                    "count": 1
-                },
-                {
-                    "value": "Azure Files",
-                    "count": 1
-                },
-                {
-                    "value": "Azure Front Door",
-                    "count": 4
-                },
-                {
-                    "value": "Azure Functions",
-                    "count": 18
-                },
-                {
-                    "value": "Azure HDInsight on Azure Kubernetes Service (AKS)",
-                    "count": 1
-                },
-                {
-                    "value": "Azure HPC Cache",
-                    "count": 1
-                },
-                {
-                    "value": "Azure IoT Central",
-                    "count": 1
-                },
-                {
-                    "value": "Azure IoT Edge",
-                    "count": 3
-                },
-                {
-                    "value": "Azure IoT Hub",
-                    "count": 4
-                },
-                {
-                    "value": "Azure Kubernetes Service (AKS)",
-                    "count": 22
-                },
-                {
-                    "value": "Azure Lab Services",
-                    "count": 1
-                },
-                {
-                    "value": "Azure Load Testing",
-                    "count": 1
-                },
-                {
-                    "value": "Azure Machine Learning",
-                    "count": 7
-                },
-                {
-                    "value": "Azure Maps",
-                    "count": 12
-                },
-                {
-                    "value": "Azure Media Player",
-                    "count": 1
-                },
-                {
-                    "value": "Azure Migrate",
-                    "count": 1
-                },
-                {
-                    "value": "Azure mobile app",
-                    "count": 1
-                },
-                {
-                    "value": "Azure Modular Datacenter",
-                    "count": 1
-                },
-                {
-                    "value": "Azure Monitor",
-                    "count": 45
-                },
-                {
-                    "value": "Azure Red Hat OpenShift",
-                    "count": 2
-                },
-                {
-                    "value": "Azure Resource Manager",
-                    "count": 4
-                },
-                {
-                    "value": "Azure Resource Manager templates",
-                    "count": 1
-                },
-                {
-                    "value": "Azure Service Fabric",
-                    "count": 1
-                },
-                {
-                    "value": "Azure Site Recovery",
-                    "count": 4
-                },
-                {
-                    "value": "Azure Sphere",
-                    "count": 2
-                },
-                {
-                    "value": "Azure Spring Apps",
-                    "count": 2
-                },
-                {
-                    "value": "Azure SQL",
-                    "count": 1
-                },
-                {
-                    "value": "Azure SQL Database",
-                    "count": 8
-                },
-                {
-                    "value": "Azure SQL Edge",
-                    "count": 2
-                },
-                {
-                    "value": "Azure SQL Managed Instance",
-                    "count": 4
-                },
-                {
-                    "value": "Azure Stack Edge",
-                    "count": 1
-                },
-                {
-                    "value": "Azure Stack Hub",
-                    "count": 1
-                },
-                {
-                    "value": "Azure Stream Analytics",
-                    "count": 3
-                },
-                {
-                    "value": "Azure Synapse Analytics",
-                    "count": 6
-                },
-                {
-                    "value": "Azure Time Series Insights",
-                    "count": 2
-                },
-                {
-                    "value": "Azure VMware Solution",
-                    "count": 2
-                },
-                {
-                    "value": "Batch",
-                    "count": 18
-                },
-                {
-                    "value": "Cloud Services",
-                    "count": 8
-                },
-                {
-                    "value": "Content Delivery Network",
-                    "count": 4
-                },
-                {
-                    "value": "Data Science Virtual Machines",
-                    "count": 2
-                },
-                {
-                    "value": "DevOps tool integrations",
-                    "count": 1
-                },
-                {
-                    "value": "Event Grid",
-                    "count": 3
-                },
-                {
-                    "value": "Event Hubs",
-                    "count": 1
-                },
-                {
-                    "value": "HDInsight",
-                    "count": 4
-                },
-                {
-                    "value": "Key Vault",
-                    "count": 1
-                },
-                {
-                    "value": "Language Understanding (LUIS)",
-                    "count": 2
-                },
-                {
-                    "value": "Load Balancer",
-                    "count": 3
-                },
-                {
-                    "value": "Logic Apps",
-                    "count": 6
-                },
-                {
-                    "value": "Media Services",
-                    "count": 5
-                },
-                {
-                    "value": "Microsoft Cost Management",
-                    "count": 1
-                },
-                {
-                    "value": "Microsoft Defender for Cloud",
-                    "count": 2
-                },
-                {
-                    "value": "Microsoft Entra Domain Services",
-                    "count": 2
-                },
-                {
-                    "value": "Microsoft Entra ID (formerly Azure AD)",
-                    "count": 6
-                },
-                {
-                    "value": "Microsoft Fabric",
-                    "count": 4
-                },
-                {
-                    "value": "Microsoft Playwright Testing",
-                    "count": 1
-                },
-                {
-                    "value": "Microsoft Sentinel",
-                    "count": 2
-                },
-                {
-                    "value": "Network Watcher",
-                    "count": 3
-                },
-                {
-                    "value": "Power BI Embedded",
-                    "count": 2
-                },
-                {
-                    "value": "QnA Maker",
-                    "count": 1
-                },
-                {
-                    "value": "Remote Rendering",
-                    "count": 1
-                },
-                {
-                    "value": "SDKs",
-                    "count": 6
-                },
-                {
-                    "value": "Service Bus",
-                    "count": 3
-                },
-                {
-                    "value": "SQL Server on Azure Virtual Machines",
-                    "count": 1
-                },
-                {
-                    "value": "Static Web Apps",
-                    "count": 7
-                },
-                {
-                    "value": "Storage Accounts",
-                    "count": 9
-                },
-                {
-                    "value": "Traffic Manager",
-                    "count": 1
-                },
-                {
-                    "value": "Virtual Machine Scale Sets",
-                    "count": 2
-                },
-                {
-                    "value": "Virtual Machines",
-                    "count": 21
-                },
-                {
-                    "value": "Visual Studio Code",
-                    "count": 1
-                },
-                {
-                    "value": "VPN Gateway",
-                    "count": 4
-                },
-                {
-                    "value": "Web Application Firewall",
-                    "count": 1
+            "id": "499851",
+            "productCategories": [
+                "AI \u002B machine learning"
+            ],
+            "tags": [
+                "Retirements",
+                "Services"
+            ],
+            "products": [
+                "Azure AI Language"
+            ],
+            "generalAvailabilityDate": null,
+            "previewAvailabilityDate": null,
+            "privatePreviewAvailabilityDate": null,
+            "title": "Retirement: Entity Linking from Azure AI Language",
+            "description": "\u003Cdiv style=\u0022\u0022\u003E\u003Cp style=\u0022margin: 0in 0in 8pt;\u0022\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EMicrosoft\nis announcing the planned retirement of Entity Linking from Azure AI Language. We\nrecommend considering a replacement solution; \u003C/span\u003E\u003Ca style=\u0022\u0022 href=\u0022https://learn.microsoft.com/en-us/azure/ai-services/language-service/named-entity-recognition/overview\u0022\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003ENamed\nEntity Recognition\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E from Azure AI Language also supports entity\nidentification.\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin: 12pt 0in;\u0022\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EMicrosoft\nwill provide full support for all existing Entity Linking until September 8,\n2028. During this support window, customers are encouraged to begin planning\nand executing their transition to Named Entity Recognition or another\nreplacement solution, depending on their workload and compliance requirements. \u003C/span\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin: 12pt 0in;\u0022\u003E\u003Cb\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt;\u0022\u003ERequired\naction\u003C/span\u003E\u003C/b\u003E\u003C/p\u003E\u003Cul style=\u0022\u0022\u003E\u003Cli style=\u0022font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EEffective immediately, Microsoft will no longer accept new customer\nonboardings to Entity Linking. \u0026nbsp;\u003C/span\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cul style=\u0022\u0022\u003E\u003Cli\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EMake a plan to transition plan for \u003C/span\u003E\u003Ca style=\u0022\u0022 href=\u0022https://learn.microsoft.com/en-us/azure/ai-services/language-service/named-entity-recognition/overview\u0022\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003ENamed\nEntity Recognition\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E or another replacement solution by September 08, 2026 \u0026nbsp;\u003C/span\u003E\u003C/li\u003E\u003Cli style=\u0022font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EEntity Linking will be retired on 8 September\n2028, please transition off by that date.\u003C/span\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\n\u003C/span\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cp style=\u0022margin: 12pt 0in;\u0022\u003E\u003Cb\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt;\u0022\u003EHelp and support\u003C/span\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt;\u0022\u003E \u003C/span\u003E\u003C/b\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EIf you have questions, get answers from\ncommunity experts in \u003C/span\u003E\u003Ca style=\u0022\u0022 href=\u0022https://aka.ms/azureqa\u0022\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EMicrosoft Q\u0026amp;A\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E. If you have a support plan and need technical help, open the \u003C/span\u003E\u003Ca style=\u0022\u0022 href=\u0022https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview\u0022\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EAzure portal\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E and select the question mark icon at the top of\nthe page.\u003C/span\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E\u0026nbsp;\u0026nbsp;\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E",
+            "status": null,
+            "created": "2025-09-26T22:00:37.2591846Z",
+            "modified": "2025-09-26T22:00:37.2591846Z",
+            "locale": null,
+            "availabilities": [
+                {
+                    "ring": "Retirement",
+                    "year": 2028,
+                    "month": "September"
                 }
             ]
         },
         {
-            "name": "Status",
-            "values": [
+            "id": "499451",
+            "productCategories": [
+                "Compute",
+                "Containers",
+                "Internet of Things"
+            ],
+            "tags": [
+                "Retirements",
+                "Pricing \u0026 Offerings"
+            ],
+            "products": [
+                "Azure Functions"
+            ],
+            "generalAvailabilityDate": null,
+            "previewAvailabilityDate": null,
+            "privatePreviewAvailabilityDate": null,
+            "title": "Retirement: The Linux Consumption hosting plan of Azure Functions will be retired on September 30, 2028. Migrate to Flex Consumption.",
+            "description": "\u003Cdiv style=\u0022font-family: Arial; font-size: 10pt;\u0022\u003E\u003Cspan style=\u0022font-family: \u0026quot;Segoe UI\u0026quot;, \u0026quot;Segoe UI Web (West European)\u0026quot;, \u0026quot;Segoe UI\u0026quot;, -apple-system, BlinkMacSystemFont, Roboto, \u0026quot;Helvetica Neue\u0026quot;, sans-serif; font-size: 14px; color: rgb(0, 0, 0);\u0022\u003EThe Azure Functions Linux Consumption hosting plan is being retired. Customers are advised to migrate to the Flex Consumption plan, which offers faster scaling, advanced networking, cold start mitigation, and concurrency control. To identify affected resources, check the Azure portal for App Service plans with \u003C/span\u003E\u003Cspan style=\u0022font-family: \u0026quot;Segoe UI\u0026quot;, \u0026quot;Segoe UI Web (West European)\u0026quot;, \u0026quot;Segoe UI\u0026quot;, -apple-system, BlinkMacSystemFont, Roboto, \u0026quot;Helvetica Neue\u0026quot;, sans-serif; font-size: 14px; color: rgb(0, 0, 0);\u0022\u003EPricing Tier\u003C/span\u003E\u003Cspan style=\u0022font-family: \u0026quot;Segoe UI\u0026quot;, \u0026quot;Segoe UI Web (West European)\u0026quot;, \u0026quot;Segoe UI\u0026quot;, -apple-system, BlinkMacSystemFont, Roboto, \u0026quot;Helvetica Neue\u0026quot;, sans-serif; font-size: 14px; color: rgb(0, 0, 0);\u0022\u003E: Dynamic (Y1: 0) and \u003C/span\u003E\u003Cspan style=\u0022font-family: \u0026quot;Segoe UI\u0026quot;, \u0026quot;Segoe UI Web (West European)\u0026quot;, \u0026quot;Segoe UI\u0026quot;, -apple-system, BlinkMacSystemFont, Roboto, \u0026quot;Helvetica Neue\u0026quot;, sans-serif; font-size: 14px; color: rgb(0, 0, 0);\u0022\u003EOperating System\u003C/span\u003E\u003Cspan style=\u0022font-family: \u0026quot;Segoe UI\u0026quot;, \u0026quot;Segoe UI Web (West European)\u0026quot;, \u0026quot;Segoe UI\u0026quot;, -apple-system, BlinkMacSystemFont, Roboto, \u0026quot;Helvetica Neue\u0026quot;, sans-serif; font-size: 14px; color: rgb(0, 0, 0);\u0022\u003E: Linux. Key dates:\u0026nbsp;\u003C/span\u003E\u003C/div\u003E\u003Cspan data-teams=\u0022true\u0022\u003E\u003Cul\u003E\u003Cli\u003EAfter September 30, 2025: No new features for Linux Consumption; it will be removed from the Azure Portal, Visual Studio, and VS Code, but can still be managed via infrastructure as code and Azure CLI.\u0026nbsp;\u003C/li\u003E\u003Cli\u003EAfter September 30, 2028: No technical support or ability to create new Linux Consumption function apps.\u0026nbsp;\u003C/li\u003E\u003C/ul\u003E\u003Cp\u003EPlease \u003Ca title=\u0022https://aka.ms/flexconsumption/migration\u0022 rel=\u0022noreferrer noopener\u0022 href=\u0022https://aka.ms/flexconsumption/migration\u0022\u003Emigrate to Flex Consumption\u003C/a\u003E by September 30, 2028, to avoid service disruptions. Microsoft will provide migration documentation and tools throughout the transition.\u003C/p\u003E\u003C/span\u003E\u003Cdiv style=\u0022mso-element:comment-list\u0022\u003E\u003C/div\u003E",
+            "status": null,
+            "created": "2025-09-26T16:30:29.3908328Z",
+            "modified": "2025-09-26T16:30:29.3908328Z",
+            "locale": null,
+            "availabilities": [
                 {
-                    "value": "In preview",
-                    "count": 1
-                },
+                    "ring": "Retirement",
+                    "year": 2025,
+                    "month": "September"
+                }
+            ]
+        },
+        {
+            "id": "498563",
+            "productCategories": [
+                "Storage"
+            ],
+            "tags": [
+                "Retirements"
+            ],
+            "products": [
+                "Azure Blob Storage"
+            ],
+            "generalAvailabilityDate": null,
+            "previewAvailabilityDate": null,
+            "privatePreviewAvailabilityDate": null,
+            "title": "Retirement: Upgrade BlobFuse v1 to latest version of Blobfuse v2 ",
+            "description": "\u003Cdiv style=\u0022\u0022\u003E\u003Cspan data-dm-inline-bgcolor=\u0022\u0022 data-dm-inline-color=\u0022\u0022 style=\u0022--dm-inline-color: #d6d1ca; --dm-inline-bgcolor: #0d0f10; display: inline !important; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003EWe recommend upgrading from BlobFuse v1 to \u003C/span\u003E\u003Cspan data-dm-inline-bgcolor=\u0022\u0022 data-dm-inline-color=\u0022\u0022 style=\u0022--dm-inline-color: #d6d1ca; --dm-inline-bgcolor: #0d0f10; display: inline !important;\u0022\u003E\u003Cspan style=\u0022--dm-inline-color: #80b4c2; font-family: Arial; font-size: 10pt;\u0022\u003E\u003Ca href=\u0022http://aka.ms/blobfuse\u0022\u003EBlobFuse\nv2\u003C/a\u003E,\u003C/span\u003E\u003C/span\u003E\u003Cspan data-dm-inline-bgcolor=\u0022\u0022 data-dm-inline-color=\u0022\u0022 style=\u0022--dm-inline-color: #d6d1ca; --dm-inline-bgcolor: #0d0f10; display: inline !important; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Eas all future enhancements and innovations related to Azure Blob Storage file system access will be focused exclusively on BlobFuse v2. Please note that support for BlobFuse v1 will be discontinued effective September 2026. P\u003C/span\u003E\u003Cspan data-dm-inline-bgcolor=\u0022\u0022 data-dm-inline-color=\u0022\u0022 style=\u0022--dm-inline-color: #d6d1ca; --dm-inline-bgcolor: #0d0f10; display: inline !important;\u0022\u003E\u003Cspan data-dm-inline-bgcolor=\u0022\u0022 data-dm-inline-color=\u0022\u0022 style=\u0022--dm-inline-color: #d6d1ca; --dm-inline-bgcolor: #0d0f10; display: inline !important; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Elease migrate to BlobFuse v2 using the provided \u003C/span\u003E\u003Cspan data-dm-inline-bgcolor=\u0022\u0022 data-dm-inline-color=\u0022\u0022 style=\u0022--dm-inline-color: #d6d1ca; --dm-inline-bgcolor: #0d0f10; display: inline !important;\u0022\u003E\u003Ca data-dm-inline-color=\u0022\u0022 style=\u0022--dm-inline-color: #80b4c2;\u0022 href=\u0022https://github.com/Azure/azure-storage-fuse/blob/main/MIGRATION.md\u0022\u003E\u003Cspan style=\u0022font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003Einstructions\u003C/span\u003E\u003C/a\u003E\u003C/span\u003E\u003Cspan data-dm-inline-bgcolor=\u0022\u0022 data-dm-inline-color=\u0022\u0022 style=\u0022--dm-inline-color: #d6d1ca; --dm-inline-bgcolor: #0d0f10; display: inline !important; font-family: Arial; font-size: 10pt; font-weight: 400;\u0022\u003E.\u003C/span\u003E\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E",
+            "status": null,
+            "created": "2025-09-26T16:00:55.3883273Z",
+            "modified": "2025-09-26T16:00:55.3883273Z",
+            "locale": null,
+            "availabilities": [
                 {
-                    "value": "Launched",
-                    "count": 10
+                    "ring": "Retirement",
+                    "year": 2026,
+                    "month": "September"
+                }
+            ]
+        },
+        {
+            "id": "500016",
+            "productCategories": [
+                "Compute",
+                "Mobile",
+                "Web"
+            ],
+            "tags": [
+                "Retirements",
+                "Features"
+            ],
+            "products": [
+                "App Service"
+            ],
+            "generalAvailabilityDate": null,
+            "previewAvailabilityDate": null,
+            "privatePreviewAvailabilityDate": null,
+            "title": "Retirement: Azure App Service on Azure Arc enabled Kubernetes",
+            "description": "\u003Cdiv style=\u0022font-family: Arial; font-size: 10pt;\u0022\u003EBeginning on September 30th 2025, Azure App Service on Azure Arc enabled Kubernetes will be retired, and customers will no longer be able to install the extension.\u003C/div\u003E\u003Cdiv style=\u0022font-family: Arial; font-size: 10pt;\u0022\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv style=\u0022font-family: Arial; font-size: 10pt;\u0022\u003ETo continue to host your application workloads, we request you migrate to other solutions such as Azure Container Apps on Azure Arc enabled Kubernetes.\u0026nbsp; Azure Container Apps on Azure Arc enabled Kubernetes also allows you to take advantage of Logic Apps Hybrid for your integration workloads.\u003C/div\u003E\u003Cdiv style=\u0022font-family: Arial; font-size: 10pt;\u0022\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv style=\u0022font-family: Arial; font-size: 10pt;\u0022\u003EWe recommend evaluating and migrating to another solution as early as possible to allow sufficient time for completion of migration.\u003C/div\u003E\u003Cdiv style=\u0022font-family: Arial; font-size: 10pt;\u0022\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv style=\u0022font-family: Arial; font-size: 10pt;\u0022\u003E\u003Cb\u003EHelp and support\u003C/b\u003E\u003C/div\u003E\u003Cdiv style=\u0022font-family: Arial; font-size: 10pt;\u0022\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv style=\u0022font-family: Arial; font-size: 10pt;\u0022\u003E\u003Cp style=\u0022box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-size: 16px; line-height: 24px; letter-spacing: -0.48px; font-family: \u0026quot;Segoe UI\u0026quot;; text-align: left; color: rgb(23, 37, 61); background-color: rgb(254, 254, 254);\u0022\u003EIf you have questions, get answers from community experts in\u202F\u003Ca style=\u0022box-sizing: border-box; text-decoration: underline; color: rgb(0, 103, 184);\u0022 href=\u0022https://go.microsoft.com/fwlink/?linkid=2287203\u0022\u003EMicrosoft Q\u0026amp;A\u003C/a\u003E. If you have a support plan and you need technical help, create a\u202F\u003Ca style=\u0022box-sizing: border-box; text-decoration: underline; color: rgb(0, 103, 184);\u0022 href=\u0022https://go.microsoft.com/fwlink/?linkid=2282037\u0022\u003Esupport request\u003C/a\u003E.\u202F\u003C/p\u003E\u003Cbr\u003E\u003C/div\u003E",
+            "status": null,
+            "created": "2025-09-26T11:45:02.2199127Z",
+            "modified": "2025-09-26T11:45:02.2199127Z",
+            "locale": null,
+            "availabilities": [
+                {
+                    "ring": "Retirement",
+                    "year": 2026,
+                    "month": "March"
                 }
             ]
         }
