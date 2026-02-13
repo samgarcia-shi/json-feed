@@ -1,1822 +1,1824 @@
-[
-  {
-    "id": "azure-classic-administrator-roles-are-retiring-on-31-august-2024",
-    "product": "Azure classic administrator roles",
-    "title": "Azure classic administrator roles",
-    "retirementDate": "2024-08-31",
-    "itemUrl": "https://azure.microsoft.com/updates/azure-classic-administrator-roles-are-retiring-on-31-august-2024/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "hbseries-azure-virtual-machines-will-be-retired-by-31-august-2024",
-    "product": "Virtual Machines",
-    "title": "HB-series",
-    "retirementDate": "2024-08-31",
-    "itemUrl": "https://azure.microsoft.com/updates/hbseries-azure-virtual-machines-will-be-retired-by-31-august-2024/",
-    "category": "Compute",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-classic-resource-providers-will-be-retired-on-31-august-2024",
-    "product": "Classic Resource Providers",
-    "title": "Classic Resource Providers",
-    "retirementDate": "2024-08-31",
-    "itemUrl": "https://azure.microsoft.com/updates/azure-classic-resource-providers-will-be-retired-on-31-august-2024/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "retirement-azure-automation-agent-user-hybrid-worker",
-    "product": "Azure Automation",
-    "title": "Agent-based user Hybrid Runbook Worker (Windows & Linux)",
-    "retirementDate": "2024-08-31",
-    "itemUrl": "https://azure.microsoft.com/updates/retirement-azure-automation-agent-user-hybrid-worker",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "classic-azure-storage-accounts-will-be-retired-on-31-august-2024",
-    "product": "Storage Account",
-    "title": "Classic",
-    "retirementDate": "2024-08-31",
-    "itemUrl": "https://azure.microsoft.com/updates/classic-azure-storage-accounts-will-be-retired-on-31-august-2024/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "cloud-services-retirement-announcement",
-    "product": "Cloud service (classic)",
-    "title": "Classic",
-    "retirementDate": "2024-08-31",
-    "itemUrl": "https://azure.microsoft.com/updates/cloud-services-retirement-announcement/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "were-retiring-the-log-analytics-agent-in-azure-monitor-on-31-august-2024",
-    "product": "Azure Monitor",
-    "title": "Log Analytics Agent",
-    "retirementDate": "2024-08-31",
-    "itemUrl": "https://azure.microsoft.com/updates/were-retiring-the-log-analytics-agent-in-azure-monitor-on-31-august-2024/",
-    "category": "Management and governance",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "retirement-notice-transition-to-custom-availability-tests-in-application-insights",
-    "product": "Azure Monitor",
-    "title": "Multi-step web tests",
-    "retirementDate": "2024-08-31",
-    "itemUrl": "https://azure.microsoft.com/updates/retirement-notice-transition-to-custom-availability-tests-in-application-insights/",
-    "category": "Management and governance",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "action-required-migrate-your-azure-workloads-to-av2series-vms-before-31-august-2024",
-    "product": "Virtual Machines",
-    "title": "Av1-series",
-    "retirementDate": "2024-08-31",
-    "itemUrl": "https://azure.microsoft.com/updates/action-required-migrate-your-azure-workloads-to-av2series-vms-before-31-august-2024/",
-    "category": "Compute",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-maps-data-v1-v2-apis-will-be-retired-on-16-september-2024",
-    "product": "Azure Maps",
-    "title": "Data V1/V2 APIs  ",
-    "retirementDate": "2024-09-16",
-    "itemUrl": "https://azure.microsoft.com/updates/azure-maps-data-v1-v2-apis-will-be-retired-on-16-september-2024/",
-    "category": "Web",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "powershell72-azure-functions-retirement",
-    "product": "Azure Functions",
-    "title": "PowerShell 7.2",
-    "retirementDate": "2024-11-08",
-    "itemUrl": "https://azure.microsoft.com/updates/v2/powershell72-azure-functions-retirement",
-    "category": "Compute",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-functionsfunctions-versionstabsisolated-process2cv4-and-pivotsprogramming-language-csharp",
-    "product": "Azure Functions",
-    "title": ".NET 6",
-    "retirementDate": "2024-11-12",
-    "itemUrl": "https://learn.microsoft.com/azure/azure-functions/functions-versions?tabs=isolated-process%2Cv4&pivots=programming-language-csharp",
-    "category": "Compute",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "dotnet6support",
-    "product": "App Service",
-    "title": ".NET 6 (LTS)",
-    "retirementDate": "2024-11-12",
-    "itemUrl": "https://azure.microsoft.com/updates/dotnet6support/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "postgresql-version-support-and-retirement",
-    "product": "Azure Cosmos DB for PostgreSQL",
-    "title": "PostgreSQL 12",
-    "retirementDate": "2024-11-14",
-    "itemUrl": "https://learn.microsoft.com/azure/cosmos-db/postgresql/reference-versions#postgresql-version-support-and-retirement",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "sql-insights-retirement",
-    "product": "Azure SQL",
-    "title": "SQL Insights",
-    "retirementDate": "2024-12-30",
-    "itemUrl": "https://azure.microsoft.com/updates/v2/sql-insights-retirement",
-    "category": "Databases",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-hdinsight-on-aks-retirement",
-    "product": "Azure HDInsight on Azure Kubernetes Service (AKS)",
-    "title": "Azure HDInsight on Azure Kubernetes Service (AKS)",
-    "retirementDate": "2025-01-31",
-    "itemUrl": "https://azure.microsoft.com/updates?id=azure-hdinsight-on-aks-retirement",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "tls-changes-for-azure-event-grid",
-    "product": "Event Grid",
-    "title": "Support for TLS 1.0 and 1.1",
-    "retirementDate": "2025-02-28",
-    "itemUrl": "https://azure.microsoft.com/updates/v2/TLS-changes-for-Azure-Event-Grid",
-    "category": "Integration",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "deprecating-tls-configuration",
-    "product": "Availability Tests",
-    "title": "Support for TLS 1.0 and 1.1",
-    "retirementDate": "2025-05-01",
-    "itemUrl": "https://learn.microsoft.com/azure/azure-monitor/app/availability?tabs=standard#deprecating-tls-configuration",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "cosmos-dbself-serve-minimum-tls-enforcement",
-    "product": "Azure Cosmos DB",
-    "title": "Support for TLS 1.0 and 1.1",
-    "retirementDate": "2025-08-31",
-    "itemUrl": "https://learn.microsoft.com/azure/cosmos-db/self-serve-minimum-tls-enforcement",
-    "category": "Databases",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "mysqlflexible-serverhow-to-connect-tls-ssl",
-    "product": "Azure Database for MySQL Flexible Server",
-    "title": "Support for TLS 1.0 and 1.1",
-    "retirementDate": "2025-08-31",
-    "itemUrl": "https://learn.microsoft.com/azure/mysql/flexible-server/how-to-connect-tls-ssl",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "php-81-extension",
-    "product": "App Service",
-    "title": "PHP 8.1",
-    "retirementDate": "2025-12-31",
-    "itemUrl": "https://azure.microsoft.com/updates/v2/Php-81-extension",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "technical-support-for-instrumentation-key-based-global-ingestion-in-application-insights-will-end-on-31-march-2025",
-    "product": "Application Insights",
-    "title": "Global ingestion endpoints",
-    "retirementDate": "2025-03-15",
-    "itemUrl": "https://azure.microsoft.com/updates/technical-support-for-instrumentation-key-based-global-ingestion-in-application-insights-will-end-on-31-march-2025/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "sql-server-connector-s-v1-actions-and-triggers-will-be-retired-on-31-march-2024-transition-to-sql-server-connector-s-v2-actio",
-    "product": "Azure SQL",
-    "title": "Connector v1 operations",
-    "retirementDate": "2025-06-30",
-    "itemUrl": "https://azure.microsoft.com/updates/sql-server-connector-s-v1-actions-and-triggers-will-be-retired-on-31-march-2024-transition-to-sql-server-connector-s-v2-actio/",
-    "category": "Databases",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-maps-native-sdk-for-android-and-ios-will-be-retired-on-31-march-2025-transition-to-use-web-view-of-azure-maps-web-sdk",
-    "product": "Azure Maps",
-    "title": "Native SDK",
-    "retirementDate": "2025-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/azure-maps-native-sdk-for-android-and-ios-will-be-retired-on-31-march-2025-transition-to-use-web-view-of-azure-maps-web-sdk/",
-    "category": "Web",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "direct-mgmt-api-begin-using-azure-monitor-based-dashboards-in-azure-api-management-before-the-builtin-analytics-dashboards-are-retired",
-    "product": "API Management",
-    "title": "Direct Management API",
-    "retirementDate": "2025-03-15",
-    "itemUrl": "https://azure.microsoft.com/updates/begin-using-azure-monitor-based-dashboards-in-azure-api-management-before-the-builtin-analytics-dashboards-are-retired-on-15/",
-    "category": "Integration",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "important-notice-azure-product-retirement-end-of-life-announcement-of-azure-maps-creator-feature-state-service-versions-31-ma",
-    "product": "Azure Maps",
-    "title": "Creator Feature State APIs",
-    "retirementDate": "2025-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/important-notice-azure-product-retirement-end-of-life-announcement-of-azure-maps-creator-feature-state-service-versions-31-ma/",
-    "category": "Web",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "migrate-your-git-repository-to-automated-deployments-with-apiops-by-15-march-2025",
-    "product": "API Management",
-    "title": "Git Repository",
-    "retirementDate": "2025-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/migrate-your-git-repository-to-automated-deployments-with-apiops-by-15-march-2025/",
-    "category": "Integration",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "retirement-notice-the-legacy-azure-storage-c-client-libraries-will-be-retired-on-29-march-2025",
-    "product": "Storage Account",
-    "title": "Track 1 SDK for C++",
-    "retirementDate": "2025-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/retirement-notice-the-legacy-azure-storage-c-client-libraries-will-be-retired-on-29-march-2025/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "acr-helm-repositories-retirement",
-    "product": "Azure Container Registry",
-    "title": "Helm Repositories",
-    "retirementDate": "2025-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/v2/acr-helm-repositories-retirement",
-    "category": "Containers",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "action-required-upgrade-your-app-service-apps-to-node-20-lts-by-30-april-2025",
-    "product": "App Service",
-    "title": "Node 18 LTS",
-    "retirementDate": "2025-04-30",
-    "itemUrl": "https://azure.microsoft.com/updates/action-required-upgrade-your-app-service-apps-to-node-20-lts-by-30-april-2025/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "supported-tls-configurations",
-    "product": "Application Insights",
-    "title": "Support for TLS 1.0 and 1.1",
-    "retirementDate": "2025-05-01",
-    "itemUrl": "https://learn.microsoft.com/azure/azure-monitor/app/availability?tabs=standard#supported-tls-configurations",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "migrate-your-gitops-configurations-from-flux-v1-to-flux-v2-by-24-may-2025",
-    "product": "Azure Arc-enabled Kubernetes",
-    "title": "Cluster Configuration with Flux v1 ",
-    "retirementDate": "2025-05-24",
-    "itemUrl": "https://azure.microsoft.com/updates/migrate-your-gitops-configurations-from-flux-v1-to-flux-v2-by-24-may-2025/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "sap-hana-on-azure-large-instances-will-be-retired-by-30-june-2025-transition-to-virtual-machines",
-    "product": "SAP HANA Large Instances (HLIs)",
-    "title": "SAP HANA Large Instances (HLIs)",
-    "retirementDate": "2025-12-31",
-    "itemUrl": "https://azure.microsoft.com/updates/sap-hana-on-azure-large-instances-will-be-retired-by-30-june-2025-transition-to-virtual-machines/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-application-gateway-support-for-tls-10-and-tls-11-will-end-by-31-august-2025",
-    "product": "Application Gateway",
-    "title": "Support for TLS 1.0 and 1.1 (enlists resources with older TLS policies)",
-    "retirementDate": "2025-08-31",
-    "itemUrl": "https://azure.microsoft.com/updates/v2/Azure-Application-Gateway-support-for-TLS-10-and-TLS-11-will-end-by-31-August-2025",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "upcoming-retirement-changes",
-    "product": "Azure SQL DB",
-    "title": "Support for TLS 1.0 and 1.1",
-    "retirementDate": "2025-08-31",
-    "itemUrl": "https://learn.microsoft.com/azure/azure-sql/database/connectivity-settings?view=azuresql&tabs=azure-portal#upcoming-retirement-changes",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "checking-tls-versions-for-iot-hub-devices",
-    "product": "Azure IoT Hub",
-    "title": "Support for TLS 1.0 and 1.1",
-    "retirementDate": "2025-08-31",
-    "itemUrl": "https://learn.microsoft.com/azure/iot-hub/iot-hub-tls-support#checking-tls-versions-for-iot-hub-devices",
-    "category": "Internet of Things",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-sqlmanaged-instanceminimal-tls-version-configureviewazuresql",
-    "product": "Azure SQL MI",
-    "title": "Support for TLS 1.0 and 1.1",
-    "retirementDate": "2025-08-31",
-    "itemUrl": "https://learn.microsoft.com/azure/azure-sql/managed-instance/minimal-tls-version-configure?view=azuresql",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-machine-learning-data-drift-retirement",
-    "product": "Azure Machine Learning ",
-    "title": "Data Drift",
-    "retirementDate": "2025-09-01",
-    "itemUrl": "https://azure.microsoft.com/updates/v2/Azure-Machine-Learning-Data-Drift-Retirement",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-activity-logs-legacy-solution-is-replaced-by-diagnostic-settings-storage-retention",
-    "product": "Azure Monitor",
-    "title": "Diagnostic Settings Storage Retention",
-    "retirementDate": "2025-09-15",
-    "itemUrl": "https://azure.microsoft.com/updates/azure-activity-logs-legacy-solution-is-replaced-by-diagnostic-settings/",
-    "category": "Management and governance",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-database-for-mariadb-will-be-retired-on-19-september-2025-migrate-to-azure-database-for-mysql-flexible-server",
-    "product": "Azure Database for MariaDB",
-    "title": "Azure Database for MariaDB",
-    "retirementDate": "2025-09-19",
-    "itemUrl": "https://azure.microsoft.com/updates/azure-database-for-mariadb-will-be-retired-on-19-september-2025-migrate-to-azure-database-for-mysql-flexible-server/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "microsoft-purview-data-sharing-in-public-preview-is-retiring",
-    "product": "Azure Purview",
-    "title": "Data Sharing",
-    "retirementDate": "2025-09-26",
-    "itemUrl": "https://azure.microsoft.com/updates/v2/Microsoft-Purview-Data-Sharing-in-Public-Preview-is-retiring",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "virtual-machinesunmanaged-disks-deprecation",
-    "product": "Azure Disks",
-    "title": "Unmanaged Disks",
-    "retirementDate": "2026-03-31",
-    "itemUrl": "https://learn.microsoft.com/azure/virtual-machines/unmanaged-disks-deprecation",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-basic-load-balancer-will-be-retired-on-30-september-2025-upgrade-to-standard-load-balancer",
-    "product": "Azure Load Balancer",
-    "title": "Basic Load Balancer",
-    "retirementDate": "2025-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/azure-basic-load-balancer-will-be-retired-on-30-september-2025-upgrade-to-standard-load-balancer/",
-    "category": "Networking",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "upgrade-to-standard-sku-public-ip-addresses-in-azure-by-30-september-2025-basic-sku-will-be-retired",
-    "product": "Public IP address",
-    "title": "Basic Sku",
-    "retirementDate": "2025-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/upgrade-to-standard-sku-public-ip-addresses-in-azure-by-30-september-2025-basic-sku-will-be-retired/",
-    "category": "Networking",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "restapisqlretirement",
-    "product": "Azure SQL",
-    "title": "Microsoft.SQL 2014-04-01 stable APIs",
-    "retirementDate": "2026-06-30",
-    "itemUrl": "https://learn.microsoft.com/rest/api/sql/retirement",
-    "category": "Databases",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "community-support-for-azure-functions-proxies-will-end-on-30-september-2025",
-    "product": "Azure Functions",
-    "title": "Proxy support",
-    "retirementDate": "2025-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/community-support-for-azure-functions-proxies-will-end-on-30-september-2025",
-    "category": "Compute",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-monitoralertsitsmc-overview-alerts",
-    "product": "Azure Monitor",
-    "title": "ITSM connector for ServiceNow Alerts",
-    "retirementDate": "2025-09-30",
-    "itemUrl": "https://learn.microsoft.com/azure/azure-monitor/alerts/itsmc-overview",
-    "category": "Management and governance",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-monitoralertsitsmc-overview-events",
-    "product": "Azure Monitor",
-    "title": "ITSM connector for ServiceNow Events",
-    "retirementDate": "2025-09-30",
-    "itemUrl": "https://learn.microsoft.com/azure/azure-monitor/alerts/itsmc-overview",
-    "category": "Management and governance",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-batch-low-priority-vms-will-be-retired-on-30-september-2025",
-    "product": "Azure Batch",
-    "title": "Low Priority VMs",
-    "retirementDate": "2025-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/azure-batch-low-priority-vms-will-be-retired-on-30-september-2025/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "switch-to-azure-ad-authentication-for-application-insights-by-30-september-2025",
-    "product": "Application Insights",
-    "title": "API Key",
-    "retirementDate": "2025-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/switch-to-azure-ad-authentication-for-application-insights-by-30-september-2025/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "machine-learninghow-to-migrate-from-v1",
-    "product": "Azure Machine Learning",
-    "title": "CLI v1",
-    "retirementDate": "2025-09-30",
-    "itemUrl": "https://docs.microsoft.com/azure/machine-learning/how-to-migrate-from-v1",
-    "category": "AI + machine learning",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "migrate-to-azure-monitor-vm-insights-by-30-september-2025-when-service-map-will-be-retired",
-    "product": "Azure Service Map",
-    "title": "Azure Service Map",
-    "retirementDate": "2025-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/migrate-to-azure-monitor-vm-insights-by-30-september-2025-when-service-map-will-be-retired/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "application-insights-java-2x-retirement",
-    "product": "Application Insights",
-    "title": "Java 2.x SDK",
-    "retirementDate": "2025-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/application-insights-java-2x-retirement/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "retirement-notice-transition-to-the-authentication-methods-policy-for-azure-active-directory",
-    "product": "Azure Active Directory",
-    "title": "Legacy MFA and SSPR policies for authentication",
-    "retirementDate": "2025-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/retirement-notice-transition-to-the-authentication-methods-policy-for-azure-active-directory/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "default-outbound-access-for-vms-in-azure-will-be-retired-transition-to-a-new-method-of-internet-access",
-    "product": "Virtual Machines",
-    "title": "Default outbound access",
-    "retirementDate": "2026-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/default-outbound-access-for-vms-in-azure-will-be-retired-transition-to-a-new-method-of-internet-access/",
-    "category": "Compute",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "what-will-happen-to-azure-database-for-mysql-service-after-mysql-community-version-is-retired-in-october-2023",
-    "product": "Azure Database for MySQL",
-    "title": "MySQL v5.7",
-    "retirementDate": "2026-03-31",
-    "itemUrl": "https://learn.microsoft.com/azure/mysql/concepts-version-policy#what-will-happen-to-azure-database-for-mysql-service-after-mysql-community-version-is-retired-in-october-2023",
-    "category": "Databases",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "standard-and-highperformance-vpn-gateway-skus-will-be-retired-on-30-september-2025",
-    "product": "VPN Gateway",
-    "title": "Standard and High-Performance SKUs",
-    "retirementDate": "2026-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/standard-and-highperformance-vpn-gateway-skus-will-be-retired-on-30-september-2025/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "vfxtretirement",
-    "product": "Azure vFXT",
-    "title": "Azure vFXT",
-    "retirementDate": "2025-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/vfxtretirement/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "hpccacheretirement",
-    "product": "Azure HPC Cache",
-    "title": "Azure HPC Cache",
-    "retirementDate": "2025-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/hpccacheretirement/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "standardnc6sv3-standardnc12sv3-and-standardnc24sv3-azure-virtual-machines-will-be-retired-on-september-30-2025",
-    "product": "Virtual Machines",
-    "title": "Standard_NC6s_v3, Standard_NC12s_v3, Standard_NC24s_v3 and Standard_NC24rs_v3",
-    "retirementDate": "2025-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/standardnc6sv3-standardnc12sv3-and-standardnc24sv3-azure-virtual-machines-will-be-retired-on-september-30-2025/",
-    "category": "Compute",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "some-compliance-features-in-microsoft-defender-for-cloud-will-be-retired-on-september-30-2025",
-    "product": "Microsoft Defender for Cloud",
-    "title": "Microsoft Actions and Compliance Offerings",
-    "retirementDate": "2025-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/some-compliance-features-in-microsoft-defender-for-cloud-will-be-retired-on-september-30-2025/",
-    "category": "Security",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "default-internet-outbound-access-for-simplified-node-communication-batch-pools-without-public-ip-addresses-will-be-retired-on",
-    "product": "Azure Batch pools",
-    "title": "Default outbound access for Simplified node communication pool without public IP addresses",
-    "retirementDate": "2025-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/default-internet-outbound-access-for-simplified-node-communication-batch-pools-without-public-ip-addresses-will-be-retired-on/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "ncv3-series-vm-family-support-in-azure-batch-pools-retirement",
-    "product": "Azure Batch",
-    "title": "NCv3 VM Family Support",
-    "retirementDate": "2025-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/v2/NCv3-series-VM-family-support-in-azure-batch-pools-retirement",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-maps-data-registry-apis-retirement-on-30-september-2025",
-    "product": "Azure Maps",
-    "title": "Data Registry 2023-06-01",
-    "retirementDate": "2025-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/v2/azure-maps-data-registry-apis-retirement-on-30-september-2025",
-    "category": "Web",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-sql-edge-retirement",
-    "product": "Azure SQL Edge",
-    "title": "Azure SQL Edge",
-    "retirementDate": "2025-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/v2/azure-sql-edge-retirement",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-maps-creator-services-retirement-on-30-september-2025",
-    "product": "Azure Maps",
-    "title": "Creator Service APIs V2 & 2023-03-01-preview",
-    "retirementDate": "2025-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/v2/azure-maps-creator-services-retirement-on-30-september-2025",
-    "category": "Web",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-remote-rendering-retirement",
-    "product": "Azure Remote Rendering",
-    "title": "Azure Remote Rendering",
-    "retirementDate": "2025-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/v2/azure-remote-rendering-retirement",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-intent-recognition-retirement",
-    "product": "Speech",
-    "title": "Intent Recognition",
-    "retirementDate": "2025-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/v2/Azure-Intent-Recognition-Retirement",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-maps-spatial-apis-v1-2022-08-01",
-    "product": "Azure Maps",
-    "title": "Spatial API V1 & 2022-08-01",
-    "retirementDate": "2025-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/v2/Azure-Maps-Spatial-APIs-V1-2022-08-01",
-    "category": "Web",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "language-understanding-retirement",
-    "product": "Cognitive Services",
-    "title": "Language Understanding (LUIS)",
-    "retirementDate": "2026-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/language-understanding-retirement/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-monitoralertsalerts-log-api-switch",
-    "product": "Azure Monitor",
-    "title": "Log Analytics alert API ",
-    "retirementDate": "2025-10-01",
-    "itemUrl": "https://docs.microsoft.com/azure/azure-monitor/alerts/alerts-log-api-switch",
-    "category": "Management and governance",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "python-39-app-svc",
-    "product": "App Service",
-    "title": "Python 3.9",
-    "retirementDate": "2025-10-01",
-    "itemUrl": "https://azure.microsoft.com/updates/v2/python-39-app-svc",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "tls-1-0-and-1-1-support-will-be-removed-for-new-existing-azure-storage-accounts-4026181",
-    "product": "Storage Account",
-    "title": "Support for TLS 1.0 and 1.1",
-    "retirementDate": "2026-02-03",
-    "itemUrl": "https://techcommunity.microsoft.com/blog/azurestorageblog/tls-1-0-and-1-1-support-will-be-removed-for-new--existing-azure-storage-accounts/4026181",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "postgresql-11-support",
-    "product": "Azure Database for PostgreSQL",
-    "title": "FlexibleServers- Version 11",
-    "retirementDate": "2026-03-31",
-    "itemUrl": "https://learn.microsoft.com/azure/postgresql/flexible-server/concepts-version-policy#postgresql-11-support",
-    "category": "Databases",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "php-82-app-svc",
-    "product": "Azure App Service",
-    "title": "PHP 8.2",
-    "retirementDate": "2026-12-31",
-    "itemUrl": "https://azure.microsoft.com/updates/v2/php-82-app-svc",
-    "category": "Web",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "479933",
-    "product": "Azure Data Studio",
-    "title": "Transition from Azure Data Studio to Visual Studio Code",
-    "retirementDate": "2026-02-28",
-    "itemUrl": "https://azure.microsoft.com/updates/?id=479933",
-    "category": "Developer tools",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "were-retiring-speechtotext-rest-preview-api-v31preview1-on-may-12-2023",
-    "product": "Speech service",
-    "title": "Speech-to-text REST preview API v3.1-preview.1",
-    "retirementDate": "2026-03-13",
-    "itemUrl": "https://azure.microsoft.com/updates/were-retiring-speechtotext-rest-preview-api-v31preview1-on-may-12-2023/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "retirement-announcement-assigning-alert-trigger-playbooks-within-microsoft-sentinel-analytics-rules",
-    "product": "Microsoft Sentinel",
-    "title": "Alert-trigger playbooks",
-    "retirementDate": "2026-03-15",
-    "itemUrl": "https://azure.microsoft.com/updates/retirement-announcement-assigning-alert-trigger-playbooks-within-microsoft-sentinel-analytics-rules/",
-    "category": "Security",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "retirement-azure-database-migration-service-classic-sql-server-scenarios-deprecation",
-    "product": "Azure Database Migration Service (classic)",
-    "title": "SQL Server scenarios",
-    "retirementDate": "2026-03-15",
-    "itemUrl": "https://azure.microsoft.com/updates/retirement-azure-database-migration-service-classic-sql-server-scenarios-deprecation/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "machine-learningconcept-endpoints-batchviewazureml-api-2",
-    "product": "Azure Machine Learning",
-    "title": "Batch Endpoints Preview APIs",
-    "retirementDate": "2026-03-16",
-    "itemUrl": "https://learn.microsoft.com/azure/machine-learning/concept-endpoints-batch?view=azureml-api-2",
-    "category": "AI + machine learning",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "classic-vmware-dr-deprecation",
-    "product": "Azure Site Recovery",
-    "title": "Classic VMware protection",
-    "retirementDate": "2026-03-29",
-    "itemUrl": "https://azure.microsoft.com/updates/classic-vmware-dr-deprecation/",
-    "category": "Migration",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "batch-service-in-select-regions-will-be-retired-on-31-march-2026",
-    "product": "Azure Batch",
-    "title": "Availability in select regions",
-    "retirementDate": "2026-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/batch-service-in-select-regions-will-be-retired-on-31-march-2026/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-batch-classic-compute-node-communication-model-will-be-retired-on-31-march-2026",
-    "product": "Azure Batch",
-    "title": "Classic compute node communication model",
-    "retirementDate": "2026-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/azure-batch-classic-compute-node-communication-model-will-be-retired-on-31-march-2026/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "aks-will-stop-support-for-windows-server-2019-on-march-1-2026",
-    "product": "Azure Kubernetes Service (AKS)",
-    "title": "Windows Server 2019",
-    "retirementDate": "2026-03-01",
-    "itemUrl": "https://azure.microsoft.com/updates/aks-will-stop-support-for-windows-server-2019-on-march-1-2026/",
-    "category": "Containers",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "entraidentityconditional-accessmigrate-approved-client-app",
-    "product": "Azure Active Directory",
-    "title": "Conditional Access policies that use only the Require Approved Client App grant",
-    "retirementDate": "2026-03-31",
-    "itemUrl": "https://learn.microsoft.com/entra/identity/conditional-access/migrate-approved-client-app",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-monitorlogscustom-fields-migrate",
-    "product": "Azure Monitor",
-    "title": "Custom fields",
-    "retirementDate": "2026-03-31",
-    "itemUrl": "https://learn.microsoft.com/azure/azure-monitor/logs/custom-fields-migrate",
-    "category": "Management and governance",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "batch-custom-image-pools-using-vhd-or-managed-images-will-be-retired-on-31-march-2024",
-    "product": "Azure Batch",
-    "title": "Custom image pools using VHD blobs in Azure Storage and Azure Managed Images",
-    "retirementDate": "2026-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/batch-custom-image-pools-using-vhd-or-managed-images-will-be-retired-on-31-march-2024/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "transition-to-azure-ad-to-query-data-from-azure-monitor-application-insights-by-31-march-2026",
-    "product": "Application Insights",
-    "title": "API keys for querying ",
-    "retirementDate": "2026-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/transition-to-azure-ad-to-query-data-from-azure-monitor-application-insights-by-31-march-2026/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "announcing-the-3-year-retirement-of-windows-server-2019-on-ba-p-3777341",
-    "product": "Azure Kubernetes Service (AKS)",
-    "title": "Windows Server 2019 on AKS hybrid",
-    "retirementDate": "2026-03-31",
-    "itemUrl": "https://techcommunity.microsoft.com/t5/containers/announcing-the-3-year-retirement-of-windows-server-2019-on-azure/ba-p/3777341",
-    "category": "Containers",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "transition-to-builtin-azure-monitor-alerts-for-recovery-services-vaults-in-azure-backup-by-31-march-2026",
-    "product": "Azure Backup",
-    "title": "Classic alerts for Recovery Services vaults ",
-    "retirementDate": "2026-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/transition-to-builtin-azure-monitor-alerts-for-recovery-services-vaults-in-azure-backup-by-31-march-2026/",
-    "category": "Management and governance",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-diagnostics-extensions-retiring-march-31-2026",
-    "product": "Azure Monitor",
-    "title": "Azure Diagnostic Extensions",
-    "retirementDate": "2026-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/v2/Azure-Diagnostics-Extensions-retiring-march-31-2026",
-    "category": "Management and governance",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "application-gateway-v1-will-be-retired-on-28-april-2026-transition-to-application-gateway",
-    "product": "Azure Application Gateway",
-    "title": "V1",
-    "retirementDate": "2026-04-28",
-    "itemUrl": "https://azure.microsoft.com/updates/application-gateway-v1-will-be-retired-on-28-april-2026-transition-to-application-gateway-v2/",
-    "category": "Networking",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "retirement-notice-custom-commands-will-retire-on-30-april-2026",
-    "product": "Azure AI Speech",
-    "title": "Custom Commands",
-    "retirementDate": "2026-04-30",
-    "itemUrl": "https://azure.microsoft.com/updates/retirement-notice-custom-commands-will-retire-on-30-april-2026/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "cost-management-download-by-billing-account-api-version-retirement",
-    "product": "Azure Price Sheet",
-    "title": "Download by Billing Account APIs prior to version 2023-09-01",
-    "retirementDate": "2026-06-01",
-    "itemUrl": "https://azure.microsoft.com/updates/v2/Cost-Management-Download-by-Billing-Account-API-version-retirement",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "retirement-azure-ai-document-intelligence-v20-api-will-be-retired-on-31-august-2026",
-    "product": "Azure AI Document Intelligence",
-    "title": "v2.0 API",
-    "retirementDate": "2026-08-31",
-    "itemUrl": "https://azure.microsoft.com/updates/retirement-azure-ai-document-intelligence-v20-api-will-be-retired-on-31-august-2026/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "computer-vision-api-v10-computer-vision-api-retirements-13-9-2026",
-    "product": "Azure AI Custom Vision",
-    "title": "Computer Vision API v1.0 ",
-    "retirementDate": "2026-09-13",
-    "itemUrl": "https://azure.microsoft.com/updates/computer-vision-api-retirements-13-9-2026/",
-    "category": "AI + machine learning",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "computer-vision-api-v31-computer-vision-api-retirements-13-9-2026",
-    "product": "Azure AI Custom Vision",
-    "title": "Computer Vision API v3.1 ",
-    "retirementDate": "2026-09-13",
-    "itemUrl": "https://azure.microsoft.com/updates/computer-vision-api-retirements-13-9-2026/",
-    "category": "AI + machine learning",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "computer-vision-api-v30-computer-vision-api-retirements-13-9-2026",
-    "product": "Azure AI Custom Vision",
-    "title": "Computer Vision API v3.0 ",
-    "retirementDate": "2026-09-13",
-    "itemUrl": "https://azure.microsoft.com/updates/computer-vision-api-retirements-13-9-2026/",
-    "category": "AI + machine learning",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "computer-vision-api-v20-computer-vision-api-retirements-13-9-2026",
-    "product": "Azure AI Custom Vision",
-    "title": "Computer Vision API v2.0",
-    "retirementDate": "2026-09-13",
-    "itemUrl": "https://azure.microsoft.com/updates/computer-vision-api-retirements-13-9-2026/",
-    "category": "AI + machine learning",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "computer-vision-api-v21-computer-vision-api-retirements-13-9-2026",
-    "product": "Azure AI Custom Vision",
-    "title": "Computer Vision API v2.1",
-    "retirementDate": "2026-09-13",
-    "itemUrl": "https://azure.microsoft.com/updates/computer-vision-api-retirements-13-9-2026/",
-    "category": "AI + machine learning",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-monitorlogscustom-logs-migrate",
-    "product": "Azure Monitor",
-    "title": "HTTP Data Collector API",
-    "retirementDate": "2026-09-14",
-    "itemUrl": "https://learn.microsoft.com/azure/azure-monitor/logs/custom-logs-migrate",
-    "category": "Management and governance",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "support-for-the-1x-version-of-azure-functions-ends-14-september-2026",
-    "product": "Azure Functions",
-    "title": "Version 1.x runtime",
-    "retirementDate": "2026-09-14",
-    "itemUrl": "https://azure.microsoft.com/updates/support-for-the-1x-version-of-azure-functions-ends-14-september-2026/",
-    "category": "Compute",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-monitor-for-aksengine-will-not-be-supported-on-14-september-2026",
-    "product": "Azure Monitor",
-    "title": "Monitoring Support",
-    "retirementDate": "2026-09-14",
-    "itemUrl": "https://azure.microsoft.com/updates/azure-monitor-for-aksengine-will-not-be-supported-on-14-september-2026/",
-    "category": "Management and governance",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-activity-logs-legacy-solution-is-replaced-by-diagnostic-settings",
-    "product": "Azure Monitor",
-    "title": "Legacy Azure Activity logs solution",
-    "retirementDate": "2026-09-15",
-    "itemUrl": "https://azure.microsoft.com/updates/azure-activity-logs-legacy-solution-is-replaced-by-diagnostic-settings/",
-    "category": "Management and governance",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-maps-gen1-price-tier-retirement",
-    "product": "Azure Maps",
-    "title": "Gen1 price tier",
-    "retirementDate": "2026-09-15",
-    "itemUrl": "https://azure.microsoft.com/updates/azure-maps-gen1-price-tier-retirement/",
-    "category": "Web",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-maps-render-v1-apis-will-be-retired-on-17-september-2026",
-    "product": "Azure Maps",
-    "title": "Render V1 APIs",
-    "retirementDate": "2026-09-17",
-    "itemUrl": "https://azure.microsoft.com/updates/azure-maps-render-v1-apis-will-be-retired-on-17-september-2026/",
-    "category": "Web",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-maps-web-sdk-map-controls-version-1xx-will-be-retired-on-19-september-2026",
-    "product": "Azure Maps",
-    "title": "Web SDK Map Controls v1.xx",
-    "retirementDate": "2026-09-19",
-    "itemUrl": "https://azure.microsoft.com/updates/azure-maps-web-sdk-map-controls-version-1xx-will-be-retired-on-19-september-2026/",
-    "category": "Web",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "smart-on-fhir-proxy-feature-in-azure-health-data-services-will-be-retired-on-21st-september-2026-transition-to-smart-on-fhir",
-    "product": "Azure Health Data Services",
-    "title": "SMART on FHIR proxy",
-    "retirementDate": "2026-09-21",
-    "itemUrl": "https://azure.microsoft.com/updates/smart-on-fhir-proxy-feature-in-azure-health-data-services-will-be-retired-on-21st-september-2026-transition-to-smart-on-fhir/",
-    "category": "Integration",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "transition-to-using-standard-tests-for-singlestep-availability-testing-in-azure-monitor-application-insights-by-30-september",
-    "product": "Application Insights",
-    "title": "Single URL Ping Test",
-    "retirementDate": "2026-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/transition-to-using-standard-tests-for-singlestep-availability-testing-in-azure-monitor-application-insights-by-30-september/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-api-for-fhir-retirement",
-    "product": "Azure API for FHIR",
-    "title": "Azure API for FHIR",
-    "retirementDate": "2026-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/azure-api-for-fhir-retirement/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "action-required-migrate-to-using-arg-query-for-get-alert-summary-in-azure-monitor",
-    "product": "Azure Monitor",
-    "title": "Alerts - GetAlertSummary API ",
-    "retirementDate": "2026-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/action-required-migrate-to-using-arg-query-for-get-alert-summary-in-azure-monitor/",
-    "category": "Management and governance",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "fxtretirement",
-    "product": "Azure FXT Edge Filer",
-    "title": "Azure FXT Edge Filer",
-    "retirementDate": "2026-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/fxtretirement/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "virtual-desktopvirtual-desktop-fall-2019classic-retirement",
-    "product": "Azure Virtual Desktop",
-    "title": "Classic",
-    "retirementDate": "2026-09-30",
-    "itemUrl": "https://learn.microsoft.com/azure/virtual-desktop/virtual-desktop-fall-2019/classic-retirement",
-    "category": "Virtual desktop infrastructure",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "retirement-notice-update-your-azure-service-bus-sdk-libraries-by-30-september-2026-apis-v2014-09-v2015-08-v2016-07",
-    "product": "Service Bus",
-    "title": "v2014-09; v2015-08; v2016-07 APIs",
-    "retirementDate": "2026-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/retirement-notice-update-your-azure-service-bus-sdk-libraries-by-30-september-2026/",
-    "category": "Integration",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "we-re-ending-support-for-the-20170301ga-api",
-    "product": "Azure Container Registry",
-    "title": "2017-01-01-(GA) API",
-    "retirementDate": "2026-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/we-re-ending-support-for-the-20170301ga-api/",
-    "category": "Containers",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "retirement-notice-update-your-azure-service-bus-sdk-libraries-by-30-september-2026",
-    "product": "Service Bus",
-    "title": "Track 0 and 1 SDKs and SBMP protocol",
-    "retirementDate": "2026-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/retirement-notice-update-your-azure-service-bus-sdk-libraries-by-30-september-2026/",
-    "category": "Integration",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-monitorcontainerscontainer-insights-v2-migration",
-    "product": "Azure Monitor",
-    "title": "ContainerLog table",
-    "retirementDate": "2026-09-30",
-    "itemUrl": "https://learn.microsoft.com/azure/azure-monitor/containers/container-insights-v2-migration",
-    "category": "Management and governance",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-maps-web-sdk-v2-for-android-and-ios-will-be-retired-on-31-march-2025-transition-to-use-web-view-of-azure-maps-web-sdk",
-    "product": "Azure Maps",
-    "title": "Web SDK v2 Subversion (v2.0~v2.0.32) ",
-    "retirementDate": "2026-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/azure-maps-native-sdk-for-android-and-ios-will-be-retired-on-31-march-2025-transition-to-use-web-view-of-azure-maps-web-sdk/",
-    "category": "Web",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "ai-services-anomaly-detector-will-be-retired-on-1-october-2026",
-    "product": "AI Anomaly Detector",
-    "title": "AI Anomaly Detector will be retired.",
-    "retirementDate": "2026-10-01",
-    "itemUrl": "https://azure.microsoft.com/updates/ai-services-anomaly-detector-will-be-retired-on-1-october-2026/",
-    "category": "AI + machine learning",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "ai-services-metrics-advisor-will-be-retired-on-1-october-2026",
-    "product": "Azure AI Metrics Advisor",
-    "title": "Azure AI Metrics Advisor",
-    "retirementDate": "2026-10-01",
-    "itemUrl": "https://azure.microsoft.com/updates/ai-services-metrics-advisor-will-be-retired-on-1-october-2026/",
-    "category": "AI + machine learning",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "ai-services-personalizer-will-be-retired-on-1-october-2026",
-    "product": "Azure AI Personalizer",
-    "title": "Azure AI Personalizer",
-    "retirementDate": "2026-10-01",
-    "itemUrl": "https://azure.microsoft.com/updates/ai-services-personalizer-will-be-retired-on-1-october-2026/",
-    "category": "AI + machine learning",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-ai-translator-s2s4-billing-instances-will-be-retired-on-1-october-2026-transition-to-commitment-tiers-for-discounted-pr",
-    "product": "Cognitive Services Translator",
-    "title": "S2, S3, and S4 price instances",
-    "retirementDate": "2026-10-01",
-    "itemUrl": "https://azure.microsoft.com/updates/azure-ai-translator-s2s4-billing-instances-will-be-retired-on-1-october-2026-transition-to-commitment-tiers-for-discounted-pr/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "vpngw1-5-non-az-skus-will-be-retired-on-30-september-2026",
-    "product": "VPN Gateway",
-    "title": "Non-AZ VPNs",
-    "retirementDate": "2026-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/v2/vpngw1-5-non-az-skus-will-be-retired-on-30-september-2026",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "retirement-support-for-the-inprocess-model-for-net-apps-in-azure-functions-ends-10-november-2026",
-    "product": "Azure Functions",
-    "title": "In-process model ",
-    "retirementDate": "2026-11-10",
-    "itemUrl": "https://azure.microsoft.com/updates/retirement-support-for-the-inprocess-model-for-net-apps-in-azure-functions-ends-10-november-2026/",
-    "category": "Compute",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "hpc-pack-2016-will-be-retired-on-12-january-2027",
-    "product": "Azure Batch",
-    "title": "HPC Pack 2016",
-    "retirementDate": "2027-01-12",
-    "itemUrl": "https://azure.microsoft.com/updates/hpc-pack-2016-will-be-retired-on-12-january-2027/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "ws2022-retirement-aks",
-    "product": "Azure Kubernetes Service",
-    "title": "Windows Server 2022",
-    "retirementDate": "2027-03-15",
-    "itemUrl": "https://azure.microsoft.com/updates/ws2022-retirement-aks/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-content-moderator-retirement",
-    "product": "Content Safety in Foundry Control Plane",
-    "title": "Azure AI Content Moderator",
-    "retirementDate": "2027-03-15",
-    "itemUrl": "https://azure.microsoft.com/en-us/updates/?id=azure-content-moderator-retirement",
-    "category": "AI + machine learning",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "community-support-for-standardm192isv2-is-ending-on-31-march-2027",
-    "product": "Virtual Machines",
-    "title": "Standard_M192is_v2",
-    "retirementDate": "2027-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/community-support-for-standardm192isv2-is-ending-on-31-march-2027/",
-    "category": "Compute",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "community-support-for-standardm192imsv2-is-ending-on-31-march-2027",
-    "product": "Virtual Machines",
-    "title": "Standard_M192ims_v2",
-    "retirementDate": "2027-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/community-support-for-standardm192imsv2-is-ending-on-31-march-2027/",
-    "category": "Compute",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "community-support-for-standardm192idsv2-is-ending-on-31-march-2027",
-    "product": "Virtual Machines",
-    "title": "Standard_M192ids_v2",
-    "retirementDate": "2027-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/community-support-for-standardm192idsv2-is-ending-on-31-march-2027/",
-    "category": "Compute",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "support-for-standardm192idmsv2-will-be-retired-on-31-march-2027",
-    "product": "Virtual Machines",
-    "title": "Standard_M192idms_v2",
-    "retirementDate": "2027-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/support-for-standardm192idmsv2-will-be-retired-on-31-march-2027/",
-    "category": "Compute",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "retirement-support-for-application-gateway-web-application-firewall-v2-configuration-is-ending",
-    "product": "Azure Application Gateway",
-    "title": "WAF v2 Config",
-    "retirementDate": "2027-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/retirement-support-for-application-gateway-web-application-firewall-v2-configuration-is-ending/",
-    "category": "Networking",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "were-retiring-memory-optimized-data-flows-in-azure-data-factory-use-general-purpose-for-better-performance-at-a-lower-price",
-    "product": "Azure Data Factory ",
-    "title": "Memory Optimized Data Flows",
-    "retirementDate": "2027-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/were-retiring-memory-optimized-data-flows-in-azure-data-factory-use-general-purpose-for-better-performance-at-a-lower-price/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "begin-using-azure-monitor-based-dashboards-in-azure-api-management-before-the-builtin-analytics-dashboards-are-retired-on-15",
-    "product": "API Management",
-    "title": "Built-in Analytics",
-    "retirementDate": "2027-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/begin-using-azure-monitor-based-dashboards-in-azure-api-management-before-the-builtin-analytics-dashboards-are-retired-on-15/",
-    "category": "Integration",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-front-door-classic-will-be-retired-on-31-march-2027",
-    "product": "Azure Front Door",
-    "title": "Classic",
-    "retirementDate": "2027-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/azure-front-door-classic-will-be-retired-on-31-march-2027/",
-    "category": "Networking",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "long-audio-api-will-be-retired-on-31-march-2027-migrate-to-the-new-batch-synthesis-api",
-    "product": "Azure text to speech",
-    "title": "Long audio API",
-    "retirementDate": "2027-04-01",
-    "itemUrl": "https://azure.microsoft.com/updates/long-audio-api-will-be-retired-on-31-march-2027-migrate-to-the-new-batch-synthesis-api/",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-lab-services-is-being-retired",
-    "product": "Azure Lab Services",
-    "title": "V1 and V2",
-    "retirementDate": "2027-06-28",
-    "itemUrl": "https://azure.microsoft.com/updates/v2/Azure-Lab-Services-is-being-retired",
-    "category": "Virtual desktop infrastructure",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "planned-service-retirement-azure-automation-state-configuration-16-september-2027",
-    "product": "Azure Automation",
-    "title": "State Configuration (DSC)",
-    "retirementDate": "2027-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/v2/Planned-Service-Retirement-Azure-Automation-State-Configuration-16-September-2027",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "automated-patching-deprecation-and-replacement-with-azure-update-manager",
-    "product": "Azure SQL",
-    "title": "Automated patching for SQL VMs",
-    "retirementDate": "2027-09-17",
-    "itemUrl": "https://azure.microsoft.com/updates/v2/Automated-Patching-deprecation-and-replacement-with-Azure-Update-Manager",
-    "category": "Databases",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-site-recovery-classic-alerts-retirement",
-    "product": "Azure Site Recovery",
-    "title": "Classic Alerts",
-    "retirementDate": "2027-09-22",
-    "itemUrl": "https://azure.microsoft.com/updates/v2/azure-site-recovery-classic-alerts-retirement",
-    "category": "Migration",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-sphere-legacy-interface-retirement",
-    "product": "Azure Sphere",
-    "title": "Public API",
-    "retirementDate": "2027-09-26",
-    "itemUrl": "https://azure.microsoft.com/updates/v2/Azure-Sphere-Legacy-Interface-Retirement",
-    "category": "Internet of Things",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-nsg-flow-logs-retirement",
-    "product": "Network Watcher",
-    "title": "NSG Flow Logs",
-    "retirementDate": "2027-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/v2/Azure-NSG-flow-logs-Retirement",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-docuement-intelligence-v2-retirement",
-    "product": "Azure Document Intelligence",
-    "title": "Studio v2.1",
-    "retirementDate": "2027-09-15",
-    "itemUrl": "https://azure.microsoft.com/updates/v2/Azure-Docuement-Intelligence-V2-retirement",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "retirement-notice-azure-load-balancer-inbound-nat-rule-v1-for-azure-vms-and-azure-vmss-will-be-retired",
-    "product": "Azure Load Balancer",
-    "title": "Inbound NAT rule V1",
-    "retirementDate": "2027-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/v2/Retirement-notice-Azure-Load-Balancer-Inbound-NAT-rule-V1-for-Azure-VMs-and-Azure-VMSS-will-be-retired",
-    "category": "Networking",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-cdn-standard-from-microsoft-classic-will-be-retired-on-30-september-2027",
-    "product": "Azure CDN",
-    "title": "Standard from Microsoft (classic)",
-    "retirementDate": "2027-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/v2/Azure-CDN-Standard-from-Microsoft-classic-will-be-retired-on-30-September-2027",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-automanage-best-practices-retirement-migrate-to-azure-policy",
-    "product": "Azure Automanage",
-    "title": "Best Practices",
-    "retirementDate": "2027-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/v2/Azure-Automanage-Best-Practices-Retirement-Migrate-to-Azure-Policy",
-    "category": "Management and governance",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "open-service-mesh-extension-for-aks-retirement",
-    "product": "Azure Kubernetes Service",
-    "title": "Open Service Mesh add-on",
-    "retirementDate": "2027-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/v2/open-service-mesh-extension-for-aks-retirement",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "sql-data-sync-retirement",
-    "product": "Azure SQL",
-    "title": "Data Sync",
-    "retirementDate": "2027-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/v2/SQL-Data-Sync-Retirement",
-    "category": "Databases",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "485535",
-    "product": "Azure VPN Gateway",
-    "title": "VPN Gateway with Third-party App",
-    "retirementDate": "2028-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/?id=485535",
-    "category": "Networking",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "485828",
-    "product": "Virtual Machines",
-    "title": "Desired State Configuration extension",
-    "retirementDate": "2028-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/?id=485828",
-    "category": "Compute",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "485072",
-    "product": "Azure App Service",
-    "title": "Support for Node 20 LTS",
-    "retirementDate": "2026-04-30",
-    "itemUrl": "https://azure.microsoft.com/updates/?id=485072",
-    "category": "Web",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "485172",
-    "product": "Azure Kubernetes Service (AKS)",
-    "title": "Kubenet networking for Azure Kubernetes Service (AKS) will be retired",
-    "retirementDate": "2028-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/?id=485172",
-    "category": "Containers",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "485167",
-    "product": "Azure App Service",
-    "title": "Docker Compose feature to be retired. Transition to sidecar container.",
-    "retirementDate": "2027-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/?id=485167",
-    "category": "Web",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "486344",
-    "product": "Cloud Services",
-    "title": "Extended Support",
-    "retirementDate": "2027-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/?id=486344",
-    "category": "Compute",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "485241",
-    "product": "Azure Container Registry",
-    "title": "Support for Docker Content Trust",
-    "retirementDate": "2028-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/?id=485241",
-    "category": "Containers",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "485865",
-    "product": "Azure Spring Apps",
-    "title": "Azure Spring Apps",
-    "retirementDate": "2028-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/?id=485865",
-    "category": "Compute",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "484968",
-    "product": "Azure Synapse Analytics",
-    "title": "Data Explorer (Kusto) pools",
-    "retirementDate": "2025-10-07",
-    "itemUrl": "https://azure.microsoft.com/updates/?id=484968",
-    "category": "Analytics",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "485569",
-    "product": "Virtual Machines",
-    "title": "D, Ds, Dv2, Dsv2 and Ls series",
-    "retirementDate": "2028-05-01",
-    "itemUrl": "https://azure.microsoft.com/updates/?id=485569",
-    "category": "Compute",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "487247",
-    "product": "Microsoft Entra Domain Services",
-    "title": "Support for TLS 1.0/1.1",
-    "retirementDate": "2025-08-31",
-    "itemUrl": "https://azure.microsoft.com/updates/?id=487247",
-    "category": "Identity",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "485819",
-    "product": "Azure Maps",
-    "title": "Route v1 APIs",
-    "retirementDate": "2028-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/?id=485819",
-    "category": "Web",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "485790",
-    "product": "Azure Kubernetes Service (AKS)",
-    "title": "Support for Ubuntu 18.04",
-    "retirementDate": "2025-06-17",
-    "itemUrl": "https://azure.microsoft.com/updates/?id=485790",
-    "category": "Containers",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "485106",
-    "product": "Azure Storage Data Movement Library",
-    "title": "The legacy version of the Azure Storage Data Movement Library (v2) will be retired.",
-    "retirementDate": "2026-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/?id=485106",
-    "category": "Migration",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "485810",
-    "product": "Azure Maps",
-    "title": "Traffic v1 APIs",
-    "retirementDate": "2028-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/?id=485810",
-    "category": "Web",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "485030",
-    "product": "Azure SQL Database",
-    "title": "FsV2 Database",
-    "retirementDate": "2026-10-01",
-    "itemUrl": "https://azure.microsoft.com/updates/?id=485030",
-    "category": "Databases",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "485795",
-    "product": "Azure Kubernetes Service (AKS)",
-    "title": "Support for Ubuntu 20.04",
-    "retirementDate": "2027-03-17",
-    "itemUrl": "https://azure.microsoft.com/updates/?id=485795",
-    "category": "Containers",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "azure-support-tls-will-end-by-31-october-2024-2",
-    "product": "API Management",
-    "title": "TLS 1.0/1.1 Retirement",
-    "retirementDate": "2024-10-31",
-    "itemUrl": "https://azure.microsoft.com/updates/azure-support-tls-will-end-by-31-october-2024-2/",
-    "category": "Integration",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "485893",
-    "product": "Azure Arc",
-    "title": "Azure Kubernetes Service's current architecture on Windows Server 2019 and Windows Server 2022 to be retired.",
-    "retirementDate": "2028-03-27",
-    "itemUrl": "https://azure.microsoft.com/updates/?id=485893",
-    "category": "Hybrid + multicloud",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "486080",
-    "product": "Azure Monitor",
-    "title": "Retiring the batch API in Azure Monitor Log Analytics",
-    "retirementDate": "2028-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/?id=486080",
-    "category": "Management and governance",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "485047",
-    "product": "Azure App Service",
-    "title": "Customer Backup - Linked Database Backup",
-    "retirementDate": "2028-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/?id=485047",
-    "category": "Web",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "485683",
-    "product": "Azure Container Apps",
-    "title": "Add-ons (public preview)",
-    "retirementDate": "2025-09-30",
-    "itemUrl": "https://azure.microsoft.com/updates/?id=485683",
-    "category": "Containers",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "486238",
-    "product": "Azure Machine Learning",
-    "title": "V1 SDK",
-    "retirementDate": "2026-06-30",
-    "itemUrl": "https://azure.microsoft.com/updates/?id=486238",
-    "category": "AI + machine learning",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "484943",
-    "product": "Intelligent Recommendations",
-    "title": "Intelligent Recommendations",
-    "retirementDate": "2026-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/?id=484943",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "489428",
-    "product": "Azure Functions",
-    "title": "Support for Python 3.9",
-    "retirementDate": "2025-10-31",
-    "itemUrl": "https://azure.microsoft.com/updates/?id=489428",
-    "category": "Compute",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "489009",
-    "product": "Azure Functions",
-    "title": "Durable Functions support for Netherite",
-    "retirementDate": "2028-03-31",
-    "itemUrl": "https://azure.microsoft.com/updates/?id=489009",
-    "category": "Compute",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "send-data-to-your-workspace-using-transport-layer-security-tls-12-or-higher",
-    "product": "Azure Monitor",
-    "title": "Support for TLS 1.0 and 1.1",
-    "retirementDate": "2026-03-01",
-    "itemUrl": "https://learn.microsoft.com/azure/azure-monitor/fundamentals/best-practices-security#send-data-to-your-workspace-using-transport-layer-security-tls-12-or-higher",
-    "category": "Management and governance",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "492371",
-    "product": "Azure App Service",
-    "title": "Azure Static Web Apps Dedicated Pricing Plan",
-    "retirementDate": "2025-10-31",
-    "itemUrl": "https://azure.microsoft.com/updates/?id=492371",
-    "category": "Web",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "492574",
-    "product": "Bing Search",
-    "title": "Search and Custom Search APIs",
-    "retirementDate": "2025-08-11",
-    "itemUrl": "https://azure.microsoft.com/updates/?id=492574",
-    "category": "UNKNOWN",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "485077",
-    "product": "Azure App Service",
-    "title": ".NET 9 (STS)",
-    "retirementDate": "2026-05-12",
-    "itemUrl": "https://azure.microsoft.com/updates/?id=485077",
-    "category": "Web",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "496104",
-    "product": "Virtual Machines",
-    "title": "DCsv2-series",
-    "retirementDate": "2026-06-30",
-    "itemUrl": "https://azure.microsoft.com/updates/?id=496104",
-    "category": "Compute",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "ai-servicescomputer-visionintro-to-spatial-analysis-public-preview",
-    "product": "Azure AI Custom Vision",
-    "title": "Video Retrieval",
-    "retirementDate": "2025-06-30",
-    "itemUrl": "https://learn.microsoft.com/azure/ai-services/computer-vision/intro-to-spatial-analysis-public-preview",
-    "category": "AI + machine learning",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "ai-foundryopenaiconceptsmodel-retirementstabstextcurrent-models",
-    "product": "Foundry Models",
-    "title": "Azure OpenAI - Multiple Models (see the Actions column for individual dates)",
-    "retirementDate": "2027-05-31",
-    "itemUrl": "https://learn.microsoft.com/azure/ai-foundry/openai/concepts/model-retirements?tabs=text#current-models",
-    "category": "AI + machine learning",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  },
-  {
-    "id": "data-factoryconnector-release-stages-and-timelines",
-    "product": "Azure Data Factory",
-    "title": "Multiple Connectors (see the Actions column for individual dates)",
-    "retirementDate": "2027-05-31",
-    "itemUrl": "https://learn.microsoft.com/azure/data-factory/connector-release-stages-and-timelines",
-    "category": "Analytics",
-    "created": "2026-02-12",
-    "modified": "2026-02-12"
-  }
-]
+{
+  "value": [
+    {
+      "id": "azure-classic-administrator-roles-are-retiring-on-31-august-2024",
+      "product": "Azure classic administrator roles",
+      "title": "Azure classic administrator roles",
+      "retirementDate": "2024-08-31",
+      "itemUrl": "https://azure.microsoft.com/updates/azure-classic-administrator-roles-are-retiring-on-31-august-2024/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "hbseries-azure-virtual-machines-will-be-retired-by-31-august-2024",
+      "product": "Virtual Machines",
+      "title": "HB-series",
+      "retirementDate": "2024-08-31",
+      "itemUrl": "https://azure.microsoft.com/updates/hbseries-azure-virtual-machines-will-be-retired-by-31-august-2024/",
+      "category": "Compute",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-classic-resource-providers-will-be-retired-on-31-august-2024",
+      "product": "Classic Resource Providers",
+      "title": "Classic Resource Providers",
+      "retirementDate": "2024-08-31",
+      "itemUrl": "https://azure.microsoft.com/updates/azure-classic-resource-providers-will-be-retired-on-31-august-2024/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "retirement-azure-automation-agent-user-hybrid-worker",
+      "product": "Azure Automation",
+      "title": "Agent-based user Hybrid Runbook Worker (Windows & Linux)",
+      "retirementDate": "2024-08-31",
+      "itemUrl": "https://azure.microsoft.com/updates/retirement-azure-automation-agent-user-hybrid-worker",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "classic-azure-storage-accounts-will-be-retired-on-31-august-2024",
+      "product": "Storage Account",
+      "title": "Classic",
+      "retirementDate": "2024-08-31",
+      "itemUrl": "https://azure.microsoft.com/updates/classic-azure-storage-accounts-will-be-retired-on-31-august-2024/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "cloud-services-retirement-announcement",
+      "product": "Cloud service (classic)",
+      "title": "Classic",
+      "retirementDate": "2024-08-31",
+      "itemUrl": "https://azure.microsoft.com/updates/cloud-services-retirement-announcement/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "were-retiring-the-log-analytics-agent-in-azure-monitor-on-31-august-2024",
+      "product": "Azure Monitor",
+      "title": "Log Analytics Agent",
+      "retirementDate": "2024-08-31",
+      "itemUrl": "https://azure.microsoft.com/updates/were-retiring-the-log-analytics-agent-in-azure-monitor-on-31-august-2024/",
+      "category": "Management and governance",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "retirement-notice-transition-to-custom-availability-tests-in-application-insights",
+      "product": "Azure Monitor",
+      "title": "Multi-step web tests",
+      "retirementDate": "2024-08-31",
+      "itemUrl": "https://azure.microsoft.com/updates/retirement-notice-transition-to-custom-availability-tests-in-application-insights/",
+      "category": "Management and governance",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "action-required-migrate-your-azure-workloads-to-av2series-vms-before-31-august-2024",
+      "product": "Virtual Machines",
+      "title": "Av1-series",
+      "retirementDate": "2024-08-31",
+      "itemUrl": "https://azure.microsoft.com/updates/action-required-migrate-your-azure-workloads-to-av2series-vms-before-31-august-2024/",
+      "category": "Compute",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-maps-data-v1-v2-apis-will-be-retired-on-16-september-2024",
+      "product": "Azure Maps",
+      "title": "Data V1/V2 APIs  ",
+      "retirementDate": "2024-09-16",
+      "itemUrl": "https://azure.microsoft.com/updates/azure-maps-data-v1-v2-apis-will-be-retired-on-16-september-2024/",
+      "category": "Web",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "powershell72-azure-functions-retirement",
+      "product": "Azure Functions",
+      "title": "PowerShell 7.2",
+      "retirementDate": "2024-11-08",
+      "itemUrl": "https://azure.microsoft.com/updates/v2/powershell72-azure-functions-retirement",
+      "category": "Compute",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-functionsfunctions-versionstabsisolated-process2cv4-and-pivotsprogramming-language-csharp",
+      "product": "Azure Functions",
+      "title": ".NET 6",
+      "retirementDate": "2024-11-12",
+      "itemUrl": "https://learn.microsoft.com/azure/azure-functions/functions-versions?tabs=isolated-process%2Cv4&pivots=programming-language-csharp",
+      "category": "Compute",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "dotnet6support",
+      "product": "App Service",
+      "title": ".NET 6 (LTS)",
+      "retirementDate": "2024-11-12",
+      "itemUrl": "https://azure.microsoft.com/updates/dotnet6support/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "postgresql-version-support-and-retirement",
+      "product": "Azure Cosmos DB for PostgreSQL",
+      "title": "PostgreSQL 12",
+      "retirementDate": "2024-11-14",
+      "itemUrl": "https://learn.microsoft.com/azure/cosmos-db/postgresql/reference-versions#postgresql-version-support-and-retirement",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "sql-insights-retirement",
+      "product": "Azure SQL",
+      "title": "SQL Insights",
+      "retirementDate": "2024-12-30",
+      "itemUrl": "https://azure.microsoft.com/updates/v2/sql-insights-retirement",
+      "category": "Databases",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-hdinsight-on-aks-retirement",
+      "product": "Azure HDInsight on Azure Kubernetes Service (AKS)",
+      "title": "Azure HDInsight on Azure Kubernetes Service (AKS)",
+      "retirementDate": "2025-01-31",
+      "itemUrl": "https://azure.microsoft.com/updates?id=azure-hdinsight-on-aks-retirement",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "tls-changes-for-azure-event-grid",
+      "product": "Event Grid",
+      "title": "Support for TLS 1.0 and 1.1",
+      "retirementDate": "2025-02-28",
+      "itemUrl": "https://azure.microsoft.com/updates/v2/TLS-changes-for-Azure-Event-Grid",
+      "category": "Integration",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "deprecating-tls-configuration",
+      "product": "Availability Tests",
+      "title": "Support for TLS 1.0 and 1.1",
+      "retirementDate": "2025-05-01",
+      "itemUrl": "https://learn.microsoft.com/azure/azure-monitor/app/availability?tabs=standard#deprecating-tls-configuration",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "cosmos-dbself-serve-minimum-tls-enforcement",
+      "product": "Azure Cosmos DB",
+      "title": "Support for TLS 1.0 and 1.1",
+      "retirementDate": "2025-08-31",
+      "itemUrl": "https://learn.microsoft.com/azure/cosmos-db/self-serve-minimum-tls-enforcement",
+      "category": "Databases",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "mysqlflexible-serverhow-to-connect-tls-ssl",
+      "product": "Azure Database for MySQL Flexible Server",
+      "title": "Support for TLS 1.0 and 1.1",
+      "retirementDate": "2025-08-31",
+      "itemUrl": "https://learn.microsoft.com/azure/mysql/flexible-server/how-to-connect-tls-ssl",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "php-81-extension",
+      "product": "App Service",
+      "title": "PHP 8.1",
+      "retirementDate": "2025-12-31",
+      "itemUrl": "https://azure.microsoft.com/updates/v2/Php-81-extension",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "technical-support-for-instrumentation-key-based-global-ingestion-in-application-insights-will-end-on-31-march-2025",
+      "product": "Application Insights",
+      "title": "Global ingestion endpoints",
+      "retirementDate": "2025-03-15",
+      "itemUrl": "https://azure.microsoft.com/updates/technical-support-for-instrumentation-key-based-global-ingestion-in-application-insights-will-end-on-31-march-2025/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "sql-server-connector-s-v1-actions-and-triggers-will-be-retired-on-31-march-2024-transition-to-sql-server-connector-s-v2-actio",
+      "product": "Azure SQL",
+      "title": "Connector v1 operations",
+      "retirementDate": "2025-06-30",
+      "itemUrl": "https://azure.microsoft.com/updates/sql-server-connector-s-v1-actions-and-triggers-will-be-retired-on-31-march-2024-transition-to-sql-server-connector-s-v2-actio/",
+      "category": "Databases",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-maps-native-sdk-for-android-and-ios-will-be-retired-on-31-march-2025-transition-to-use-web-view-of-azure-maps-web-sdk",
+      "product": "Azure Maps",
+      "title": "Native SDK",
+      "retirementDate": "2025-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/azure-maps-native-sdk-for-android-and-ios-will-be-retired-on-31-march-2025-transition-to-use-web-view-of-azure-maps-web-sdk/",
+      "category": "Web",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "direct-mgmt-api-begin-using-azure-monitor-based-dashboards-in-azure-api-management-before-the-builtin-analytics-dashboards-are-retired",
+      "product": "API Management",
+      "title": "Direct Management API",
+      "retirementDate": "2025-03-15",
+      "itemUrl": "https://azure.microsoft.com/updates/begin-using-azure-monitor-based-dashboards-in-azure-api-management-before-the-builtin-analytics-dashboards-are-retired-on-15/",
+      "category": "Integration",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "important-notice-azure-product-retirement-end-of-life-announcement-of-azure-maps-creator-feature-state-service-versions-31-ma",
+      "product": "Azure Maps",
+      "title": "Creator Feature State APIs",
+      "retirementDate": "2025-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/important-notice-azure-product-retirement-end-of-life-announcement-of-azure-maps-creator-feature-state-service-versions-31-ma/",
+      "category": "Web",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "migrate-your-git-repository-to-automated-deployments-with-apiops-by-15-march-2025",
+      "product": "API Management",
+      "title": "Git Repository",
+      "retirementDate": "2025-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/migrate-your-git-repository-to-automated-deployments-with-apiops-by-15-march-2025/",
+      "category": "Integration",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "retirement-notice-the-legacy-azure-storage-c-client-libraries-will-be-retired-on-29-march-2025",
+      "product": "Storage Account",
+      "title": "Track 1 SDK for C++",
+      "retirementDate": "2025-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/retirement-notice-the-legacy-azure-storage-c-client-libraries-will-be-retired-on-29-march-2025/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "acr-helm-repositories-retirement",
+      "product": "Azure Container Registry",
+      "title": "Helm Repositories",
+      "retirementDate": "2025-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/v2/acr-helm-repositories-retirement",
+      "category": "Containers",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "action-required-upgrade-your-app-service-apps-to-node-20-lts-by-30-april-2025",
+      "product": "App Service",
+      "title": "Node 18 LTS",
+      "retirementDate": "2025-04-30",
+      "itemUrl": "https://azure.microsoft.com/updates/action-required-upgrade-your-app-service-apps-to-node-20-lts-by-30-april-2025/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "supported-tls-configurations",
+      "product": "Application Insights",
+      "title": "Support for TLS 1.0 and 1.1",
+      "retirementDate": "2025-05-01",
+      "itemUrl": "https://learn.microsoft.com/azure/azure-monitor/app/availability?tabs=standard#supported-tls-configurations",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "migrate-your-gitops-configurations-from-flux-v1-to-flux-v2-by-24-may-2025",
+      "product": "Azure Arc-enabled Kubernetes",
+      "title": "Cluster Configuration with Flux v1 ",
+      "retirementDate": "2025-05-24",
+      "itemUrl": "https://azure.microsoft.com/updates/migrate-your-gitops-configurations-from-flux-v1-to-flux-v2-by-24-may-2025/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "sap-hana-on-azure-large-instances-will-be-retired-by-30-june-2025-transition-to-virtual-machines",
+      "product": "SAP HANA Large Instances (HLIs)",
+      "title": "SAP HANA Large Instances (HLIs)",
+      "retirementDate": "2025-12-31",
+      "itemUrl": "https://azure.microsoft.com/updates/sap-hana-on-azure-large-instances-will-be-retired-by-30-june-2025-transition-to-virtual-machines/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-application-gateway-support-for-tls-10-and-tls-11-will-end-by-31-august-2025",
+      "product": "Application Gateway",
+      "title": "Support for TLS 1.0 and 1.1 (enlists resources with older TLS policies)",
+      "retirementDate": "2025-08-31",
+      "itemUrl": "https://azure.microsoft.com/updates/v2/Azure-Application-Gateway-support-for-TLS-10-and-TLS-11-will-end-by-31-August-2025",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "upcoming-retirement-changes",
+      "product": "Azure SQL DB",
+      "title": "Support for TLS 1.0 and 1.1",
+      "retirementDate": "2025-08-31",
+      "itemUrl": "https://learn.microsoft.com/azure/azure-sql/database/connectivity-settings?view=azuresql&tabs=azure-portal#upcoming-retirement-changes",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "checking-tls-versions-for-iot-hub-devices",
+      "product": "Azure IoT Hub",
+      "title": "Support for TLS 1.0 and 1.1",
+      "retirementDate": "2025-08-31",
+      "itemUrl": "https://learn.microsoft.com/azure/iot-hub/iot-hub-tls-support#checking-tls-versions-for-iot-hub-devices",
+      "category": "Internet of Things",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-sqlmanaged-instanceminimal-tls-version-configureviewazuresql",
+      "product": "Azure SQL MI",
+      "title": "Support for TLS 1.0 and 1.1",
+      "retirementDate": "2025-08-31",
+      "itemUrl": "https://learn.microsoft.com/azure/azure-sql/managed-instance/minimal-tls-version-configure?view=azuresql",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-machine-learning-data-drift-retirement",
+      "product": "Azure Machine Learning ",
+      "title": "Data Drift",
+      "retirementDate": "2025-09-01",
+      "itemUrl": "https://azure.microsoft.com/updates/v2/Azure-Machine-Learning-Data-Drift-Retirement",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-activity-logs-legacy-solution-is-replaced-by-diagnostic-settings-storage-retention",
+      "product": "Azure Monitor",
+      "title": "Diagnostic Settings Storage Retention",
+      "retirementDate": "2025-09-15",
+      "itemUrl": "https://azure.microsoft.com/updates/azure-activity-logs-legacy-solution-is-replaced-by-diagnostic-settings/",
+      "category": "Management and governance",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-database-for-mariadb-will-be-retired-on-19-september-2025-migrate-to-azure-database-for-mysql-flexible-server",
+      "product": "Azure Database for MariaDB",
+      "title": "Azure Database for MariaDB",
+      "retirementDate": "2025-09-19",
+      "itemUrl": "https://azure.microsoft.com/updates/azure-database-for-mariadb-will-be-retired-on-19-september-2025-migrate-to-azure-database-for-mysql-flexible-server/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "microsoft-purview-data-sharing-in-public-preview-is-retiring",
+      "product": "Azure Purview",
+      "title": "Data Sharing",
+      "retirementDate": "2025-09-26",
+      "itemUrl": "https://azure.microsoft.com/updates/v2/Microsoft-Purview-Data-Sharing-in-Public-Preview-is-retiring",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "virtual-machinesunmanaged-disks-deprecation",
+      "product": "Azure Disks",
+      "title": "Unmanaged Disks",
+      "retirementDate": "2026-03-31",
+      "itemUrl": "https://learn.microsoft.com/azure/virtual-machines/unmanaged-disks-deprecation",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-basic-load-balancer-will-be-retired-on-30-september-2025-upgrade-to-standard-load-balancer",
+      "product": "Azure Load Balancer",
+      "title": "Basic Load Balancer",
+      "retirementDate": "2025-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/azure-basic-load-balancer-will-be-retired-on-30-september-2025-upgrade-to-standard-load-balancer/",
+      "category": "Networking",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "upgrade-to-standard-sku-public-ip-addresses-in-azure-by-30-september-2025-basic-sku-will-be-retired",
+      "product": "Public IP address",
+      "title": "Basic Sku",
+      "retirementDate": "2025-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/upgrade-to-standard-sku-public-ip-addresses-in-azure-by-30-september-2025-basic-sku-will-be-retired/",
+      "category": "Networking",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "restapisqlretirement",
+      "product": "Azure SQL",
+      "title": "Microsoft.SQL 2014-04-01 stable APIs",
+      "retirementDate": "2026-06-30",
+      "itemUrl": "https://learn.microsoft.com/rest/api/sql/retirement",
+      "category": "Databases",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "community-support-for-azure-functions-proxies-will-end-on-30-september-2025",
+      "product": "Azure Functions",
+      "title": "Proxy support",
+      "retirementDate": "2025-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/community-support-for-azure-functions-proxies-will-end-on-30-september-2025",
+      "category": "Compute",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-monitoralertsitsmc-overview-alerts",
+      "product": "Azure Monitor",
+      "title": "ITSM connector for ServiceNow Alerts",
+      "retirementDate": "2025-09-30",
+      "itemUrl": "https://learn.microsoft.com/azure/azure-monitor/alerts/itsmc-overview",
+      "category": "Management and governance",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-monitoralertsitsmc-overview-events",
+      "product": "Azure Monitor",
+      "title": "ITSM connector for ServiceNow Events",
+      "retirementDate": "2025-09-30",
+      "itemUrl": "https://learn.microsoft.com/azure/azure-monitor/alerts/itsmc-overview",
+      "category": "Management and governance",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-batch-low-priority-vms-will-be-retired-on-30-september-2025",
+      "product": "Azure Batch",
+      "title": "Low Priority VMs",
+      "retirementDate": "2025-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/azure-batch-low-priority-vms-will-be-retired-on-30-september-2025/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "switch-to-azure-ad-authentication-for-application-insights-by-30-september-2025",
+      "product": "Application Insights",
+      "title": "API Key",
+      "retirementDate": "2025-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/switch-to-azure-ad-authentication-for-application-insights-by-30-september-2025/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "machine-learninghow-to-migrate-from-v1",
+      "product": "Azure Machine Learning",
+      "title": "CLI v1",
+      "retirementDate": "2025-09-30",
+      "itemUrl": "https://docs.microsoft.com/azure/machine-learning/how-to-migrate-from-v1",
+      "category": "AI + machine learning",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "migrate-to-azure-monitor-vm-insights-by-30-september-2025-when-service-map-will-be-retired",
+      "product": "Azure Service Map",
+      "title": "Azure Service Map",
+      "retirementDate": "2025-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/migrate-to-azure-monitor-vm-insights-by-30-september-2025-when-service-map-will-be-retired/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "application-insights-java-2x-retirement",
+      "product": "Application Insights",
+      "title": "Java 2.x SDK",
+      "retirementDate": "2025-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/application-insights-java-2x-retirement/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "retirement-notice-transition-to-the-authentication-methods-policy-for-azure-active-directory",
+      "product": "Azure Active Directory",
+      "title": "Legacy MFA and SSPR policies for authentication",
+      "retirementDate": "2025-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/retirement-notice-transition-to-the-authentication-methods-policy-for-azure-active-directory/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "default-outbound-access-for-vms-in-azure-will-be-retired-transition-to-a-new-method-of-internet-access",
+      "product": "Virtual Machines",
+      "title": "Default outbound access",
+      "retirementDate": "2026-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/default-outbound-access-for-vms-in-azure-will-be-retired-transition-to-a-new-method-of-internet-access/",
+      "category": "Compute",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "what-will-happen-to-azure-database-for-mysql-service-after-mysql-community-version-is-retired-in-october-2023",
+      "product": "Azure Database for MySQL",
+      "title": "MySQL v5.7",
+      "retirementDate": "2026-03-31",
+      "itemUrl": "https://learn.microsoft.com/azure/mysql/concepts-version-policy#what-will-happen-to-azure-database-for-mysql-service-after-mysql-community-version-is-retired-in-october-2023",
+      "category": "Databases",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "standard-and-highperformance-vpn-gateway-skus-will-be-retired-on-30-september-2025",
+      "product": "VPN Gateway",
+      "title": "Standard and High-Performance SKUs",
+      "retirementDate": "2026-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/standard-and-highperformance-vpn-gateway-skus-will-be-retired-on-30-september-2025/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "vfxtretirement",
+      "product": "Azure vFXT",
+      "title": "Azure vFXT",
+      "retirementDate": "2025-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/vfxtretirement/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "hpccacheretirement",
+      "product": "Azure HPC Cache",
+      "title": "Azure HPC Cache",
+      "retirementDate": "2025-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/hpccacheretirement/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "standardnc6sv3-standardnc12sv3-and-standardnc24sv3-azure-virtual-machines-will-be-retired-on-september-30-2025",
+      "product": "Virtual Machines",
+      "title": "Standard_NC6s_v3, Standard_NC12s_v3, Standard_NC24s_v3 and Standard_NC24rs_v3",
+      "retirementDate": "2025-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/standardnc6sv3-standardnc12sv3-and-standardnc24sv3-azure-virtual-machines-will-be-retired-on-september-30-2025/",
+      "category": "Compute",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "some-compliance-features-in-microsoft-defender-for-cloud-will-be-retired-on-september-30-2025",
+      "product": "Microsoft Defender for Cloud",
+      "title": "Microsoft Actions and Compliance Offerings",
+      "retirementDate": "2025-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/some-compliance-features-in-microsoft-defender-for-cloud-will-be-retired-on-september-30-2025/",
+      "category": "Security",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "default-internet-outbound-access-for-simplified-node-communication-batch-pools-without-public-ip-addresses-will-be-retired-on",
+      "product": "Azure Batch pools",
+      "title": "Default outbound access for Simplified node communication pool without public IP addresses",
+      "retirementDate": "2025-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/default-internet-outbound-access-for-simplified-node-communication-batch-pools-without-public-ip-addresses-will-be-retired-on/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "ncv3-series-vm-family-support-in-azure-batch-pools-retirement",
+      "product": "Azure Batch",
+      "title": "NCv3 VM Family Support",
+      "retirementDate": "2025-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/v2/NCv3-series-VM-family-support-in-azure-batch-pools-retirement",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-maps-data-registry-apis-retirement-on-30-september-2025",
+      "product": "Azure Maps",
+      "title": "Data Registry 2023-06-01",
+      "retirementDate": "2025-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/v2/azure-maps-data-registry-apis-retirement-on-30-september-2025",
+      "category": "Web",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-sql-edge-retirement",
+      "product": "Azure SQL Edge",
+      "title": "Azure SQL Edge",
+      "retirementDate": "2025-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/v2/azure-sql-edge-retirement",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-maps-creator-services-retirement-on-30-september-2025",
+      "product": "Azure Maps",
+      "title": "Creator Service APIs V2 & 2023-03-01-preview",
+      "retirementDate": "2025-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/v2/azure-maps-creator-services-retirement-on-30-september-2025",
+      "category": "Web",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-remote-rendering-retirement",
+      "product": "Azure Remote Rendering",
+      "title": "Azure Remote Rendering",
+      "retirementDate": "2025-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/v2/azure-remote-rendering-retirement",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-intent-recognition-retirement",
+      "product": "Speech",
+      "title": "Intent Recognition",
+      "retirementDate": "2025-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/v2/Azure-Intent-Recognition-Retirement",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-maps-spatial-apis-v1-2022-08-01",
+      "product": "Azure Maps",
+      "title": "Spatial API V1 & 2022-08-01",
+      "retirementDate": "2025-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/v2/Azure-Maps-Spatial-APIs-V1-2022-08-01",
+      "category": "Web",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "language-understanding-retirement",
+      "product": "Cognitive Services",
+      "title": "Language Understanding (LUIS)",
+      "retirementDate": "2026-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/language-understanding-retirement/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-monitoralertsalerts-log-api-switch",
+      "product": "Azure Monitor",
+      "title": "Log Analytics alert API ",
+      "retirementDate": "2025-10-01",
+      "itemUrl": "https://docs.microsoft.com/azure/azure-monitor/alerts/alerts-log-api-switch",
+      "category": "Management and governance",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "python-39-app-svc",
+      "product": "App Service",
+      "title": "Python 3.9",
+      "retirementDate": "2025-10-01",
+      "itemUrl": "https://azure.microsoft.com/updates/v2/python-39-app-svc",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "tls-1-0-and-1-1-support-will-be-removed-for-new-existing-azure-storage-accounts-4026181",
+      "product": "Storage Account",
+      "title": "Support for TLS 1.0 and 1.1",
+      "retirementDate": "2026-02-03",
+      "itemUrl": "https://techcommunity.microsoft.com/blog/azurestorageblog/tls-1-0-and-1-1-support-will-be-removed-for-new--existing-azure-storage-accounts/4026181",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "postgresql-11-support",
+      "product": "Azure Database for PostgreSQL",
+      "title": "FlexibleServers- Version 11",
+      "retirementDate": "2026-03-31",
+      "itemUrl": "https://learn.microsoft.com/azure/postgresql/flexible-server/concepts-version-policy#postgresql-11-support",
+      "category": "Databases",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "php-82-app-svc",
+      "product": "Azure App Service",
+      "title": "PHP 8.2",
+      "retirementDate": "2026-12-31",
+      "itemUrl": "https://azure.microsoft.com/updates/v2/php-82-app-svc",
+      "category": "Web",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "479933",
+      "product": "Azure Data Studio",
+      "title": "Transition from Azure Data Studio to Visual Studio Code",
+      "retirementDate": "2026-02-28",
+      "itemUrl": "https://azure.microsoft.com/updates/?id=479933",
+      "category": "Developer tools",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "were-retiring-speechtotext-rest-preview-api-v31preview1-on-may-12-2023",
+      "product": "Speech service",
+      "title": "Speech-to-text REST preview API v3.1-preview.1",
+      "retirementDate": "2026-03-13",
+      "itemUrl": "https://azure.microsoft.com/updates/were-retiring-speechtotext-rest-preview-api-v31preview1-on-may-12-2023/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "retirement-announcement-assigning-alert-trigger-playbooks-within-microsoft-sentinel-analytics-rules",
+      "product": "Microsoft Sentinel",
+      "title": "Alert-trigger playbooks",
+      "retirementDate": "2026-03-15",
+      "itemUrl": "https://azure.microsoft.com/updates/retirement-announcement-assigning-alert-trigger-playbooks-within-microsoft-sentinel-analytics-rules/",
+      "category": "Security",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "retirement-azure-database-migration-service-classic-sql-server-scenarios-deprecation",
+      "product": "Azure Database Migration Service (classic)",
+      "title": "SQL Server scenarios",
+      "retirementDate": "2026-03-15",
+      "itemUrl": "https://azure.microsoft.com/updates/retirement-azure-database-migration-service-classic-sql-server-scenarios-deprecation/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "machine-learningconcept-endpoints-batchviewazureml-api-2",
+      "product": "Azure Machine Learning",
+      "title": "Batch Endpoints Preview APIs",
+      "retirementDate": "2026-03-16",
+      "itemUrl": "https://learn.microsoft.com/azure/machine-learning/concept-endpoints-batch?view=azureml-api-2",
+      "category": "AI + machine learning",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "classic-vmware-dr-deprecation",
+      "product": "Azure Site Recovery",
+      "title": "Classic VMware protection",
+      "retirementDate": "2026-03-29",
+      "itemUrl": "https://azure.microsoft.com/updates/classic-vmware-dr-deprecation/",
+      "category": "Migration",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "batch-service-in-select-regions-will-be-retired-on-31-march-2026",
+      "product": "Azure Batch",
+      "title": "Availability in select regions",
+      "retirementDate": "2026-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/batch-service-in-select-regions-will-be-retired-on-31-march-2026/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-batch-classic-compute-node-communication-model-will-be-retired-on-31-march-2026",
+      "product": "Azure Batch",
+      "title": "Classic compute node communication model",
+      "retirementDate": "2026-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/azure-batch-classic-compute-node-communication-model-will-be-retired-on-31-march-2026/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "aks-will-stop-support-for-windows-server-2019-on-march-1-2026",
+      "product": "Azure Kubernetes Service (AKS)",
+      "title": "Windows Server 2019",
+      "retirementDate": "2026-03-01",
+      "itemUrl": "https://azure.microsoft.com/updates/aks-will-stop-support-for-windows-server-2019-on-march-1-2026/",
+      "category": "Containers",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "entraidentityconditional-accessmigrate-approved-client-app",
+      "product": "Azure Active Directory",
+      "title": "Conditional Access policies that use only the Require Approved Client App grant",
+      "retirementDate": "2026-03-31",
+      "itemUrl": "https://learn.microsoft.com/entra/identity/conditional-access/migrate-approved-client-app",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-monitorlogscustom-fields-migrate",
+      "product": "Azure Monitor",
+      "title": "Custom fields",
+      "retirementDate": "2026-03-31",
+      "itemUrl": "https://learn.microsoft.com/azure/azure-monitor/logs/custom-fields-migrate",
+      "category": "Management and governance",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "batch-custom-image-pools-using-vhd-or-managed-images-will-be-retired-on-31-march-2024",
+      "product": "Azure Batch",
+      "title": "Custom image pools using VHD blobs in Azure Storage and Azure Managed Images",
+      "retirementDate": "2026-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/batch-custom-image-pools-using-vhd-or-managed-images-will-be-retired-on-31-march-2024/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "transition-to-azure-ad-to-query-data-from-azure-monitor-application-insights-by-31-march-2026",
+      "product": "Application Insights",
+      "title": "API keys for querying ",
+      "retirementDate": "2026-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/transition-to-azure-ad-to-query-data-from-azure-monitor-application-insights-by-31-march-2026/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "announcing-the-3-year-retirement-of-windows-server-2019-on-ba-p-3777341",
+      "product": "Azure Kubernetes Service (AKS)",
+      "title": "Windows Server 2019 on AKS hybrid",
+      "retirementDate": "2026-03-31",
+      "itemUrl": "https://techcommunity.microsoft.com/t5/containers/announcing-the-3-year-retirement-of-windows-server-2019-on-azure/ba-p/3777341",
+      "category": "Containers",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "transition-to-builtin-azure-monitor-alerts-for-recovery-services-vaults-in-azure-backup-by-31-march-2026",
+      "product": "Azure Backup",
+      "title": "Classic alerts for Recovery Services vaults ",
+      "retirementDate": "2026-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/transition-to-builtin-azure-monitor-alerts-for-recovery-services-vaults-in-azure-backup-by-31-march-2026/",
+      "category": "Management and governance",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-diagnostics-extensions-retiring-march-31-2026",
+      "product": "Azure Monitor",
+      "title": "Azure Diagnostic Extensions",
+      "retirementDate": "2026-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/v2/Azure-Diagnostics-Extensions-retiring-march-31-2026",
+      "category": "Management and governance",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "application-gateway-v1-will-be-retired-on-28-april-2026-transition-to-application-gateway",
+      "product": "Azure Application Gateway",
+      "title": "V1",
+      "retirementDate": "2026-04-28",
+      "itemUrl": "https://azure.microsoft.com/updates/application-gateway-v1-will-be-retired-on-28-april-2026-transition-to-application-gateway-v2/",
+      "category": "Networking",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "retirement-notice-custom-commands-will-retire-on-30-april-2026",
+      "product": "Azure AI Speech",
+      "title": "Custom Commands",
+      "retirementDate": "2026-04-30",
+      "itemUrl": "https://azure.microsoft.com/updates/retirement-notice-custom-commands-will-retire-on-30-april-2026/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "cost-management-download-by-billing-account-api-version-retirement",
+      "product": "Azure Price Sheet",
+      "title": "Download by Billing Account APIs prior to version 2023-09-01",
+      "retirementDate": "2026-06-01",
+      "itemUrl": "https://azure.microsoft.com/updates/v2/Cost-Management-Download-by-Billing-Account-API-version-retirement",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "retirement-azure-ai-document-intelligence-v20-api-will-be-retired-on-31-august-2026",
+      "product": "Azure AI Document Intelligence",
+      "title": "v2.0 API",
+      "retirementDate": "2026-08-31",
+      "itemUrl": "https://azure.microsoft.com/updates/retirement-azure-ai-document-intelligence-v20-api-will-be-retired-on-31-august-2026/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "computer-vision-api-v10-computer-vision-api-retirements-13-9-2026",
+      "product": "Azure AI Custom Vision",
+      "title": "Computer Vision API v1.0 ",
+      "retirementDate": "2026-09-13",
+      "itemUrl": "https://azure.microsoft.com/updates/computer-vision-api-retirements-13-9-2026/",
+      "category": "AI + machine learning",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "computer-vision-api-v31-computer-vision-api-retirements-13-9-2026",
+      "product": "Azure AI Custom Vision",
+      "title": "Computer Vision API v3.1 ",
+      "retirementDate": "2026-09-13",
+      "itemUrl": "https://azure.microsoft.com/updates/computer-vision-api-retirements-13-9-2026/",
+      "category": "AI + machine learning",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "computer-vision-api-v30-computer-vision-api-retirements-13-9-2026",
+      "product": "Azure AI Custom Vision",
+      "title": "Computer Vision API v3.0 ",
+      "retirementDate": "2026-09-13",
+      "itemUrl": "https://azure.microsoft.com/updates/computer-vision-api-retirements-13-9-2026/",
+      "category": "AI + machine learning",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "computer-vision-api-v20-computer-vision-api-retirements-13-9-2026",
+      "product": "Azure AI Custom Vision",
+      "title": "Computer Vision API v2.0",
+      "retirementDate": "2026-09-13",
+      "itemUrl": "https://azure.microsoft.com/updates/computer-vision-api-retirements-13-9-2026/",
+      "category": "AI + machine learning",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "computer-vision-api-v21-computer-vision-api-retirements-13-9-2026",
+      "product": "Azure AI Custom Vision",
+      "title": "Computer Vision API v2.1",
+      "retirementDate": "2026-09-13",
+      "itemUrl": "https://azure.microsoft.com/updates/computer-vision-api-retirements-13-9-2026/",
+      "category": "AI + machine learning",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-monitorlogscustom-logs-migrate",
+      "product": "Azure Monitor",
+      "title": "HTTP Data Collector API",
+      "retirementDate": "2026-09-14",
+      "itemUrl": "https://learn.microsoft.com/azure/azure-monitor/logs/custom-logs-migrate",
+      "category": "Management and governance",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "support-for-the-1x-version-of-azure-functions-ends-14-september-2026",
+      "product": "Azure Functions",
+      "title": "Version 1.x runtime",
+      "retirementDate": "2026-09-14",
+      "itemUrl": "https://azure.microsoft.com/updates/support-for-the-1x-version-of-azure-functions-ends-14-september-2026/",
+      "category": "Compute",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-monitor-for-aksengine-will-not-be-supported-on-14-september-2026",
+      "product": "Azure Monitor",
+      "title": "Monitoring Support",
+      "retirementDate": "2026-09-14",
+      "itemUrl": "https://azure.microsoft.com/updates/azure-monitor-for-aksengine-will-not-be-supported-on-14-september-2026/",
+      "category": "Management and governance",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-activity-logs-legacy-solution-is-replaced-by-diagnostic-settings",
+      "product": "Azure Monitor",
+      "title": "Legacy Azure Activity logs solution",
+      "retirementDate": "2026-09-15",
+      "itemUrl": "https://azure.microsoft.com/updates/azure-activity-logs-legacy-solution-is-replaced-by-diagnostic-settings/",
+      "category": "Management and governance",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-maps-gen1-price-tier-retirement",
+      "product": "Azure Maps",
+      "title": "Gen1 price tier",
+      "retirementDate": "2026-09-15",
+      "itemUrl": "https://azure.microsoft.com/updates/azure-maps-gen1-price-tier-retirement/",
+      "category": "Web",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-maps-render-v1-apis-will-be-retired-on-17-september-2026",
+      "product": "Azure Maps",
+      "title": "Render V1 APIs",
+      "retirementDate": "2026-09-17",
+      "itemUrl": "https://azure.microsoft.com/updates/azure-maps-render-v1-apis-will-be-retired-on-17-september-2026/",
+      "category": "Web",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-maps-web-sdk-map-controls-version-1xx-will-be-retired-on-19-september-2026",
+      "product": "Azure Maps",
+      "title": "Web SDK Map Controls v1.xx",
+      "retirementDate": "2026-09-19",
+      "itemUrl": "https://azure.microsoft.com/updates/azure-maps-web-sdk-map-controls-version-1xx-will-be-retired-on-19-september-2026/",
+      "category": "Web",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "smart-on-fhir-proxy-feature-in-azure-health-data-services-will-be-retired-on-21st-september-2026-transition-to-smart-on-fhir",
+      "product": "Azure Health Data Services",
+      "title": "SMART on FHIR proxy",
+      "retirementDate": "2026-09-21",
+      "itemUrl": "https://azure.microsoft.com/updates/smart-on-fhir-proxy-feature-in-azure-health-data-services-will-be-retired-on-21st-september-2026-transition-to-smart-on-fhir/",
+      "category": "Integration",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "transition-to-using-standard-tests-for-singlestep-availability-testing-in-azure-monitor-application-insights-by-30-september",
+      "product": "Application Insights",
+      "title": "Single URL Ping Test",
+      "retirementDate": "2026-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/transition-to-using-standard-tests-for-singlestep-availability-testing-in-azure-monitor-application-insights-by-30-september/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-api-for-fhir-retirement",
+      "product": "Azure API for FHIR",
+      "title": "Azure API for FHIR",
+      "retirementDate": "2026-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/azure-api-for-fhir-retirement/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "action-required-migrate-to-using-arg-query-for-get-alert-summary-in-azure-monitor",
+      "product": "Azure Monitor",
+      "title": "Alerts - GetAlertSummary API ",
+      "retirementDate": "2026-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/action-required-migrate-to-using-arg-query-for-get-alert-summary-in-azure-monitor/",
+      "category": "Management and governance",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "fxtretirement",
+      "product": "Azure FXT Edge Filer",
+      "title": "Azure FXT Edge Filer",
+      "retirementDate": "2026-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/fxtretirement/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "virtual-desktopvirtual-desktop-fall-2019classic-retirement",
+      "product": "Azure Virtual Desktop",
+      "title": "Classic",
+      "retirementDate": "2026-09-30",
+      "itemUrl": "https://learn.microsoft.com/azure/virtual-desktop/virtual-desktop-fall-2019/classic-retirement",
+      "category": "Virtual desktop infrastructure",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "retirement-notice-update-your-azure-service-bus-sdk-libraries-by-30-september-2026-apis-v2014-09-v2015-08-v2016-07",
+      "product": "Service Bus",
+      "title": "v2014-09; v2015-08; v2016-07 APIs",
+      "retirementDate": "2026-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/retirement-notice-update-your-azure-service-bus-sdk-libraries-by-30-september-2026/",
+      "category": "Integration",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "we-re-ending-support-for-the-20170301ga-api",
+      "product": "Azure Container Registry",
+      "title": "2017-01-01-(GA) API",
+      "retirementDate": "2026-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/we-re-ending-support-for-the-20170301ga-api/",
+      "category": "Containers",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "retirement-notice-update-your-azure-service-bus-sdk-libraries-by-30-september-2026",
+      "product": "Service Bus",
+      "title": "Track 0 and 1 SDKs and SBMP protocol",
+      "retirementDate": "2026-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/retirement-notice-update-your-azure-service-bus-sdk-libraries-by-30-september-2026/",
+      "category": "Integration",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-monitorcontainerscontainer-insights-v2-migration",
+      "product": "Azure Monitor",
+      "title": "ContainerLog table",
+      "retirementDate": "2026-09-30",
+      "itemUrl": "https://learn.microsoft.com/azure/azure-monitor/containers/container-insights-v2-migration",
+      "category": "Management and governance",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-maps-web-sdk-v2-for-android-and-ios-will-be-retired-on-31-march-2025-transition-to-use-web-view-of-azure-maps-web-sdk",
+      "product": "Azure Maps",
+      "title": "Web SDK v2 Subversion (v2.0~v2.0.32) ",
+      "retirementDate": "2026-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/azure-maps-native-sdk-for-android-and-ios-will-be-retired-on-31-march-2025-transition-to-use-web-view-of-azure-maps-web-sdk/",
+      "category": "Web",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "ai-services-anomaly-detector-will-be-retired-on-1-october-2026",
+      "product": "AI Anomaly Detector",
+      "title": "AI Anomaly Detector will be retired.",
+      "retirementDate": "2026-10-01",
+      "itemUrl": "https://azure.microsoft.com/updates/ai-services-anomaly-detector-will-be-retired-on-1-october-2026/",
+      "category": "AI + machine learning",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "ai-services-metrics-advisor-will-be-retired-on-1-october-2026",
+      "product": "Azure AI Metrics Advisor",
+      "title": "Azure AI Metrics Advisor",
+      "retirementDate": "2026-10-01",
+      "itemUrl": "https://azure.microsoft.com/updates/ai-services-metrics-advisor-will-be-retired-on-1-october-2026/",
+      "category": "AI + machine learning",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "ai-services-personalizer-will-be-retired-on-1-october-2026",
+      "product": "Azure AI Personalizer",
+      "title": "Azure AI Personalizer",
+      "retirementDate": "2026-10-01",
+      "itemUrl": "https://azure.microsoft.com/updates/ai-services-personalizer-will-be-retired-on-1-october-2026/",
+      "category": "AI + machine learning",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-ai-translator-s2s4-billing-instances-will-be-retired-on-1-october-2026-transition-to-commitment-tiers-for-discounted-pr",
+      "product": "Cognitive Services Translator",
+      "title": "S2, S3, and S4 price instances",
+      "retirementDate": "2026-10-01",
+      "itemUrl": "https://azure.microsoft.com/updates/azure-ai-translator-s2s4-billing-instances-will-be-retired-on-1-october-2026-transition-to-commitment-tiers-for-discounted-pr/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "vpngw1-5-non-az-skus-will-be-retired-on-30-september-2026",
+      "product": "VPN Gateway",
+      "title": "Non-AZ VPNs",
+      "retirementDate": "2026-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/v2/vpngw1-5-non-az-skus-will-be-retired-on-30-september-2026",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "retirement-support-for-the-inprocess-model-for-net-apps-in-azure-functions-ends-10-november-2026",
+      "product": "Azure Functions",
+      "title": "In-process model ",
+      "retirementDate": "2026-11-10",
+      "itemUrl": "https://azure.microsoft.com/updates/retirement-support-for-the-inprocess-model-for-net-apps-in-azure-functions-ends-10-november-2026/",
+      "category": "Compute",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "hpc-pack-2016-will-be-retired-on-12-january-2027",
+      "product": "Azure Batch",
+      "title": "HPC Pack 2016",
+      "retirementDate": "2027-01-12",
+      "itemUrl": "https://azure.microsoft.com/updates/hpc-pack-2016-will-be-retired-on-12-january-2027/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "ws2022-retirement-aks",
+      "product": "Azure Kubernetes Service",
+      "title": "Windows Server 2022",
+      "retirementDate": "2027-03-15",
+      "itemUrl": "https://azure.microsoft.com/updates/ws2022-retirement-aks/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-content-moderator-retirement",
+      "product": "Content Safety in Foundry Control Plane",
+      "title": "Azure AI Content Moderator",
+      "retirementDate": "2027-03-15",
+      "itemUrl": "https://azure.microsoft.com/en-us/updates/?id=azure-content-moderator-retirement",
+      "category": "AI + machine learning",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "community-support-for-standardm192isv2-is-ending-on-31-march-2027",
+      "product": "Virtual Machines",
+      "title": "Standard_M192is_v2",
+      "retirementDate": "2027-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/community-support-for-standardm192isv2-is-ending-on-31-march-2027/",
+      "category": "Compute",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "community-support-for-standardm192imsv2-is-ending-on-31-march-2027",
+      "product": "Virtual Machines",
+      "title": "Standard_M192ims_v2",
+      "retirementDate": "2027-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/community-support-for-standardm192imsv2-is-ending-on-31-march-2027/",
+      "category": "Compute",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "community-support-for-standardm192idsv2-is-ending-on-31-march-2027",
+      "product": "Virtual Machines",
+      "title": "Standard_M192ids_v2",
+      "retirementDate": "2027-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/community-support-for-standardm192idsv2-is-ending-on-31-march-2027/",
+      "category": "Compute",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "support-for-standardm192idmsv2-will-be-retired-on-31-march-2027",
+      "product": "Virtual Machines",
+      "title": "Standard_M192idms_v2",
+      "retirementDate": "2027-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/support-for-standardm192idmsv2-will-be-retired-on-31-march-2027/",
+      "category": "Compute",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "retirement-support-for-application-gateway-web-application-firewall-v2-configuration-is-ending",
+      "product": "Azure Application Gateway",
+      "title": "WAF v2 Config",
+      "retirementDate": "2027-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/retirement-support-for-application-gateway-web-application-firewall-v2-configuration-is-ending/",
+      "category": "Networking",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "were-retiring-memory-optimized-data-flows-in-azure-data-factory-use-general-purpose-for-better-performance-at-a-lower-price",
+      "product": "Azure Data Factory ",
+      "title": "Memory Optimized Data Flows",
+      "retirementDate": "2027-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/were-retiring-memory-optimized-data-flows-in-azure-data-factory-use-general-purpose-for-better-performance-at-a-lower-price/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "begin-using-azure-monitor-based-dashboards-in-azure-api-management-before-the-builtin-analytics-dashboards-are-retired-on-15",
+      "product": "API Management",
+      "title": "Built-in Analytics",
+      "retirementDate": "2027-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/begin-using-azure-monitor-based-dashboards-in-azure-api-management-before-the-builtin-analytics-dashboards-are-retired-on-15/",
+      "category": "Integration",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-front-door-classic-will-be-retired-on-31-march-2027",
+      "product": "Azure Front Door",
+      "title": "Classic",
+      "retirementDate": "2027-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/azure-front-door-classic-will-be-retired-on-31-march-2027/",
+      "category": "Networking",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "long-audio-api-will-be-retired-on-31-march-2027-migrate-to-the-new-batch-synthesis-api",
+      "product": "Azure text to speech",
+      "title": "Long audio API",
+      "retirementDate": "2027-04-01",
+      "itemUrl": "https://azure.microsoft.com/updates/long-audio-api-will-be-retired-on-31-march-2027-migrate-to-the-new-batch-synthesis-api/",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-lab-services-is-being-retired",
+      "product": "Azure Lab Services",
+      "title": "V1 and V2",
+      "retirementDate": "2027-06-28",
+      "itemUrl": "https://azure.microsoft.com/updates/v2/Azure-Lab-Services-is-being-retired",
+      "category": "Virtual desktop infrastructure",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "planned-service-retirement-azure-automation-state-configuration-16-september-2027",
+      "product": "Azure Automation",
+      "title": "State Configuration (DSC)",
+      "retirementDate": "2027-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/v2/Planned-Service-Retirement-Azure-Automation-State-Configuration-16-September-2027",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "automated-patching-deprecation-and-replacement-with-azure-update-manager",
+      "product": "Azure SQL",
+      "title": "Automated patching for SQL VMs",
+      "retirementDate": "2027-09-17",
+      "itemUrl": "https://azure.microsoft.com/updates/v2/Automated-Patching-deprecation-and-replacement-with-Azure-Update-Manager",
+      "category": "Databases",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-site-recovery-classic-alerts-retirement",
+      "product": "Azure Site Recovery",
+      "title": "Classic Alerts",
+      "retirementDate": "2027-09-22",
+      "itemUrl": "https://azure.microsoft.com/updates/v2/azure-site-recovery-classic-alerts-retirement",
+      "category": "Migration",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-sphere-legacy-interface-retirement",
+      "product": "Azure Sphere",
+      "title": "Public API",
+      "retirementDate": "2027-09-26",
+      "itemUrl": "https://azure.microsoft.com/updates/v2/Azure-Sphere-Legacy-Interface-Retirement",
+      "category": "Internet of Things",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-nsg-flow-logs-retirement",
+      "product": "Network Watcher",
+      "title": "NSG Flow Logs",
+      "retirementDate": "2027-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/v2/Azure-NSG-flow-logs-Retirement",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-docuement-intelligence-v2-retirement",
+      "product": "Azure Document Intelligence",
+      "title": "Studio v2.1",
+      "retirementDate": "2027-09-15",
+      "itemUrl": "https://azure.microsoft.com/updates/v2/Azure-Docuement-Intelligence-V2-retirement",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "retirement-notice-azure-load-balancer-inbound-nat-rule-v1-for-azure-vms-and-azure-vmss-will-be-retired",
+      "product": "Azure Load Balancer",
+      "title": "Inbound NAT rule V1",
+      "retirementDate": "2027-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/v2/Retirement-notice-Azure-Load-Balancer-Inbound-NAT-rule-V1-for-Azure-VMs-and-Azure-VMSS-will-be-retired",
+      "category": "Networking",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-cdn-standard-from-microsoft-classic-will-be-retired-on-30-september-2027",
+      "product": "Azure CDN",
+      "title": "Standard from Microsoft (classic)",
+      "retirementDate": "2027-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/v2/Azure-CDN-Standard-from-Microsoft-classic-will-be-retired-on-30-September-2027",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-automanage-best-practices-retirement-migrate-to-azure-policy",
+      "product": "Azure Automanage",
+      "title": "Best Practices",
+      "retirementDate": "2027-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/v2/Azure-Automanage-Best-Practices-Retirement-Migrate-to-Azure-Policy",
+      "category": "Management and governance",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "open-service-mesh-extension-for-aks-retirement",
+      "product": "Azure Kubernetes Service",
+      "title": "Open Service Mesh add-on",
+      "retirementDate": "2027-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/v2/open-service-mesh-extension-for-aks-retirement",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "sql-data-sync-retirement",
+      "product": "Azure SQL",
+      "title": "Data Sync",
+      "retirementDate": "2027-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/v2/SQL-Data-Sync-Retirement",
+      "category": "Databases",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "485535",
+      "product": "Azure VPN Gateway",
+      "title": "VPN Gateway with Third-party App",
+      "retirementDate": "2028-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/?id=485535",
+      "category": "Networking",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "485828",
+      "product": "Virtual Machines",
+      "title": "Desired State Configuration extension",
+      "retirementDate": "2028-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/?id=485828",
+      "category": "Compute",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "485072",
+      "product": "Azure App Service",
+      "title": "Support for Node 20 LTS",
+      "retirementDate": "2026-04-30",
+      "itemUrl": "https://azure.microsoft.com/updates/?id=485072",
+      "category": "Web",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "485172",
+      "product": "Azure Kubernetes Service (AKS)",
+      "title": "Kubenet networking for Azure Kubernetes Service (AKS) will be retired",
+      "retirementDate": "2028-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/?id=485172",
+      "category": "Containers",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "485167",
+      "product": "Azure App Service",
+      "title": "Docker Compose feature to be retired. Transition to sidecar container.",
+      "retirementDate": "2027-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/?id=485167",
+      "category": "Web",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "486344",
+      "product": "Cloud Services",
+      "title": "Extended Support",
+      "retirementDate": "2027-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/?id=486344",
+      "category": "Compute",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "485241",
+      "product": "Azure Container Registry",
+      "title": "Support for Docker Content Trust",
+      "retirementDate": "2028-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/?id=485241",
+      "category": "Containers",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "485865",
+      "product": "Azure Spring Apps",
+      "title": "Azure Spring Apps",
+      "retirementDate": "2028-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/?id=485865",
+      "category": "Compute",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "484968",
+      "product": "Azure Synapse Analytics",
+      "title": "Data Explorer (Kusto) pools",
+      "retirementDate": "2025-10-07",
+      "itemUrl": "https://azure.microsoft.com/updates/?id=484968",
+      "category": "Analytics",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "485569",
+      "product": "Virtual Machines",
+      "title": "D, Ds, Dv2, Dsv2 and Ls series",
+      "retirementDate": "2028-05-01",
+      "itemUrl": "https://azure.microsoft.com/updates/?id=485569",
+      "category": "Compute",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "487247",
+      "product": "Microsoft Entra Domain Services",
+      "title": "Support for TLS 1.0/1.1",
+      "retirementDate": "2025-08-31",
+      "itemUrl": "https://azure.microsoft.com/updates/?id=487247",
+      "category": "Identity",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "485819",
+      "product": "Azure Maps",
+      "title": "Route v1 APIs",
+      "retirementDate": "2028-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/?id=485819",
+      "category": "Web",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "485790",
+      "product": "Azure Kubernetes Service (AKS)",
+      "title": "Support for Ubuntu 18.04",
+      "retirementDate": "2025-06-17",
+      "itemUrl": "https://azure.microsoft.com/updates/?id=485790",
+      "category": "Containers",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "485106",
+      "product": "Azure Storage Data Movement Library",
+      "title": "The legacy version of the Azure Storage Data Movement Library (v2) will be retired.",
+      "retirementDate": "2026-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/?id=485106",
+      "category": "Migration",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "485810",
+      "product": "Azure Maps",
+      "title": "Traffic v1 APIs",
+      "retirementDate": "2028-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/?id=485810",
+      "category": "Web",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "485030",
+      "product": "Azure SQL Database",
+      "title": "FsV2 Database",
+      "retirementDate": "2026-10-01",
+      "itemUrl": "https://azure.microsoft.com/updates/?id=485030",
+      "category": "Databases",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "485795",
+      "product": "Azure Kubernetes Service (AKS)",
+      "title": "Support for Ubuntu 20.04",
+      "retirementDate": "2027-03-17",
+      "itemUrl": "https://azure.microsoft.com/updates/?id=485795",
+      "category": "Containers",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "azure-support-tls-will-end-by-31-october-2024-2",
+      "product": "API Management",
+      "title": "TLS 1.0/1.1 Retirement",
+      "retirementDate": "2024-10-31",
+      "itemUrl": "https://azure.microsoft.com/updates/azure-support-tls-will-end-by-31-october-2024-2/",
+      "category": "Integration",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "485893",
+      "product": "Azure Arc",
+      "title": "Azure Kubernetes Service's current architecture on Windows Server 2019 and Windows Server 2022 to be retired.",
+      "retirementDate": "2028-03-27",
+      "itemUrl": "https://azure.microsoft.com/updates/?id=485893",
+      "category": "Hybrid + multicloud",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "486080",
+      "product": "Azure Monitor",
+      "title": "Retiring the batch API in Azure Monitor Log Analytics",
+      "retirementDate": "2028-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/?id=486080",
+      "category": "Management and governance",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "485047",
+      "product": "Azure App Service",
+      "title": "Customer Backup - Linked Database Backup",
+      "retirementDate": "2028-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/?id=485047",
+      "category": "Web",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "485683",
+      "product": "Azure Container Apps",
+      "title": "Add-ons (public preview)",
+      "retirementDate": "2025-09-30",
+      "itemUrl": "https://azure.microsoft.com/updates/?id=485683",
+      "category": "Containers",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "486238",
+      "product": "Azure Machine Learning",
+      "title": "V1 SDK",
+      "retirementDate": "2026-06-30",
+      "itemUrl": "https://azure.microsoft.com/updates/?id=486238",
+      "category": "AI + machine learning",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "484943",
+      "product": "Intelligent Recommendations",
+      "title": "Intelligent Recommendations",
+      "retirementDate": "2026-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/?id=484943",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "489428",
+      "product": "Azure Functions",
+      "title": "Support for Python 3.9",
+      "retirementDate": "2025-10-31",
+      "itemUrl": "https://azure.microsoft.com/updates/?id=489428",
+      "category": "Compute",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "489009",
+      "product": "Azure Functions",
+      "title": "Durable Functions support for Netherite",
+      "retirementDate": "2028-03-31",
+      "itemUrl": "https://azure.microsoft.com/updates/?id=489009",
+      "category": "Compute",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "send-data-to-your-workspace-using-transport-layer-security-tls-12-or-higher",
+      "product": "Azure Monitor",
+      "title": "Support for TLS 1.0 and 1.1",
+      "retirementDate": "2026-03-01",
+      "itemUrl": "https://learn.microsoft.com/azure/azure-monitor/fundamentals/best-practices-security#send-data-to-your-workspace-using-transport-layer-security-tls-12-or-higher",
+      "category": "Management and governance",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "492371",
+      "product": "Azure App Service",
+      "title": "Azure Static Web Apps Dedicated Pricing Plan",
+      "retirementDate": "2025-10-31",
+      "itemUrl": "https://azure.microsoft.com/updates/?id=492371",
+      "category": "Web",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "492574",
+      "product": "Bing Search",
+      "title": "Search and Custom Search APIs",
+      "retirementDate": "2025-08-11",
+      "itemUrl": "https://azure.microsoft.com/updates/?id=492574",
+      "category": "UNKNOWN",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "485077",
+      "product": "Azure App Service",
+      "title": ".NET 9 (STS)",
+      "retirementDate": "2026-05-12",
+      "itemUrl": "https://azure.microsoft.com/updates/?id=485077",
+      "category": "Web",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "496104",
+      "product": "Virtual Machines",
+      "title": "DCsv2-series",
+      "retirementDate": "2026-06-30",
+      "itemUrl": "https://azure.microsoft.com/updates/?id=496104",
+      "category": "Compute",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "ai-servicescomputer-visionintro-to-spatial-analysis-public-preview",
+      "product": "Azure AI Custom Vision",
+      "title": "Video Retrieval",
+      "retirementDate": "2025-06-30",
+      "itemUrl": "https://learn.microsoft.com/azure/ai-services/computer-vision/intro-to-spatial-analysis-public-preview",
+      "category": "AI + machine learning",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "ai-foundryopenaiconceptsmodel-retirementstabstextcurrent-models",
+      "product": "Foundry Models",
+      "title": "Azure OpenAI - Multiple Models (see the Actions column for individual dates)",
+      "retirementDate": "2027-05-31",
+      "itemUrl": "https://learn.microsoft.com/azure/ai-foundry/openai/concepts/model-retirements?tabs=text#current-models",
+      "category": "AI + machine learning",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    },
+    {
+      "id": "data-factoryconnector-release-stages-and-timelines",
+      "product": "Azure Data Factory",
+      "title": "Multiple Connectors (see the Actions column for individual dates)",
+      "retirementDate": "2027-05-31",
+      "itemUrl": "https://learn.microsoft.com/azure/data-factory/connector-release-stages-and-timelines",
+      "category": "Analytics",
+      "created": "2026-02-12",
+      "modified": "2026-02-12"
+    }
+  ]
+}
