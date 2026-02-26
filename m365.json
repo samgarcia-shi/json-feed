@@ -1,8 +1,47 @@
 {
-    "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#admin/serviceAnnouncement/messages(id,title,body,tags,services,startDateTime,endDateTime,lastModifiedDateTime)",
-    "@odata.count": 391,
-    "@odata.nextLink": "https://graph.microsoft.com/v1.0/admin/serviceAnnouncement/messages?$count=true&$orderby=lastModifiedDateTime+desc&$format=json&$filter=tags%2fany(tag%3atag+eq+%27Retirement%27+or+tag+eq+%27New+feature%27+or+tag+eq+%27Feature+update%27)&$select=id%2ctitle%2cbody%2ctags%2cservices%2cstartDateTime%2cendDateTime%2clastModifiedDateTime&$skip=100",
+    "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#admin/serviceAnnouncement/messages(id,title,body,tags,services,actionRequiredByDateTime,startDateTime,endDateTime,lastModifiedDateTime)",
+    "@odata.count": 392,
+    "@odata.nextLink": "https://graph.microsoft.com/v1.0/admin/serviceAnnouncement/messages?$count=true&$orderby=lastModifiedDateTime+desc&$format=json&$filter=tags%2fany(tag%3atag+eq+%27Retirement%27+or+tag+eq+%27New+feature%27+or+tag+eq+%27Feature+update%27)&$select=id%2ctitle%2cbody%2ctags%2cservices%2cactionRequiredByDateTime%2cstartDateTime%2cendDateTime%2clastModifiedDateTime&$skip=100",
     "value": [
+        {
+            "startDateTime": "2026-02-26T19:33:46Z",
+            "endDateTime": "2026-03-31T19:33:00Z",
+            "lastModifiedDateTime": "2026-02-26T19:35:15.143Z",
+            "title": "Dynamics 365 Project Operations - Enable outline level to the tasks in resource assignment view",
+            "id": "MC1239829",
+            "tags": [
+                "New feature"
+            ],
+            "actionRequiredByDateTime": null,
+            "services": [
+                "Dynamics 365 Apps"
+            ],
+            "body": {
+                "contentType": "html",
+                "content": "We are announcing the ability to enable outline level to the tasks in resource assignment view in Dynamics 365 Project Operations. This feature will reach general availability on March 31, 2026.<br><br>\n<b>How does this affect me?</b><br>\nThis feature allows users to view the outline number directly alongside tasks in the assignment view. Tasks are sorted by outline number when grouped by tasks, ensuring better visibility and alignment with the Work Breakdown Structure (WBS) hierarchy. This improvement enhances usability, reduces friction in task identification, and provides a more intuitive and efficient experience for users managing assignments.<br><br>\n<b>What action do I need to take?</b><br>\nThis message is for awareness, and no action is required.\n<br><br>\nIf you would like more information on this feature, please visit <a href=\"https://aka.ms/ADO14042\" target=\"_blank\">Enable outline level to the tasks in resource assignment view.</a>."
+            }
+        },
+        {
+            "startDateTime": "2026-01-21T00:38:47Z",
+            "endDateTime": "2026-05-29T07:00:00Z",
+            "lastModifiedDateTime": "2026-02-26T19:04:10.167Z",
+            "title": "(Updated) Brand impersonation protection for Teams Calling",
+            "id": "MC1219793",
+            "tags": [
+                "Updated message",
+                "New feature",
+                "User impact",
+                "Admin impact"
+            ],
+            "actionRequiredByDateTime": null,
+            "services": [
+                "Microsoft Teams"
+            ],
+            "body": {
+                "contentType": "html",
+                "content": "<p>Updated February 26, 2026: We have updated the timeline. Thank you for your patience.&nbsp;</p><p><b>[Introduction]</b></p><p><b>\nBrand Impersonation Protection</b> for Teams Calling adds proactive safeguards against fraudulent or deceptive external callers who attempt to appear as trusted organizations. This helps reduce social-engineering risks and improves tenant security when users receive first-contact external calls. This update aligns with Microsoft’s ongoing investments in caller identity protection and secure collaboration.</p><p>This message is associated with Microsoft 365 Roadmap ID <a href=\"https://www.microsoft.com/microsoft-365/roadmap?filters=&amp;searchterms=543239\" target=\"_blank\">543239</a>.</p>\n\n<p><b>[When this will happen:]</b></p><p>\nTargeted Release: Rollout will begin early April 2026 (previously mid-March)<b>&nbsp;</b>and is expected to complete by late April 2026 (previously late March)<b>.</b><br>\nGeneral Availability: Timelines will be communicated in a future message.</p>\n\n<p><b>[How this affects your organization:]</b></p>\n\n<p><b>Who is affected:</b></p>\n<ul>\n  <li>All organizations using Microsoft Teams Calling that receive inbound VoIP calls from first-contact external callers.</li>\n</ul>\n\n<p><b style=\"\">What will happen:</b></p>\n<ul>\n  <li>Teams will evaluate inbound calls for signs of brand impersonation.</li>\n  <li>Users will see high-risk call warnings before answering suspicious calls.</li>\n  <li>Warnings may continue during the call if risk signals persist.</li>\n  <li>Users can accept, block, or end the call.</li>\n  <li>The feature will be enabled by default.</li>\n  <li>Existing Teams Calling policies remain unchanged.</li>\n</ul>\n\n<p><b>[What you can do to prepare:]</b></p><p>\nNo admin action is required at this time.</p>\n\n<ul>\n  <li>Inform helpdesk staff that users may begin seeing high-risk call warnings.</li>\n  <li>Update internal training materials if applicable.</li>\n  <li>Review Microsoft documentation on caller ID security when available.</li></ul><p>Before rollout, we will update this post with new documentation.</p><ul>\n</ul>\n\n<p><b>[Compliance considerations:]</b></p><p>\nNo compliance considerations identified, review as appropriate for your organization.</p>"
+            }
+        },
         {
             "startDateTime": "2026-02-26T15:54:28Z",
             "endDateTime": "2026-04-07T15:54:00Z",
@@ -12,6 +51,7 @@
             "tags": [
                 "New feature"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Dynamics 365 Apps"
             ],
@@ -29,6 +69,7 @@
             "tags": [
                 "New feature"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Dynamics 365 Apps"
             ],
@@ -46,6 +87,7 @@
             "tags": [
                 "New feature"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Dynamics 365 Apps"
             ],
@@ -63,6 +105,7 @@
             "tags": [
                 "New feature"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Dynamics 365 Apps"
             ],
@@ -80,6 +123,7 @@
             "tags": [
                 "New feature"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Dynamics 365 Apps"
             ],
@@ -99,6 +143,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Defender XDR"
             ],
@@ -117,6 +162,7 @@
                 "New feature",
                 "User impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft 365 apps"
             ],
@@ -135,6 +181,7 @@
                 "Feature update",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "SharePoint Online"
             ],
@@ -154,6 +201,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Exchange Online"
             ],
@@ -173,6 +221,7 @@
                 "Feature update",
                 "User impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Purview"
             ],
@@ -192,6 +241,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": "2026-04-05T07:00:00Z",
             "services": [
                 "Exchange Online",
                 "Microsoft 365 suite"
@@ -213,6 +263,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Teams"
             ],
@@ -233,6 +284,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "SharePoint Online"
             ],
@@ -250,6 +302,7 @@
             "tags": [
                 "New feature"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Dynamics 365 Apps"
             ],
@@ -267,6 +320,7 @@
             "tags": [
                 "Feature update"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft 365 apps"
             ],
@@ -286,6 +340,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft 365 apps"
             ],
@@ -305,6 +360,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft 365 Copilot Chat"
             ],
@@ -324,6 +380,7 @@
                 "New feature",
                 "User impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Teams"
             ],
@@ -344,6 +401,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Entra"
             ],
@@ -363,6 +421,7 @@
                 "New feature",
                 "User impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Teams"
             ],
@@ -383,6 +442,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Teams"
             ],
@@ -403,6 +463,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft 365 Copilot Chat"
             ],
@@ -423,6 +484,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft 365 apps"
             ],
@@ -442,6 +504,7 @@
                 "Feature update",
                 "User impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Teams"
             ],
@@ -461,6 +524,7 @@
                 "Feature update",
                 "User impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft 365 Copilot Chat"
             ],
@@ -481,6 +545,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "SharePoint Online",
                 "Microsoft OneDrive",
@@ -501,6 +566,7 @@
                 "Feature update",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Defender XDR"
             ],
@@ -520,6 +586,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft 365 Copilot Chat"
             ],
@@ -540,6 +607,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Teams"
             ],
@@ -557,6 +625,7 @@
             "tags": [
                 "New feature"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Dynamics 365 Apps"
             ],
@@ -577,6 +646,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Viva"
             ],
@@ -594,6 +664,7 @@
             "tags": [
                 "New feature"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Dynamics 365 Apps"
             ],
@@ -613,6 +684,7 @@
                 "New feature",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Viva"
             ],
@@ -633,6 +705,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft 365 for the web"
             ],
@@ -652,6 +725,7 @@
                 "New feature",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Viva"
             ],
@@ -672,6 +746,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Teams"
             ],
@@ -692,6 +767,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Teams"
             ],
@@ -711,6 +787,7 @@
                 "New feature",
                 "User impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Teams"
             ],
@@ -730,6 +807,7 @@
                 "Feature update",
                 "User impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Teams"
             ],
@@ -750,6 +828,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Teams"
             ],
@@ -770,6 +849,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft 365 apps"
             ],
@@ -789,6 +869,7 @@
                 "New feature",
                 "User impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Teams"
             ],
@@ -809,6 +890,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Teams",
                 "Microsoft Viva"
@@ -830,6 +912,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Teams"
             ],
@@ -849,6 +932,7 @@
                 "New feature",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft 365 apps"
             ],
@@ -868,6 +952,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Teams",
                 "Microsoft 365 for the web",
@@ -889,6 +974,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft 365 apps"
             ],
@@ -908,6 +994,7 @@
                 "Feature update",
                 "User impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft 365 apps"
             ],
@@ -927,6 +1014,7 @@
                 "User impact",
                 "Retirement"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Planner"
             ],
@@ -946,6 +1034,7 @@
                 "New feature",
                 "User impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Teams"
             ],
@@ -964,6 +1053,7 @@
                 "New feature",
                 "User impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Teams"
             ],
@@ -981,6 +1071,7 @@
             "tags": [
                 "New feature"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Dynamics 365 Apps"
             ],
@@ -1001,6 +1092,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Defender XDR"
             ],
@@ -1020,6 +1112,7 @@
                 "Feature update",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Purview"
             ],
@@ -1039,6 +1132,7 @@
                 "New feature",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Teams",
                 "Microsoft 365 apps"
@@ -1059,6 +1153,7 @@
                 "New feature",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Teams"
             ],
@@ -1076,6 +1171,7 @@
             "tags": [
                 "New feature"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Dynamics 365 Apps"
             ],
@@ -1095,6 +1191,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Teams"
             ],
@@ -1114,6 +1211,7 @@
                 "Admin impact",
                 "Retirement"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft 365 suite"
             ],
@@ -1133,6 +1231,7 @@
                 "Admin impact",
                 "Retirement"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Entra"
             ],
@@ -1152,6 +1251,7 @@
                 "Admin impact",
                 "Retirement"
             ],
+            "actionRequiredByDateTime": "2026-03-30T07:00:00Z",
             "services": [
                 "Microsoft 365 suite"
             ],
@@ -1170,6 +1270,7 @@
                 "Feature update",
                 "User impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Teams"
             ],
@@ -1189,6 +1290,7 @@
                 "Admin impact",
                 "Retirement"
             ],
+            "actionRequiredByDateTime": "2026-03-14T07:00:00Z",
             "services": [
                 "Microsoft Teams"
             ],
@@ -1207,6 +1309,7 @@
                 "New feature",
                 "User impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Teams"
             ],
@@ -1226,6 +1329,7 @@
                 "New feature",
                 "User impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "SharePoint Online"
             ],
@@ -1245,6 +1349,7 @@
                 "Admin impact",
                 "Retirement"
             ],
+            "actionRequiredByDateTime": "2026-03-16T07:00:00Z",
             "services": [
                 "Microsoft Defender XDR"
             ],
@@ -1264,6 +1369,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Defender XDR"
             ],
@@ -1283,6 +1389,7 @@
                 "New feature",
                 "User impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Teams"
             ],
@@ -1303,6 +1410,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Teams"
             ],
@@ -1323,6 +1431,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Teams"
             ],
@@ -1340,6 +1449,7 @@
             "tags": [
                 "Feature update"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft 365 apps"
             ],
@@ -1360,6 +1470,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft 365 suite"
             ],
@@ -1379,6 +1490,7 @@
                 "Admin impact",
                 "Retirement"
             ],
+            "actionRequiredByDateTime": "2026-07-13T07:00:00Z",
             "services": [
                 "SharePoint Online"
             ],
@@ -1399,6 +1511,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft 365 apps"
             ],
@@ -1419,6 +1532,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft 365 Copilot Chat"
             ],
@@ -1439,6 +1553,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft OneDrive"
             ],
@@ -1459,6 +1574,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Teams"
             ],
@@ -1476,6 +1592,7 @@
             "tags": [
                 "New feature"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Dynamics 365 Apps"
             ],
@@ -1495,6 +1612,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Intune"
             ],
@@ -1514,6 +1632,7 @@
                 "Feature update",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Defender XDR"
             ],
@@ -1534,6 +1653,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Teams",
                 "Microsoft Defender XDR"
@@ -1555,6 +1675,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft 365 apps",
                 "Microsoft Purview"
@@ -1573,6 +1694,7 @@
             "tags": [
                 "New feature"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Dynamics 365 Apps"
             ],
@@ -1591,6 +1713,7 @@
                 "Feature update",
                 "User impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft 365 apps"
             ],
@@ -1610,6 +1733,7 @@
                 "New feature",
                 "User impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft 365 apps",
                 "Microsoft 365 Copilot Chat"
@@ -1631,6 +1755,7 @@
                 "Admin impact",
                 "Retirement"
             ],
+            "actionRequiredByDateTime": "2026-04-30T07:00:00Z",
             "services": [
                 "Microsoft Teams"
             ],
@@ -1650,6 +1775,7 @@
                 "Feature update",
                 "User impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Teams"
             ],
@@ -1667,6 +1793,7 @@
             "tags": [
                 "New feature"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Dynamics 365 Apps"
             ],
@@ -1684,6 +1811,7 @@
             "tags": [
                 "New feature"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Dynamics 365 Apps"
             ],
@@ -1701,6 +1829,7 @@
             "tags": [
                 "New feature"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Dynamics 365 Apps"
             ],
@@ -1718,6 +1847,7 @@
             "tags": [
                 "New feature"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Dynamics 365 Apps"
             ],
@@ -1737,6 +1867,7 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft 365 Copilot Chat"
             ],
@@ -1756,6 +1887,7 @@
                 "Admin impact",
                 "Retirement"
             ],
+            "actionRequiredByDateTime": "2026-04-14T07:00:00Z",
             "services": [
                 "Microsoft 365 apps"
             ],
@@ -1775,6 +1907,7 @@
                 "Admin impact",
                 "Retirement"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Teams"
             ],
@@ -1792,6 +1925,7 @@
             "tags": [
                 "New feature"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Dynamics 365 Apps"
             ],
@@ -1811,6 +1945,7 @@
                 "New feature",
                 "User impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Teams"
             ],
@@ -1831,6 +1966,7 @@
                 "Admin impact",
                 "Retirement"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Teams"
             ],
@@ -1851,51 +1987,13 @@
                 "User impact",
                 "Admin impact"
             ],
+            "actionRequiredByDateTime": null,
             "services": [
                 "Microsoft Teams"
             ],
             "body": {
                 "contentType": "html",
                 "content": "<p>Updated February 11, 2026: We have updated the timeline. Thank you for your patience.&nbsp;</p><p><b>[Introduction]</b></p><p>We are bringing <b>digital signage capabilities</b> to <b>Teams Rooms on Android</b>, similar to what is available for Teams Rooms on Windows. This update allows IT admins to display dynamic content—such as announcements, news, or organizational information—on front‑of‑room displays when the room is not in a meeting. Tenant‑wide and room‑specific configuration is available through the Teams Rooms Pro Management portal. This feature supports select third‑party digital signage partners and is included with the Teams Rooms Pro license.</p><p>This message is associated with Microsoft 365 Roadmap ID <a href=\"https://www.microsoft.com/microsoft-365/roadmap?filters=&amp;searchterms=548647#Roadmap\" target=\"_blank\">548647</a>.</p><p><b>[When this will happen</b></p><ul><li><b>General Availability (Worldwide)</b>: Rolling out in<b>&nbsp;</b>mid-April 2026 (previously early March); expected completion by late April 2026 (previously&nbsp;late March).</li></ul><p><b>[How this affects your organization]</b></p><p><i>Who is affected:</i></p><ul><li>Organizations using<b> Teams Rooms on Android</b>.</li><li>Admins managing devices through the <b>Teams Rooms Pro Management portal</b>.</li><li>Tenants with <b>Teams Rooms Pro licenses</b>.</li></ul><p><i>What will happen</i>:</p><p>Before the rollout, Teams Rooms on Android show a static front‑of‑room display home screen when not in use.</p><p>After the rollout:</p><ul><li>Admins can enable digital signage to display dynamic content when the room is idle:</li><p>&nbsp;<img src=\"https://cxcs.microsoft.net/static/public/messagecenter/neutral/8e1564ea-bc08-41ce-8393-5e1efc98510b/6a79c648517a40a480a6f1811675ccf6c57a0792.png\" style=\"width: 400px;\" alt=\"user settings\"></p><li>Supported signage sources include Appspace, XOGO, and custom web URLs.</li><li>Digital signage is configurable at the tenant level and for individual rooms.</li><li>Users can return to the home screen by tapping the touch console.</li><li>Admins can:<ul><li>Choose whether to show the Teams Rooms banner with room info and calendar preview.</li><li>Configure activation and deactivation timers for signage mode.</li><li>Determine whether signage mode respects or bypasses OS screen‑timeout settings.</li></ul></li><li><b>Custom URL requirements</b>:<ul><li>Must begin with <b>https</b></li><li>Must be publicly accessible with <b>no authentication</b></li><li>Must support viewing within an iframe</li></ul></li><li><b>SharePoint and OneDrive URLs are not supported</b> for custom signage.</li></ul><p>Role-based access:</p><ul><li>Global Admins and Teams Rooms Pro Managers can manage tenant‑wide settings.</li><li>These roles can assign additional permissions using Role-based Access Controls (RBAC) for specific rooms or room groups.</li></ul><p><b>[What you can do to prepare]</b></p><ul><li>Begin planning your digital signage deployment strategy (centralized, localized, or blended).</li><li>Prepare content within supported signage systems.</li><li>After devices update to the minimum required app version:<ul><li>Enable digital signage in the<i> Teams Rooms Pro Management portal</i> by navigating to <b><i>Settings &gt; Digital Signage</i></b>.</li><li>Add signage sources and apply settings to applicable rooms.</li></ul></li><li>Notify helpdesk and affected users of the upcoming capability.</li><li>Update internal documentation and training materials as needed.</li></ul><p>This rollout will occur automatically within the specified rollout window; no administrative action is required before rollout.</p><p>Learn more:&nbsp;<a href=\"https://learn.microsoft.com/MicrosoftTeams/rooms/digital-signage\" target=\"_blank\">Configure digital signage on Teams Rooms | Microsoft Teams | Microsoft Learn</a></p><p><b>[Compliance considerations]\n</b></p><p>No compliance considerations identified. Review as appropriate for your organization.</p><p>\n</p>"
-            }
-        },
-        {
-            "startDateTime": "2026-02-10T23:10:21Z",
-            "endDateTime": "2026-05-15T07:00:00Z",
-            "lastModifiedDateTime": "2026-02-10T23:10:30.667Z",
-            "title": "Microsoft Teams: Voice tethering",
-            "id": "MC1230459",
-            "tags": [
-                "New feature",
-                "User impact",
-                "Admin impact"
-            ],
-            "services": [
-                "Microsoft Teams"
-            ],
-            "body": {
-                "contentType": "html",
-                "content": "<p><b>[Introduction]</b></p><p><b>Voice tethering</b> builds on the recent introduction of <b>Sign Language Mode</b> in <i>Microsoft Teams</i>. When a sign language interpreter voices on behalf of a Deaf or hard‑of‑hearing (D/HH) participant, Teams will now attribute captions, transcripts, and meeting intelligence—such as Copilot notes, summaries, action items, and insights—to the D/HH participant rather than the interpreter. This update ensures accurate representation in meetings, clarifies who is contributing to the conversation, and improves downstream meeting accuracy and accountability.</p><p>This message is associated with Microsoft 365 Roadmap ID <a href=\"https://www.microsoft.com/microsoft-365/roadmap?filters=&amp;searchterms=553223\" target=\"_blank\">553223</a>.</p><p><b>[When this will happen]</b></p><ul><li><b>Targeted Release (Worldwide): </b>We will begin rolling out in <b>mid-March 2026</b> and expect to complete by <b>late March 2026</b>.</li><li><b>General Availability (Worldwide, GCC): </b>We will begin rolling out in <b>early April 2026</b> and expect to complete by <b>mid-April 2026</b>.</li></ul><p><b>[How this affects your organization]</b></p><p><i>Who is affected</i></p><ul><li>Organizations with meeting participants who are Deaf or hard‑of‑hearing and use sign language interpreters in&nbsp;<i>Teams meetings</i>.</li><li>Any users who participate in meetings with <b>Sign Language Mode enabled</b>.</li></ul><p><i>What will happen</i></p><ul><li>Voice contributions made by interpreters will be attributed to the D/HH participant across:<br><ul><li>Live captions</li><li>Meeting transcripts</li><li>Copilot notes, summaries, action items, and insights</li><li>Other Teams meeting intelligence</li></ul></li><li>Meeting data becomes more accurate by ensuring the correct participant is represented.</li><li>Interpreter identity is no longer conflated with the signer they support.</li><li>Sign Language Mode is already available to all users; voice tethering enhances it automatically.</li><li>The feature is <b>on by default </b>when sign language mode and interpreter assignment are used.</li><li>No admin controls are required to enable or manage the feature.</li></ul><p><b>[What you can do to prepare]</b></p><p>No action is required.</p><p>Optional preparation steps:</p><ul><li>Inform D/HH users and interpreters that speech attribution in meetings will change.</li><li>Update internal training or accessibility resources if you document interpreter workflows.</li><li>Notify helpdesk or support teams that captioning and transcript attribution will appear differently for interpreted meetings.</li></ul><p><b>[Compliance considerations]</b></p><p>No compliance considerations identified. Review as appropriate for your organization.</p><p><br></p>"
-            }
-        },
-        {
-            "startDateTime": "2026-02-10T23:05:09Z",
-            "endDateTime": "2026-04-16T07:00:00Z",
-            "lastModifiedDateTime": "2026-02-10T23:06:00.37Z",
-            "title": "Context IQ retirement in the new Outlook and Outlook on the web",
-            "id": "MC1230455",
-            "tags": [
-                "User impact",
-                "Admin impact",
-                "Retirement"
-            ],
-            "services": [
-                "Microsoft 365 for the web",
-                "Microsoft 365 apps"
-            ],
-            "body": {
-                "contentType": "html",
-                "content": "<p><b>[Introduction]</b></p><p>We are <b>retiring Context IQ </b>in the<i> new Outlook</i> and <i>Outlook on the web</i>. This feature currently allows users to insert suggested files and other content by typing the “/” character while composing an email. We are retiring this capability to streamline the compose experience and reduce duplication with other supported attachment and editor workflows.</p><p><b>[When this will happen]</b></p><p>We will retire Context IQ<b> </b>from the new Outlook and Outlook on the web <b>starting March 16, 2026</b>.</p><p><b>[How this affects your organization]</b></p><p><i>Who is affected</i></p><ul><li>Users who compose email in the <i>new Outlook for Windows</i> and <i>Outlook on the web</i> and currently use Context IQ’s “/” suggestions.</li></ul><p><i>What will happen</i></p><ul><li>Context IQ suggestions invoked with “/” during email composition will be <b>removed</b>.</li><li>Users will continue to add files and content using existing methods:<ul><li>Paste a file or URL directly into the message body.</li><li>Drag and drop files into the compose window.</li><li>Use<i><b> Insert &gt; Attach file</b></i>&nbsp;to see suggested files, browse, and attach content.</li></ul></li><li>The<b> Editor feature remains available</b> via the button in the<i> lower-right of the compose area</i> and in the <i>ribbon</i>.</li><li>There is <b>no change</b> to attachment storage, file handling, or Editor capabilities.</li></ul><p><b>[What you can do to prepare]</b></p><p>No admin action is required.</p><p>To prepare for this change, we recommend the following:</p><ul><li>Inform your users about the <b>retirement of Context IQ</b>.</li><li>Update internal training or documentation that references Context IQ or “/” suggestions.</li><li>Share guidance on how to attach files using supported methods:<ul><li>Paste</li><li>Drag and drop</li><li><b><i>Insert &gt; Attach file</i></b></li></ul></li><li>Direct users to these Microsoft Support resources:</li><li style=\"margin-left: 25px;\"><a href=\"https://support.microsoft.com/office/add-pictures-or-attach-files-to-emails-in-outlook-bdfafef5-792a-42b1-9a7b-84512d7de7fc\" target=\"_blank\">Add pictures or attach files to email in Outlook | Microsoft Support</a></li><li style=\"margin-left: 25px;\"><a href=\"https://support.microsoft.com/office/check-spelling-before-sending-a-message-620b24fc-9cc5-4a2f-a26b-9ff4e02cc193\" target=\"_blank\">Check spelling before sending a message | Microsoft Support</a></li></ul><p>If you track feature usage and want to identify which users interact with compose‑related features, you can use usage reporting available in the <i>Microsoft 365 admin center</i> (for example, Outlook usage reports). Dedicated Context IQ usage reporting is not available.</p><p><b>[Compliance considerations]</b></p><p>No compliance considerations identified. Review as appropriate for your organization.</p>"
             }
         }
     ]
