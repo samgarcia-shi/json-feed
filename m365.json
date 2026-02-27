@@ -1,7 +1,7 @@
 {
     "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#admin/serviceAnnouncement/messages(id,title,body,tags,services,actionRequiredByDateTime,startDateTime,endDateTime,lastModifiedDateTime)",
-    "@odata.count": 392,
-    "@odata.nextLink": "https://graph.microsoft.com/v1.0/admin/serviceAnnouncement/messages?$count=true&$orderby=lastModifiedDateTime+desc&$format=json&$filter=tags%2fany(tag%3atag+eq+%27Retirement%27+or+tag+eq+%27New+feature%27+or+tag+eq+%27Feature+update%27)&$select=id%2ctitle%2cbody%2ctags%2cservices%2cactionRequiredByDateTime%2cstartDateTime%2cendDateTime%2clastModifiedDateTime&$skip=100",
+    "@odata.count": 187,
+    "@odata.nextLink": "https://samgarcia-shi.github.io/json-feed/m365-2.json",
     "value": [
         {
             "startDateTime": "2026-02-26T19:33:46Z",
